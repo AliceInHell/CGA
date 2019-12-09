@@ -1,0 +1,3 @@
+C:\Users\Vadzim_Makarchyk\Work\SelfStudy\University\CGA\JustDoIt\Source\JustDoIt\JustDoIt.Build.cs
+C:\Users\Vadzim_Makarchyk\Work\SelfStudy\University\CGA\JustDoIt\Source\JustDoIt.Target.cs
+C:\Users\Vadzim_Makarchyk\Work\SelfStudy\University\CGA\JustDoIt\Source\JustDoItEditor.Target.cs

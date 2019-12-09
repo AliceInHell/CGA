@@ -1,0 +1,860 @@
+﻿Log file open, 12/09/19 20:38:32
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: JustDoIt
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 35 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.069820
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +3:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin EditorScriptingUtilities
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin GLTFImporter
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MeshEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin BlastPlugin
+LogPluginManager: Mounting plugin ChaosSolverPlugin
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin DataPrepEditor
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin GeometryCollectionPlugin
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin ScreenshotTools
+LogPluginManager: Mounting plugin DatasmithC4DImporter
+LogPluginManager: Mounting plugin DatasmithCADImporter
+LogPluginManager: Mounting plugin DatasmithFBXImporter
+LogPluginManager: Mounting plugin DatasmithGLTFImporter
+LogPluginManager: Mounting plugin DatasmithIFCImporter
+LogPluginManager: Mounting plugin DatasmithImporter
+LogPluginManager: Mounting plugin MDLImporter
+LogPluginManager: Mounting plugin StaticMeshEditorExtension
+LogPluginManager: Mounting plugin VariantManager
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.23-CL-9631420
+LogInit: Engine Version: 4.23.1-9631420+++UE4+Release-4.23
+LogInit: Compatible Engine Version: 4.23.0-8386587+++UE4+Release-4.23
+LogInit: Net CL: 8386587
+LogInit: OS: Windows 10 (Release 1809) (), CPU: Intel(R) Core(TM) i7-8700 CPU @ 3.20GHz, GPU: Intel(R) UHD Graphics 630
+LogInit: Compiled (64-bit): Oct 18 2019 02:07:44
+LogInit: Compiled with Visual C++: 19.16.27030.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.23
+LogInit: Command Line:  -EpicPortal -epicusername=Vadim_Makarchik -epicuserid=de31d28a090c4bb9ada4ed616c8da227 -epiclocale=en-US
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.23/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 23
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 3
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 34
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 35
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 31
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 11
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 27
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 6
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 9
+LogInit: Presizing for max 16777216 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2019.12.09-17.38.32:279][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2019.12.09-17.38.32:279][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2019.12.09-17.38.32:279][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/Vadzim_Makarchyk/Work/SelfStudy/University/CGA/JustDoIt/Saved/Config/Windows/Engine.ini]
+[2019.12.09-17.38.32:279][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2019.12.09-17.38.32:279][  0]LogConfig: Setting CVar [[r.DefaultFeature.AutoExposure.ExtendDefaultLuminanceRange:1]]
+[2019.12.09-17.38.32:279][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/Vadzim_Makarchyk/Work/SelfStudy/University/CGA/JustDoIt/Saved/Config/Windows/Engine.ini]
+[2019.12.09-17.38.32:279][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/Vadzim_Makarchyk/Work/SelfStudy/University/CGA/JustDoIt/Saved/Config/Windows/Engine.ini]
+[2019.12.09-17.38.32:279][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2019.12.09-17.38.32:279][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2019.12.09-17.38.32:279][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2019.12.09-17.38.32:279][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2019.12.09-17.38.32:279][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2019.12.09-17.38.32:279][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2019.12.09-17.38.32:279][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2019.12.09-17.38.32:279][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2019.12.09-17.38.32:279][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2019.12.09-17.38.32:279][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2019.12.09-17.38.32:279][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2019.12.09-17.38.32:279][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2019.12.09-17.38.32:279][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2019.12.09-17.38.32:279][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/Vadzim_Makarchyk/Work/SelfStudy/University/CGA/JustDoIt/Saved/Config/Windows/Engine.ini]
+[2019.12.09-17.38.32:279][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2019.12.09-17.38.32:279][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2019.12.09-17.38.32:279][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2019.12.09-17.38.32:279][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2019.12.09-17.38.32:279][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2019.12.09-17.38.32:279][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2019.12.09-17.38.32:279][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:16777216]]
+[2019.12.09-17.38.32:279][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2019.12.09-17.38.32:279][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2019.12.09-17.38.32:279][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2019.12.09-17.38.32:279][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2019.12.09-17.38.32:279][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2019.12.09-17.38.32:279][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2019.12.09-17.38.32:279][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/Vadzim_Makarchyk/Work/SelfStudy/University/CGA/JustDoIt/Saved/Config/Windows/Engine.ini]
+[2019.12.09-17.38.32:279][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/Vadzim_Makarchyk/Work/SelfStudy/University/CGA/JustDoIt/Saved/Config/Windows/Engine.ini]
+[2019.12.09-17.38.32:280][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/Vadzim_Makarchyk/Work/SelfStudy/University/CGA/JustDoIt/Saved/Config/Windows/Scalability.ini]
+[2019.12.09-17.38.32:280][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.12.09-17.38.32:280][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.12.09-17.38.32:280][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/Vadzim_Makarchyk/Work/SelfStudy/University/CGA/JustDoIt/Saved/Config/Windows/Scalability.ini]
+[2019.12.09-17.38.32:280][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.12.09-17.38.32:280][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/Vadzim_Makarchyk/Work/SelfStudy/University/CGA/JustDoIt/Saved/Config/Windows/Scalability.ini]
+[2019.12.09-17.38.32:280][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.12.09-17.38.32:280][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.12.09-17.38.32:280][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.12.09-17.38.32:280][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.12.09-17.38.32:280][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.12.09-17.38.32:280][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.12.09-17.38.32:280][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.12.09-17.38.32:280][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.12.09-17.38.32:280][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.12.09-17.38.32:280][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.12.09-17.38.32:280][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.12.09-17.38.32:280][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.12.09-17.38.32:280][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.12.09-17.38.32:280][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.12.09-17.38.32:280][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.12.09-17.38.32:281][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.12.09-17.38.32:281][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.12.09-17.38.32:281][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.12.09-17.38.32:281][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/Vadzim_Makarchyk/Work/SelfStudy/University/CGA/JustDoIt/Saved/Config/Windows/Scalability.ini]
+[2019.12.09-17.38.32:281][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.12.09-17.38.32:281][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.12.09-17.38.32:281][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.12.09-17.38.32:281][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.12.09-17.38.32:281][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.12.09-17.38.32:281][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.12.09-17.38.32:281][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.12.09-17.38.32:281][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.12.09-17.38.32:281][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.12.09-17.38.32:281][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.12.09-17.38.32:281][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.12.09-17.38.32:281][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.12.09-17.38.32:281][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.12.09-17.38.32:281][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.12.09-17.38.32:281][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.12.09-17.38.32:281][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.12.09-17.38.32:281][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.12.09-17.38.32:281][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.12.09-17.38.32:281][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.12.09-17.38.32:281][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.12.09-17.38.32:281][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.12.09-17.38.32:281][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.12.09-17.38.32:281][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.12.09-17.38.32:281][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.12.09-17.38.32:281][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.12.09-17.38.32:281][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.12.09-17.38.32:281][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.12.09-17.38.32:281][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.12.09-17.38.32:281][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.12.09-17.38.32:281][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.12.09-17.38.32:281][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/Vadzim_Makarchyk/Work/SelfStudy/University/CGA/JustDoIt/Saved/Config/Windows/Scalability.ini]
+[2019.12.09-17.38.32:281][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.12.09-17.38.32:281][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.12.09-17.38.32:281][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.12.09-17.38.32:281][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.12.09-17.38.32:281][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.12.09-17.38.32:281][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.12.09-17.38.32:281][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.12.09-17.38.32:281][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.12.09-17.38.32:281][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/Vadzim_Makarchyk/Work/SelfStudy/University/CGA/JustDoIt/Saved/Config/Windows/Scalability.ini]
+[2019.12.09-17.38.32:281][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.12.09-17.38.32:281][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.12.09-17.38.32:281][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.12.09-17.38.32:281][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.12.09-17.38.32:281][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.12.09-17.38.32:281][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.12.09-17.38.32:281][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.12.09-17.38.32:281][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.12.09-17.38.32:281][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.12.09-17.38.32:281][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.12.09-17.38.32:281][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.12.09-17.38.32:281][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.12.09-17.38.32:281][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.12.09-17.38.32:281][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/Vadzim_Makarchyk/Work/SelfStudy/University/CGA/JustDoIt/Saved/Config/Windows/Scalability.ini]
+[2019.12.09-17.38.32:281][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.12.09-17.38.32:281][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.12.09-17.38.32:281][  0]LogInit: Selected Device Profile: [Windows]
+[2019.12.09-17.38.32:281][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2019.12.09-17.38.32:284][  0]LogHAL: Display: Platform has ~ 16 GB [16881311744 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2019.12.09-17.38.32:284][  0]LogInit: Going up to parent DeviceProfile []
+[2019.12.09-17.38.32:284][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/Vadzim_Makarchyk/Work/SelfStudy/University/CGA/JustDoIt/Saved/Config/Windows/Scalability.ini]
+[2019.12.09-17.38.32:284][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.12.09-17.38.32:284][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.12.09-17.38.32:284][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/Vadzim_Makarchyk/Work/SelfStudy/University/CGA/JustDoIt/Saved/Config/Windows/Scalability.ini]
+[2019.12.09-17.38.32:284][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.12.09-17.38.32:284][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/Vadzim_Makarchyk/Work/SelfStudy/University/CGA/JustDoIt/Saved/Config/Windows/Scalability.ini]
+[2019.12.09-17.38.32:284][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.12.09-17.38.32:284][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.12.09-17.38.32:284][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.12.09-17.38.32:284][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.12.09-17.38.32:284][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.12.09-17.38.32:284][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.12.09-17.38.32:284][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.12.09-17.38.32:284][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.12.09-17.38.32:284][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.12.09-17.38.32:284][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.12.09-17.38.32:284][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.12.09-17.38.32:284][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.12.09-17.38.32:284][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.12.09-17.38.32:284][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.12.09-17.38.32:284][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.12.09-17.38.32:284][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.12.09-17.38.32:284][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.12.09-17.38.32:284][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.12.09-17.38.32:284][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/Vadzim_Makarchyk/Work/SelfStudy/University/CGA/JustDoIt/Saved/Config/Windows/Scalability.ini]
+[2019.12.09-17.38.32:284][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.12.09-17.38.32:284][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.12.09-17.38.32:284][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.12.09-17.38.32:284][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.12.09-17.38.32:284][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.12.09-17.38.32:284][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.12.09-17.38.32:284][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.12.09-17.38.32:284][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.12.09-17.38.32:284][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.12.09-17.38.32:284][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.12.09-17.38.32:284][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.12.09-17.38.32:284][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.12.09-17.38.32:284][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.12.09-17.38.32:284][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.12.09-17.38.32:284][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.12.09-17.38.32:284][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.12.09-17.38.32:284][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.12.09-17.38.32:284][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.12.09-17.38.32:284][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.12.09-17.38.32:284][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.12.09-17.38.32:284][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.12.09-17.38.32:284][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.12.09-17.38.32:284][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.12.09-17.38.32:284][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.12.09-17.38.32:284][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.12.09-17.38.32:284][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.12.09-17.38.32:284][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.12.09-17.38.32:284][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.12.09-17.38.32:284][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.12.09-17.38.32:284][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.12.09-17.38.32:284][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/Vadzim_Makarchyk/Work/SelfStudy/University/CGA/JustDoIt/Saved/Config/Windows/Scalability.ini]
+[2019.12.09-17.38.32:284][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.12.09-17.38.32:284][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.12.09-17.38.32:284][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.12.09-17.38.32:284][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.12.09-17.38.32:284][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.12.09-17.38.32:284][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.12.09-17.38.32:284][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.12.09-17.38.32:285][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.12.09-17.38.32:285][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/Vadzim_Makarchyk/Work/SelfStudy/University/CGA/JustDoIt/Saved/Config/Windows/Scalability.ini]
+[2019.12.09-17.38.32:285][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.12.09-17.38.32:285][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.12.09-17.38.32:285][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.12.09-17.38.32:285][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.12.09-17.38.32:285][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.12.09-17.38.32:285][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.12.09-17.38.32:285][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.12.09-17.38.32:285][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.12.09-17.38.32:285][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.12.09-17.38.32:285][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.12.09-17.38.32:285][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.12.09-17.38.32:285][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.12.09-17.38.32:285][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.12.09-17.38.32:285][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/Vadzim_Makarchyk/Work/SelfStudy/University/CGA/JustDoIt/Saved/Config/Windows/Scalability.ini]
+[2019.12.09-17.38.32:285][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.12.09-17.38.32:285][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.12.09-17.38.32:285][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2019.12.09-17.38.32:285][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2019.12.09-17.38.32:285][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2019.12.09-17.38.32:285][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/Vadzim_Makarchyk/Work/SelfStudy/University/CGA/JustDoIt/Saved/Config/Windows/Engine.ini]
+[2019.12.09-17.38.32:285][  0]LogInit: Computer: EPBYMINW4085
+[2019.12.09-17.38.32:285][  0]LogInit: User: VadzimMakarchyk
+[2019.12.09-17.38.32:285][  0]LogInit: CPU Page size=4096, Cores=6
+[2019.12.09-17.38.32:285][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2019.12.09-17.38.32:285][  0]LogMemory: Memory total: Physical=15.7GB (16GB approx)
+[2019.12.09-17.38.32:285][  0]LogMemory: Platform Memory Stats for Windows
+[2019.12.09-17.38.32:285][  0]LogMemory: Process Physical Memory: 107.42 MB used, 107.43 MB peak
+[2019.12.09-17.38.32:285][  0]LogMemory: Process Virtual Memory: 103.37 MB used, 103.37 MB peak
+[2019.12.09-17.38.32:285][  0]LogMemory: Physical Memory: 9804.91 MB used,  6294.36 MB free, 16099.27 MB total
+[2019.12.09-17.38.32:285][  0]LogMemory: Virtual Memory: 4704.04 MB used,  134213024.00 MB free, 134217728.00 MB total
+[2019.12.09-17.38.32:288][  0]LogWindows: WindowsPlatformFeatures enabled
+[2019.12.09-17.38.32:313][  0]LogInit: Using OS detected language (en-US).
+[2019.12.09-17.38.32:313][  0]LogInit: Using OS detected locale (en-US).
+[2019.12.09-17.38.32:314][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2019.12.09-17.38.32:443][  0]LogInit: Setting process to per monitor DPI aware
+[2019.12.09-17.38.32:477][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2019.12.09-17.38.32:477][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2019.12.09-17.38.32:673][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.12.09-17.38.32:674][  0]LogD3D11RHI: D3D11 adapters:
+[2019.12.09-17.38.32:699][  0]LogD3D11RHI:    0. 'Intel(R) UHD Graphics 630' (Feature Level 11_0)
+[2019.12.09-17.38.32:699][  0]LogD3D11RHI:       128/0/8049 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x8086
+[2019.12.09-17.38.32:702][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2019.12.09-17.38.32:702][  0]LogD3D11RHI:       0/0/8049 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2019.12.09-17.38.32:702][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2019.12.09-17.38.32:710][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2019.12.09-17.38.32:710][  0]LogD3D11RHI:     GPU DeviceId: 0x3e92 (for the marketing name, search the web for "GPU Device Id")
+[2019.12.09-17.38.32:710][  0]LogWindows: EnumDisplayDevices:
+[2019.12.09-17.38.32:710][  0]LogWindows:    0. 'Intel(R) UHD Graphics 630' (P:1 D:1)
+[2019.12.09-17.38.32:710][  0]LogWindows:    1. 'Intel(R) UHD Graphics 630' (P:0 D:0)
+[2019.12.09-17.38.32:710][  0]LogWindows:    2. 'Intel(R) UHD Graphics 630' (P:0 D:0)
+[2019.12.09-17.38.32:710][  0]LogWindows:    3. 'Intel(R) UHD Graphics 630' (P:0 D:0)
+[2019.12.09-17.38.32:710][  0]LogWindows:    4. 'Intel(R) UHD Graphics 630' (P:0 D:0)
+[2019.12.09-17.38.32:710][  0]LogWindows:    5. 'Intel(R) UHD Graphics 630' (P:0 D:0)
+[2019.12.09-17.38.32:710][  0]LogWindows:    6. 'Intel(R) UHD Graphics 630' (P:0 D:0)
+[2019.12.09-17.38.32:710][  0]LogWindows:    7. 'Intel(R) UHD Graphics 630' (P:0 D:0)
+[2019.12.09-17.38.32:710][  0]LogWindows:    8. 'Intel(R) UHD Graphics 630' (P:0 D:0)
+[2019.12.09-17.38.32:711][  0]LogWindows:    9. 'Intel(R) UHD Graphics 630' (P:0 D:0)
+[2019.12.09-17.38.32:711][  0]LogWindows:    10. 'Intel(R) UHD Graphics 630' (P:0 D:0)
+[2019.12.09-17.38.32:711][  0]LogWindows:    11. 'Intel(R) UHD Graphics 630' (P:0 D:0)
+[2019.12.09-17.38.32:711][  0]LogWindows:    12. 'Intel(R) UHD Graphics 630' (P:0 D:0)
+[2019.12.09-17.38.32:711][  0]LogWindows:    13. 'Intel(R) UHD Graphics 630' (P:0 D:0)
+[2019.12.09-17.38.32:711][  0]LogWindows:    14. 'Intel(R) UHD Graphics 630' (P:0 D:0)
+[2019.12.09-17.38.32:711][  0]LogWindows:    15. 'Intel(R) UHD Graphics 630' (P:0 D:0)
+[2019.12.09-17.38.32:711][  0]LogWindows: DebugString: PrimaryDriverLocationFailed PrimaryDriverLocationFailed PrimaryDriverLocationFailed PrimaryDriverLocationFailed PrimaryDriverLocationFailed PrimaryDriverLocationFailed PrimaryDriverLocationFailed PrimaryDriverLocationFailed PrimaryDriverLocationFailed PrimaryDriverLocationFailed PrimaryDriverLocationFailed PrimaryDriverLocationFailed PrimaryDriverLocationFailed PrimaryDriverLocationFailed PrimaryDriverLocationFailed PrimaryDriverLocationFailed FoundDriverCount:0 
+[2019.12.09-17.38.32:711][  0]LogD3D11RHI:     Adapter Name: Intel(R) UHD Graphics 630
+[2019.12.09-17.38.32:711][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2019.12.09-17.38.32:711][  0]LogD3D11RHI:      Driver Date: Unknown
+[2019.12.09-17.38.32:711][  0]LogRHI: Texture pool is 1523 MB (70% of 2176 MB)
+[2019.12.09-17.38.32:733][  0]LogD3D11RHI: Async texture creation enabled
+[2019.12.09-17.38.32:745][  0]LogD3D11RHI: GPU Timing Frequency: 12.000048 (Debug: 2 0)
+[2019.12.09-17.38.33:144][  0]LogTemp: Display: Module 'AllDesktopTargetPlatform' loaded TargetPlatform 'AllDesktop'
+[2019.12.09-17.38.33:152][  0]LogTemp: Display: Module 'MacClientTargetPlatform' loaded TargetPlatform 'MacClient'
+[2019.12.09-17.38.33:160][  0]LogTemp: Display: Module 'MacNoEditorTargetPlatform' loaded TargetPlatform 'MacNoEditor'
+[2019.12.09-17.38.33:167][  0]LogTemp: Display: Module 'MacServerTargetPlatform' loaded TargetPlatform 'MacServer'
+[2019.12.09-17.38.33:176][  0]LogTemp: Display: Module 'MacTargetPlatform' loaded TargetPlatform 'Mac'
+[2019.12.09-17.38.33:184][  0]LogTemp: Display: Module 'WindowsClientTargetPlatform' loaded TargetPlatform 'WindowsClient'
+[2019.12.09-17.38.33:192][  0]LogTemp: Display: Module 'WindowsNoEditorTargetPlatform' loaded TargetPlatform 'WindowsNoEditor'
+[2019.12.09-17.38.33:200][  0]LogTemp: Display: Module 'WindowsServerTargetPlatform' loaded TargetPlatform 'WindowsServer'
+[2019.12.09-17.38.33:205][  0]LogTemp: Display: Module 'WindowsTargetPlatform' loaded TargetPlatform 'Windows'
+[2019.12.09-17.38.33:233][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android'
+[2019.12.09-17.38.33:233][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTC'
+[2019.12.09-17.38.33:233][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATC'
+[2019.12.09-17.38.33:233][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXT'
+[2019.12.09-17.38.33:233][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1'
+[2019.12.09-17.38.33:233][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1a'
+[2019.12.09-17.38.33:233][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2'
+[2019.12.09-17.38.33:233][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTC'
+[2019.12.09-17.38.33:233][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'AndroidClient'
+[2019.12.09-17.38.33:233][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTCClient'
+[2019.12.09-17.38.33:233][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATCClient'
+[2019.12.09-17.38.33:233][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXTClient'
+[2019.12.09-17.38.33:233][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1Client'
+[2019.12.09-17.38.33:233][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1aClient'
+[2019.12.09-17.38.33:233][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2Client'
+[2019.12.09-17.38.33:233][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTCClient'
+[2019.12.09-17.38.33:233][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_Multi'
+[2019.12.09-17.38.33:233][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_MultiClient'
+[2019.12.09-17.38.33:235][  0]LogTemp: Display: Module 'HTML5TargetPlatform' loaded TargetPlatform 'HTML5'
+[2019.12.09-17.38.33:252][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOSClient'
+[2019.12.09-17.38.33:252][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOS'
+[2019.12.09-17.38.33:265][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOSClient'
+[2019.12.09-17.38.33:265][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOS'
+[2019.12.09-17.38.33:273][  0]LogTemp: Display: Module 'LinuxClientTargetPlatform' loaded TargetPlatform 'LinuxClient'
+[2019.12.09-17.38.33:283][  0]LogTemp: Display: Module 'LinuxNoEditorTargetPlatform' loaded TargetPlatform 'LinuxNoEditor'
+[2019.12.09-17.38.33:293][  0]LogTemp: Display: Module 'LinuxServerTargetPlatform' loaded TargetPlatform 'LinuxServer'
+[2019.12.09-17.38.33:301][  0]LogTemp: Display: Module 'LinuxTargetPlatform' loaded TargetPlatform 'Linux'
+[2019.12.09-17.38.33:323][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'Lumin'
+[2019.12.09-17.38.33:323][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'LuminClient'
+[2019.12.09-17.38.33:323][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2019.12.09-17.38.33:333][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2019.12.09-17.38.33:392][  0]LogShaderCompilers: Guid format shader working directory is -22 characters bigger than the processId version (../../../../../../Users/Vadzim_Makarchyk/Work/SelfStudy/University/CGA/JustDoIt/Intermediate/Shaders/WorkingDirectory/8528/).
+[2019.12.09-17.38.33:394][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Vadzim_Makarchyk/AppData/Local/Temp/UnrealShaderWorkingDir/41D2089B4D46623B3F81568D982A8536/'.
+[2019.12.09-17.38.33:397][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2019.12.09-17.38.33:397][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2019.12.09-17.38.33:397][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2019.12.09-17.38.33:922][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2019.12.09-17.38.33:964][  0]LogDerivedDataCache: Loaded boot cache 0.04s 73MB C:/Users/Vadzim_Makarchyk/AppData/Local/UnrealEngine/4.23/DerivedDataCache/Boot.ddc.
+[2019.12.09-17.38.33:964][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Vadzim_Makarchyk/AppData/Local/UnrealEngine/4.23/DerivedDataCache/Boot.ddc
+[2019.12.09-17.38.33:964][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/Vadzim_Makarchyk/Work/SelfStudy/University/CGA/JustDoIt/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2019.12.09-17.38.33:965][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2019.12.09-17.38.33:965][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/Vadzim_Makarchyk/Work/SelfStudy/University/CGA/JustDoIt/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.12.09-17.38.33:965][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2019.12.09-17.38.33:974][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2019.12.09-17.38.33:975][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Enterprise/DerivedDataCache/Compressed.ddp.
+[2019.12.09-17.38.33:979][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Vadzim_Makarchyk/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2019.12.09-17.38.33:979][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2019.12.09-17.38.33:979][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2019.12.09-17.38.33:995][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2019.12.09-17.38.33:997][  0]LogSlate: Using FreeType 2.6.0
+[2019.12.09-17.38.33:998][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2019.12.09-17.38.34:063][  0]LogAssetRegistry: FAssetRegistry took 0.0023 seconds to start up
+[2019.12.09-17.38.34:284][  0]LogInit: Selected Device Profile: [Windows]
+[2019.12.09-17.38.34:416][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2019.12.09-17.38.34:416][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2019.12.09-17.38.34:416][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2019.12.09-17.38.34:416][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2019.12.09-17.38.34:416][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2019.12.09-17.38.34:426][  0]LogNetVersion: JustDoIt 1.0.0, NetCL: 8386587, EngineNetVer: 11, GameNetVer: 0 (Checksum: 2198397873)
+[2019.12.09-17.38.34:831][  0]LogPackageLocalizationCache: Processed 18 localized package path(s) for 1 prioritized culture(s) in 0.082734 seconds
+[2019.12.09-17.38.34:836][  0]LogUObjectArray: 43444 objects as part of root set at end of initial load.
+[2019.12.09-17.38.34:836][  0]LogUObjectAllocator: 7548648 out of 0 bytes used by permanent object pool.
+[2019.12.09-17.38.34:836][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2019.12.09-17.38.35:758][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2019.12.09-17.38.35:761][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2019.12.09-17.38.35:853][  0]SourceControl: Source control is disabled
+[2019.12.09-17.38.35:853][  0]SourceControl: Source control is disabled
+[2019.12.09-17.38.35:855][  0]SourceControl: Source control is disabled
+[2019.12.09-17.38.35:856][  0]SourceControl: Source control is disabled
+[2019.12.09-17.38.36:203][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2019.12.09-17.38.36:355][  0]LogOcInput: OculusInput pre-init called
+[2019.12.09-17.38.36:362][  0]LogWindows: Failed to load 'OVRPlugin.dll' (GetLastError=126)
+[2019.12.09-17.38.36:362][  0]LogWindows: File 'OVRPlugin.dll' does not exist
+[2019.12.09-17.38.40:326][  0]LogEngine: Initializing Engine...
+[2019.12.09-17.38.40:327][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.12.09-17.38.40:328][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2019.12.09-17.38.40:511][  0]LogInit: Initializing FReadOnlyCVARCache
+[2019.12.09-17.38.40:524][  0]LogAIModule: Creating AISystem for world Untitled
+[2019.12.09-17.38.40:723][  0]LogInit: XAudio2 using 'Remote Audio' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2019.12.09-17.38.40:827][  0]LogInit: FAudioDevice initialized.
+[2019.12.09-17.38.40:827][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2019.12.09-17.38.40:876][  0]LogDerivedDataCache: Saved boot cache 0.05s 74MB C:/Users/Vadzim_Makarchyk/AppData/Local/UnrealEngine/4.23/DerivedDataCache/Boot.ddc.
+[2019.12.09-17.38.40:878][  0]LogInit: Texture streaming: Enabled
+[2019.12.09-17.38.40:897][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2019.12.09-17.38.40:897][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2019.12.09-17.38.40:901][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2019.12.09-17.38.40:957][  0]LogInit: Transaction tracking system initialized
+[2019.12.09-17.38.40:987][  0]BlueprintLog: New page: Editor Load
+[2019.12.09-17.38.41:062][  0]LocalizationService: Localization service is disabled
+[2019.12.09-17.38.41:291][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Vadzim_Makarchyk/Work/SelfStudy/University/CGA/JustDoIt/Content/' took 0.01s
+[2019.12.09-17.38.41:291][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2019.12.09-17.38.41:291][  0]LogCook: Display: Mobile HDR setting 1
+[2019.12.09-17.38.43:041][  0]SourceControl: Source control is disabled
+[2019.12.09-17.38.43:041][  0]Cmd: MAP LOAD FILE="../../../../../../Users/Vadzim_Makarchyk/Work/SelfStudy/University/CGA/JustDoIt/Content/StarterContent/Maps/Minimal_Default.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.12.09-17.38.43:041][  0]LightingResults: New page: Lighting Build
+[2019.12.09-17.38.43:044][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2019.12.09-17.38.43:044][  0]MapCheck: New page: Map Check
+[2019.12.09-17.38.43:044][  0]LightingResults: New page: Lighting Build
+[2019.12.09-17.38.43:069][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.54ms
+[2019.12.09-17.38.43:160][  0]LogBlueprint: Error: [Compiler MainCharacter] Cannot construct objects of type '/Game/ClassDefaults/PickupableBlock.PickupableBlock_C' in  Construct Object from Class
+[2019.12.09-17.38.43:331][  0]LogAIModule: Creating AISystem for world Minimal_Default
+[2019.12.09-17.38.43:409][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.12.09-17.38.43:445][  0]LogUObjectHash: Compacting FUObjectHashTables data took   2.32ms
+[2019.12.09-17.38.43:446][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.12.09-17.38.43:446][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.257ms to complete.
+[2019.12.09-17.38.43:446][  0]LogFileHelpers: Loading map 'Minimal_Default' took 0.405
+[2019.12.09-17.38.43:588][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.09-17.38.43:595][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.09-17.38.43:602][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.09-17.38.43:608][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.09-17.38.43:636][  0]LogCollectionManager: Loaded 0 collections in 0.001791 seconds
+[2019.12.09-17.38.43:647][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Vadzim_Makarchyk/Work/SelfStudy/University/CGA/JustDoIt/Saved/Collections/' took 0.00s
+[2019.12.09-17.38.43:647][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Vadzim_Makarchyk/Work/SelfStudy/University/CGA/JustDoIt/Content/Developers/VadzimMakarchyk/Collections/' took 0.00s
+[2019.12.09-17.38.43:647][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Vadzim_Makarchyk/Work/SelfStudy/University/CGA/JustDoIt/Content/Collections/' took 0.00s
+[2019.12.09-17.38.43:647][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000001 seconds
+[2019.12.09-17.38.43:655][  0]LogContentBrowser: Native class hierarchy populated in 0.0085 seconds. Added 3045 classes and 765 folders.
+[2019.12.09-17.38.43:664][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2019.12.09-17.38.43:809][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2019.12.09-17.38.43:818][  0]LogSlate: Took 0.000251 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2019.12.09-17.38.43:821][  0]LogSlate: Took 0.000203 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2019.12.09-17.38.43:823][  0]LogSlate: Took 0.000630 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2019.12.09-17.38.43:909][  0]LogRenderer: Reallocating scene render targets to support 1048x612 Format 10 NumSamples 1 (Frame:1).
+[2019.12.09-17.38.44:304][  0]LogSlate: Took 0.001129 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.12.09-17.38.44:371][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2019.12.09-17.38.44:371][  0]LogLoad: (Engine Initialization) Total time: 13.71 seconds
+[2019.12.09-17.38.44:371][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2019.12.09-17.38.44:424][  0]LogAssetRegistry: Asset discovery search completed in 10.3614 seconds
+[2019.12.09-17.38.44:427][  0]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000004 seconds (found 0 objects)
+[2019.12.09-17.38.44:427][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000042 seconds (updated 0 objects)
+[2019.12.09-17.38.44:427][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2019.12.09-17.38.45:392][ 75]LogSlate: Took 0.000237 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.12.09-17.38.48:512][448]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.09-17.38.49:036][511]LogTemp: Repeating last play command: Selected Viewport
+[2019.12.09-17.38.49:046][511]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2019.12.09-17.38.49:046][511]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.12.09-17.38.49:046][511]BlueprintLog: Warning: Blueprint failed to compile:  MainCharacter
+[2019.12.09-17.38.49:046][511]LogCustomDialog: Dialog displayed:
+[2019.12.09-17.38.52:356][511]LogSlate: Window 'Blueprint Compilation Errors' being destroyed
+[2019.12.09-17.38.54:421][757]LogSlate: Window 'Message Log' being destroyed
+[2019.12.09-17.38.54:430][757]LogSlate: Window 'Message Log' being destroyed
+[2019.12.09-17.38.55:959][940]LogLinker: Warning: Failed to load '/Game/CustomPawn.CustomPawn': Can't find file.
+[2019.12.09-17.38.55:968][940]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/ClassDefaults/PickupableBlock.PickupableBlock
+[2019.12.09-17.38.56:153][940]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0004 seconds. Added 121 classes and 0 folders.
+[2019.12.09-17.38.56:834][940]LogSlate: Took 0.001107 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2019.12.09-17.39.09:008][377]LogSlate: Took 0.003187 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2019.12.09-17.39.27:726][609]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/MainCharacter.MainCharacter
+[2019.12.09-17.39.31:885][ 27]LogSlate: Window 'MainCharacter' being destroyed
+[2019.12.09-17.39.44:402][511]LogEditorSessionSummary: EditorSessionSummary sent report. Type=Shutdown, SessionId={6254DFCE-4C33-CFCB-4901-CAAA51567E3A}
+[2019.12.09-17.39.44:402][511]LogEditorSessionSummary: EditorSessionSummary sent report. Type=Shutdown, SessionId={9BD708FD-4094-EDD5-BC16-0F9F5A50BBDC}
+[2019.12.09-17.39.44:402][511]LogEditorSessionSummary: EditorSessionSummary sent report. Type=Shutdown, SessionId={A300D243-42F8-167E-E891-A5BE9E33712A}
+[2019.12.09-17.39.44:402][511]LogEditorSessionSummary: EditorSessionSummary sent report. Type=Shutdown, SessionId={12E7B937-4EC4-E8EC-11E8-8AAD659F5264}
+[2019.12.09-17.39.44:402][511]LogEditorSessionSummary: EditorSessionSummary sent report. Type=Shutdown, SessionId={0FAC79C6-469F-8FB3-4983-B8A4B3DBBA86}
+[2019.12.09-17.40.08:607][374]LogEditorTransaction: Undo Add Node
+[2019.12.09-17.40.08:609][374]LogSlate: New Slate User Created.  User Index 8, Is Virtual User: 1
+[2019.12.09-17.40.08:609][374]LogSlate: Slate User Registered.  User Index 8, Is Virtual User: 1
+[2019.12.09-17.41.44:384][716]LogEditorSessionSummary: EditorSessionSummary sent report. Type=Shutdown, SessionId={6D3A7645-4066-33D9-393E-C5A453C1ADB9}
+[2019.12.09-17.42.28:375][952]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MainCharacter" FILE="../../../../../../Users/Vadzim_Makarchyk/Work/SelfStudy/University/CGA/JustDoIt/Content/MainCharacter.uasset" SILENT=true
+[2019.12.09-17.42.28:478][952]LogSavePackage: Moving '../../../../../../Users/Vadzim_Makarchyk/Work/SelfStudy/University/CGA/JustDoIt/Saved/MainCharacter462CA9C94FE6A6FFAA38E2BC65D1400E.tmp' to '../../../../../../Users/Vadzim_Makarchyk/Work/SelfStudy/University/CGA/JustDoIt/Content/MainCharacter.uasset'
+[2019.12.09-17.43.13:676][335]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MainCharacter" FILE="../../../../../../Users/Vadzim_Makarchyk/Work/SelfStudy/University/CGA/JustDoIt/Content/MainCharacter.uasset" SILENT=true
+[2019.12.09-17.43.13:777][335]LogSavePackage: Moving '../../../../../../Users/Vadzim_Makarchyk/Work/SelfStudy/University/CGA/JustDoIt/Saved/MainCharacterAE88D8D14FDDED23FDD715A52EF0FBC9.tmp' to '../../../../../../Users/Vadzim_Makarchyk/Work/SelfStudy/University/CGA/JustDoIt/Content/MainCharacter.uasset'
+[2019.12.09-17.43.14:771][452]BlueprintLog: New page: Compile MainCharacter
+[2019.12.09-17.43.14:802][452]LogBlueprint: Error: [Compiler MainCharacter] Spawn node  SpawnActor NONE  must have a  Class  specified.
+[2019.12.09-17.43.14:975][452]LogSlate: Slate User Unregistered.  User Index 8
+[2019.12.09-17.43.14:975][452]LogSlate: Slate User Destroyed.  User Index 8, Is Virtual User: 1
+[2019.12.09-17.43.14:978][452]LogUObjectHash: Compacting FUObjectHashTables data took   3.08ms
+[2019.12.09-17.43.25:013][633]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MainCharacter" FILE="../../../../../../Users/Vadzim_Makarchyk/Work/SelfStudy/University/CGA/JustDoIt/Content/MainCharacter.uasset" SILENT=true
+[2019.12.09-17.43.25:108][633]LogSavePackage: Moving '../../../../../../Users/Vadzim_Makarchyk/Work/SelfStudy/University/CGA/JustDoIt/Saved/MainCharacter9D26403144D16D988CF96483362EF814.tmp' to '../../../../../../Users/Vadzim_Makarchyk/Work/SelfStudy/University/CGA/JustDoIt/Content/MainCharacter.uasset'
+[2019.12.09-17.43.31:024][335]BlueprintLog: New page: Compile MainCharacter
+[2019.12.09-17.43.31:051][335]LogSlate: New Slate User Created.  User Index 8, Is Virtual User: 1
+[2019.12.09-17.43.31:051][335]LogSlate: Slate User Registered.  User Index 8, Is Virtual User: 1
+[2019.12.09-17.43.31:201][335]LogUObjectHash: Compacting FUObjectHashTables data took   2.91ms
+[2019.12.09-17.43.33:232][569]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MainCharacter" FILE="../../../../../../Users/Vadzim_Makarchyk/Work/SelfStudy/University/CGA/JustDoIt/Content/MainCharacter.uasset" SILENT=true
+[2019.12.09-17.43.33:328][569]LogSavePackage: Moving '../../../../../../Users/Vadzim_Makarchyk/Work/SelfStudy/University/CGA/JustDoIt/Saved/MainCharacter20611FA9488CB9B2FF863A93C85C7127.tmp' to '../../../../../../Users/Vadzim_Makarchyk/Work/SelfStudy/University/CGA/JustDoIt/Content/MainCharacter.uasset'
+[2019.12.09-17.43.43:112][625]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Buildable/Ground.Ground
+[2019.12.09-17.43.44:644][772]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2019.12.09-17.43.54:778][720]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/ClassDefaults/BuildableBlock.BuildableBlock
+[2019.12.09-17.44.12:569][811]LogSavePackage: Moving '../../../../../../Users/Vadzim_Makarchyk/Work/SelfStudy/University/CGA/JustDoIt/Saved/BuildableBlock25A647BD4101A28639025E81337C3BEA.tmp' to '../../../../../../Users/Vadzim_Makarchyk/Work/SelfStudy/University/CGA/JustDoIt/Content/ClassDefaults/BuildableBlock.uasset'
+[2019.12.09-17.44.14:951][ 84]LogSavePackage: Moving '../../../../../../Users/Vadzim_Makarchyk/Work/SelfStudy/University/CGA/JustDoIt/Saved/BuildableBlockD0AD656E4899D827DD614E9053C2496F.tmp' to '../../../../../../Users/Vadzim_Makarchyk/Work/SelfStudy/University/CGA/JustDoIt/Content/ClassDefaults/BuildableBlock.uasset'
+[2019.12.09-17.44.16:682][290]LogTemp: Repeating last play command: Selected Viewport
+[2019.12.09-17.44.16:697][290]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2019.12.09-17.44.16:697][290]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.12.09-17.44.16:705][290]PIE: New page: PIE session: Minimal_Default (Dec 9, 2019, 11:44:16 PM)
+[2019.12.09-17.44.16:707][290]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2019.12.09-17.44.16:708][290]LogPlayLevel: Creating play world package: /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2019.12.09-17.44.16:743][290]LogPlayLevel: PIE: StaticDuplicateObject took: (0.035033s)
+[2019.12.09-17.44.16:744][290]LogAIModule: Creating AISystem for world Minimal_Default
+[2019.12.09-17.44.16:744][290]LogPlayLevel: PIE: World Init took: (0.000940s)
+[2019.12.09-17.44.16:744][290]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Maps/Minimal_Default.Minimal_Default to /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default (0.036214s)
+[2019.12.09-17.44.16:777][290]LogUObjectHash: Compacting FUObjectHashTables data took   3.09ms
+[2019.12.09-17.44.16:779][290]LogInit: XAudio2 using 'Remote Audio' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2019.12.09-17.44.16:803][290]LogInit: FAudioDevice initialized.
+[2019.12.09-17.44.16:827][290]LogLoad: Game class is 'CustomGM_C'
+[2019.12.09-17.44.16:831][290]LogWorld: Bringing World /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default up for play (max tick rate 0) at 2019.12.09-20.44.16
+[2019.12.09-17.44.16:831][290]LogWorld: Bringing up level for play took: 0.002745
+[2019.12.09-17.44.16:831][290]LogOnline: OSS: Creating online subsystem instance for: :Context_6
+[2019.12.09-17.44.16:841][290]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0003 seconds. Added 20 classes and 0 folders.
+[2019.12.09-17.44.16:843][290]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_Map_Keys_Keys' of length 0 in '/Game/MainCharacter.MainCharacter_C:ExecuteUbergraph_MainCharacter'!
+[2019.12.09-17.44.16:844][290]PIE: Play in editor start time for /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default -0.335
+[2019.12.09-17.44.16:844][290]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2019.12.09-17.44.23:508][508]LogScript: Warning: Script Msg: Attempted to access index 1 from array 'CallFunc_Map_Keys_Keys_1' of length 1 in '/Game/MainCharacter.MainCharacter_C:ExecuteUbergraph_MainCharacter'!
+[2019.12.09-17.44.23:510][508]LogScript: Warning: UGameplayStatics::BeginSpawningActorFromClass: can not spawn an actor from a NULL class
+[2019.12.09-17.44.23:510][508]LogScript: Warning: Accessed None trying to read property CallFunc_FinishSpawningActor_ReturnValue
+	MainCharacter_C /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default:PersistentLevel.MainCharacter_C_0
+	Function /Game/MainCharacter.MainCharacter_C:ExecuteUbergraph_MainCharacter:0E55
+[2019.12.09-17.44.23:511][508]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_FinishSpawningActor_ReturnValue". Blueprint:  MainCharacter Function:  Execute Ubergraph Main Character Graph:  EventGraph Node:  DestroyActor
+[2019.12.09-17.44.24:063][528]LogScript: Warning: Script Msg: Attempted to access index 1 from array 'CallFunc_Map_Keys_Keys_1' of length 1 in '/Game/MainCharacter.MainCharacter_C:ExecuteUbergraph_MainCharacter'!
+[2019.12.09-17.44.24:063][528]LogScript: Warning: UGameplayStatics::BeginSpawningActorFromClass: can not spawn an actor from a NULL class
+[2019.12.09-17.44.24:063][528]LogScript: Warning: Accessed None trying to read property CallFunc_FinishSpawningActor_ReturnValue
+	MainCharacter_C /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default:PersistentLevel.MainCharacter_C_0
+	Function /Game/MainCharacter.MainCharacter_C:ExecuteUbergraph_MainCharacter:0E55
+[2019.12.09-17.44.24:063][528]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_FinishSpawningActor_ReturnValue". Blueprint:  MainCharacter Function:  Execute Ubergraph Main Character Graph:  EventGraph Node:  DestroyActor
+[2019.12.09-17.44.24:437][541]LogScript: Warning: Script Msg: Attempted to access index 1 from array 'CallFunc_Map_Keys_Keys_1' of length 1 in '/Game/MainCharacter.MainCharacter_C:ExecuteUbergraph_MainCharacter'!
+[2019.12.09-17.44.24:437][541]LogScript: Warning: UGameplayStatics::BeginSpawningActorFromClass: can not spawn an actor from a NULL class
+[2019.12.09-17.44.24:437][541]LogScript: Warning: Accessed None trying to read property CallFunc_FinishSpawningActor_ReturnValue
+	MainCharacter_C /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default:PersistentLevel.MainCharacter_C_0
+	Function /Game/MainCharacter.MainCharacter_C:ExecuteUbergraph_MainCharacter:0E55
+[2019.12.09-17.44.24:437][541]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_FinishSpawningActor_ReturnValue". Blueprint:  MainCharacter Function:  Execute Ubergraph Main Character Graph:  EventGraph Node:  DestroyActor
+[2019.12.09-17.44.24:691][550]LogScript: Warning: Script Msg: Attempted to access index 1 from array 'CallFunc_Map_Keys_Keys_1' of length 1 in '/Game/MainCharacter.MainCharacter_C:ExecuteUbergraph_MainCharacter'!
+[2019.12.09-17.44.24:691][550]LogScript: Warning: UGameplayStatics::BeginSpawningActorFromClass: can not spawn an actor from a NULL class
+[2019.12.09-17.44.24:691][550]LogScript: Warning: Accessed None trying to read property CallFunc_FinishSpawningActor_ReturnValue
+	MainCharacter_C /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default:PersistentLevel.MainCharacter_C_0
+	Function /Game/MainCharacter.MainCharacter_C:ExecuteUbergraph_MainCharacter:0E55
+[2019.12.09-17.44.24:691][550]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_FinishSpawningActor_ReturnValue". Blueprint:  MainCharacter Function:  Execute Ubergraph Main Character Graph:  EventGraph Node:  DestroyActor
+[2019.12.09-17.44.24:857][556]LogScript: Warning: Script Msg: Attempted to access index 1 from array 'CallFunc_Map_Keys_Keys_1' of length 1 in '/Game/MainCharacter.MainCharacter_C:ExecuteUbergraph_MainCharacter'!
+[2019.12.09-17.44.24:857][556]LogScript: Warning: UGameplayStatics::BeginSpawningActorFromClass: can not spawn an actor from a NULL class
+[2019.12.09-17.44.24:857][556]LogScript: Warning: Accessed None trying to read property CallFunc_FinishSpawningActor_ReturnValue
+	MainCharacter_C /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default:PersistentLevel.MainCharacter_C_0
+	Function /Game/MainCharacter.MainCharacter_C:ExecuteUbergraph_MainCharacter:0E55
+[2019.12.09-17.44.24:857][556]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_FinishSpawningActor_ReturnValue". Blueprint:  MainCharacter Function:  Execute Ubergraph Main Character Graph:  EventGraph Node:  DestroyActor
+[2019.12.09-17.44.25:431][576]LogScript: Warning: Script Msg: Attempted to access index 1 from array 'CallFunc_Map_Keys_Keys_1' of length 1 in '/Game/MainCharacter.MainCharacter_C:ExecuteUbergraph_MainCharacter'!
+[2019.12.09-17.44.25:431][576]LogScript: Warning: UGameplayStatics::BeginSpawningActorFromClass: can not spawn an actor from a NULL class
+[2019.12.09-17.44.25:431][576]LogScript: Warning: Accessed None trying to read property CallFunc_FinishSpawningActor_ReturnValue
+	MainCharacter_C /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default:PersistentLevel.MainCharacter_C_0
+	Function /Game/MainCharacter.MainCharacter_C:ExecuteUbergraph_MainCharacter:0E55
+[2019.12.09-17.44.25:431][576]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_FinishSpawningActor_ReturnValue". Blueprint:  MainCharacter Function:  Execute Ubergraph Main Character Graph:  EventGraph Node:  DestroyActor
+[2019.12.09-17.44.25:734][587]LogScript: Warning: Script Msg: Attempted to access index 1 from array 'CallFunc_Map_Keys_Keys_1' of length 1 in '/Game/MainCharacter.MainCharacter_C:ExecuteUbergraph_MainCharacter'!
+[2019.12.09-17.44.25:735][587]LogScript: Warning: UGameplayStatics::BeginSpawningActorFromClass: can not spawn an actor from a NULL class
+[2019.12.09-17.44.25:735][587]LogScript: Warning: Accessed None trying to read property CallFunc_FinishSpawningActor_ReturnValue
+	MainCharacter_C /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default:PersistentLevel.MainCharacter_C_0
+	Function /Game/MainCharacter.MainCharacter_C:ExecuteUbergraph_MainCharacter:0E55
+[2019.12.09-17.44.25:735][587]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_FinishSpawningActor_ReturnValue". Blueprint:  MainCharacter Function:  Execute Ubergraph Main Character Graph:  EventGraph Node:  DestroyActor
+[2019.12.09-17.44.26:264][605]LogScript: Warning: Script Msg: Attempted to access index 1 from array 'CallFunc_Map_Keys_Keys_1' of length 1 in '/Game/MainCharacter.MainCharacter_C:ExecuteUbergraph_MainCharacter'!
+[2019.12.09-17.44.26:264][605]LogScript: Warning: UGameplayStatics::BeginSpawningActorFromClass: can not spawn an actor from a NULL class
+[2019.12.09-17.44.26:264][605]LogScript: Warning: Accessed None trying to read property CallFunc_FinishSpawningActor_ReturnValue
+	MainCharacter_C /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default:PersistentLevel.MainCharacter_C_0
+	Function /Game/MainCharacter.MainCharacter_C:ExecuteUbergraph_MainCharacter:0E55
+[2019.12.09-17.44.26:264][605]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_FinishSpawningActor_ReturnValue". Blueprint:  MainCharacter Function:  Execute Ubergraph Main Character Graph:  EventGraph Node:  DestroyActor
+[2019.12.09-17.44.26:559][615]LogScript: Warning: Script Msg: Attempted to access index 1 from array 'CallFunc_Map_Keys_Keys_1' of length 1 in '/Game/MainCharacter.MainCharacter_C:ExecuteUbergraph_MainCharacter'!
+[2019.12.09-17.44.26:559][615]LogScript: Warning: UGameplayStatics::BeginSpawningActorFromClass: can not spawn an actor from a NULL class
+[2019.12.09-17.44.26:559][615]LogScript: Warning: Accessed None trying to read property CallFunc_FinishSpawningActor_ReturnValue
+	MainCharacter_C /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default:PersistentLevel.MainCharacter_C_0
+	Function /Game/MainCharacter.MainCharacter_C:ExecuteUbergraph_MainCharacter:0E55
+[2019.12.09-17.44.26:559][615]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_FinishSpawningActor_ReturnValue". Blueprint:  MainCharacter Function:  Execute Ubergraph Main Character Graph:  EventGraph Node:  DestroyActor
+[2019.12.09-17.44.26:856][625]LogScript: Warning: Script Msg: Attempted to access index 1 from array 'CallFunc_Map_Keys_Keys_1' of length 1 in '/Game/MainCharacter.MainCharacter_C:ExecuteUbergraph_MainCharacter'!
+[2019.12.09-17.44.26:856][625]LogScript: Warning: UGameplayStatics::BeginSpawningActorFromClass: can not spawn an actor from a NULL class
+[2019.12.09-17.44.26:856][625]LogScript: Warning: Accessed None trying to read property CallFunc_FinishSpawningActor_ReturnValue
+	MainCharacter_C /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default:PersistentLevel.MainCharacter_C_0
+	Function /Game/MainCharacter.MainCharacter_C:ExecuteUbergraph_MainCharacter:0E55
+[2019.12.09-17.44.26:856][625]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_FinishSpawningActor_ReturnValue". Blueprint:  MainCharacter Function:  Execute Ubergraph Main Character Graph:  EventGraph Node:  DestroyActor
+[2019.12.09-17.44.27:872][659]LogScript: Warning: Script Msg: Attempted to access index 1 from array 'CallFunc_Map_Keys_Keys_1' of length 1 in '/Game/MainCharacter.MainCharacter_C:ExecuteUbergraph_MainCharacter'!
+[2019.12.09-17.44.27:872][659]LogScript: Warning: UGameplayStatics::BeginSpawningActorFromClass: can not spawn an actor from a NULL class
+[2019.12.09-17.44.27:872][659]LogScript: Warning: Accessed None trying to read property CallFunc_FinishSpawningActor_ReturnValue
+	MainCharacter_C /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default:PersistentLevel.MainCharacter_C_0
+	Function /Game/MainCharacter.MainCharacter_C:ExecuteUbergraph_MainCharacter:0E55
+[2019.12.09-17.44.27:873][659]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_FinishSpawningActor_ReturnValue". Blueprint:  MainCharacter Function:  Execute Ubergraph Main Character Graph:  EventGraph Node:  DestroyActor
+[2019.12.09-17.44.28:203][670]LogScript: Warning: Script Msg: Attempted to access index 1 from array 'CallFunc_Map_Keys_Keys_1' of length 1 in '/Game/MainCharacter.MainCharacter_C:ExecuteUbergraph_MainCharacter'!
+[2019.12.09-17.44.28:203][670]LogScript: Warning: UGameplayStatics::BeginSpawningActorFromClass: can not spawn an actor from a NULL class
+[2019.12.09-17.44.28:203][670]LogScript: Warning: Accessed None trying to read property CallFunc_FinishSpawningActor_ReturnValue
+	MainCharacter_C /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default:PersistentLevel.MainCharacter_C_0
+	Function /Game/MainCharacter.MainCharacter_C:ExecuteUbergraph_MainCharacter:0E55
+[2019.12.09-17.44.28:203][670]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_FinishSpawningActor_ReturnValue". Blueprint:  MainCharacter Function:  Execute Ubergraph Main Character Graph:  EventGraph Node:  DestroyActor
+[2019.12.09-17.44.28:412][677]LogScript: Warning: Script Msg: Attempted to access index 1 from array 'CallFunc_Map_Keys_Keys_1' of length 1 in '/Game/MainCharacter.MainCharacter_C:ExecuteUbergraph_MainCharacter'!
+[2019.12.09-17.44.28:412][677]LogScript: Warning: UGameplayStatics::BeginSpawningActorFromClass: can not spawn an actor from a NULL class
+[2019.12.09-17.44.28:412][677]LogScript: Warning: Accessed None trying to read property CallFunc_FinishSpawningActor_ReturnValue
+	MainCharacter_C /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default:PersistentLevel.MainCharacter_C_0
+	Function /Game/MainCharacter.MainCharacter_C:ExecuteUbergraph_MainCharacter:0E55
+[2019.12.09-17.44.28:412][677]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_FinishSpawningActor_ReturnValue". Blueprint:  MainCharacter Function:  Execute Ubergraph Main Character Graph:  EventGraph Node:  DestroyActor
+[2019.12.09-17.44.28:800][690]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2019.12.09-17.44.28:800][690]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.09-17.44.28:800][690]LogWorld: BeginTearingDown for /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2019.12.09-17.44.28:800][690]LogWorld: UWorld::CleanupWorld for Minimal_Default, bSessionEnded=true, bCleanupResources=true
+[2019.12.09-17.44.28:886][690]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.12.09-17.44.28:886][690]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2019.12.09-17.44.28:934][690]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.09-17.44.28:955][690]LogUObjectHash: Compacting FUObjectHashTables data took   3.49ms
+[2019.12.09-17.44.28:964][690]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.12.09-17.44.29:035][691]LogPlayLevel: Display: Destroying online subsystem :Context_6
+[2019.12.09-17.44.44:396][522]LogEditorSessionSummary: EditorSessionSummary sent report. Type=Shutdown, SessionId={931B311A-440F-8C46-00D7-49A15241E728}
+[2019.12.09-17.44.44:450][529]LogSlate: Window 'Message Log' being destroyed
+[2019.12.09-17.44.44:455][529]LogSlate: Window 'Message Log' being destroyed
+[2019.12.09-17.44.53:250][583]BlueprintLog: New page: Compile MainCharacter
+[2019.12.09-17.44.53:466][583]LogUObjectHash: Compacting FUObjectHashTables data took   3.45ms
+[2019.12.09-17.44.55:307][788]LogTemp: Repeating last play command: Selected Viewport
+[2019.12.09-17.44.55:322][788]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2019.12.09-17.44.55:322][788]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.12.09-17.44.55:322][788]PIE: New page: PIE session: Minimal_Default (Dec 9, 2019, 11:44:55 PM)
+[2019.12.09-17.44.55:323][788]LogPlayLevel: Creating play world package: /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2019.12.09-17.44.55:357][788]LogPlayLevel: PIE: StaticDuplicateObject took: (0.034679s)
+[2019.12.09-17.44.55:358][788]LogAIModule: Creating AISystem for world Minimal_Default
+[2019.12.09-17.44.55:358][788]LogPlayLevel: PIE: World Init took: (0.000750s)
+[2019.12.09-17.44.55:358][788]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Maps/Minimal_Default.Minimal_Default to /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default (0.035538s)
+[2019.12.09-17.44.55:394][788]LogUObjectHash: Compacting FUObjectHashTables data took   5.11ms
+[2019.12.09-17.44.55:397][788]LogInit: XAudio2 using 'Remote Audio' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2019.12.09-17.44.55:419][788]LogInit: FAudioDevice initialized.
+[2019.12.09-17.44.55:425][788]LogLoad: Game class is 'CustomGM_C'
+[2019.12.09-17.44.55:428][788]LogWorld: Bringing World /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default up for play (max tick rate 0) at 2019.12.09-20.44.55
+[2019.12.09-17.44.55:429][788]LogWorld: Bringing up level for play took: 0.002573
+[2019.12.09-17.44.55:429][788]LogOnline: OSS: Creating online subsystem instance for: :Context_7
+[2019.12.09-17.44.55:431][788]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_Map_Keys_Keys' of length 0 in '/Game/MainCharacter.MainCharacter_C:ExecuteUbergraph_MainCharacter'!
+[2019.12.09-17.44.55:432][788]PIE: Play in editor start time for /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default 0.252
+[2019.12.09-17.44.55:432][788]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2019.12.09-17.44.58:547][889]LogScript: Warning: Script Msg: Attempted to access index 1 from array 'CallFunc_Map_Keys_Keys_1' of length 1 in '/Game/MainCharacter.MainCharacter_C:ExecuteUbergraph_MainCharacter'!
+[2019.12.09-17.44.58:548][889]LogScript: Warning: UGameplayStatics::BeginSpawningActorFromClass: can not spawn an actor from a NULL class
+[2019.12.09-17.44.58:549][889]LogScript: Warning: Accessed None trying to read property CallFunc_FinishSpawningActor_ReturnValue
+	MainCharacter_C /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default:PersistentLevel.MainCharacter_C_0
+	Function /Game/MainCharacter.MainCharacter_C:ExecuteUbergraph_MainCharacter:0E55
+[2019.12.09-17.44.58:549][889]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_FinishSpawningActor_ReturnValue". Blueprint:  MainCharacter Function:  Execute Ubergraph Main Character Graph:  EventGraph Node:  DestroyActor
+[2019.12.09-17.44.59:559][925]LogScript: Warning: Script Msg: Attempted to access index 1 from array 'CallFunc_Map_Keys_Keys_1' of length 1 in '/Game/MainCharacter.MainCharacter_C:ExecuteUbergraph_MainCharacter'!
+[2019.12.09-17.44.59:559][925]LogScript: Warning: UGameplayStatics::BeginSpawningActorFromClass: can not spawn an actor from a NULL class
+[2019.12.09-17.44.59:559][925]LogScript: Warning: Accessed None trying to read property CallFunc_FinishSpawningActor_ReturnValue
+	MainCharacter_C /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default:PersistentLevel.MainCharacter_C_0
+	Function /Game/MainCharacter.MainCharacter_C:ExecuteUbergraph_MainCharacter:0E55
+[2019.12.09-17.44.59:559][925]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_FinishSpawningActor_ReturnValue". Blueprint:  MainCharacter Function:  Execute Ubergraph Main Character Graph:  EventGraph Node:  DestroyActor
+[2019.12.09-17.45.00:158][946]LogScript: Warning: Script Msg: Attempted to access index 1 from array 'CallFunc_Map_Keys_Keys_1' of length 1 in '/Game/MainCharacter.MainCharacter_C:ExecuteUbergraph_MainCharacter'!
+[2019.12.09-17.45.00:158][946]LogScript: Warning: UGameplayStatics::BeginSpawningActorFromClass: can not spawn an actor from a NULL class
+[2019.12.09-17.45.00:158][946]LogScript: Warning: Accessed None trying to read property CallFunc_FinishSpawningActor_ReturnValue
+	MainCharacter_C /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default:PersistentLevel.MainCharacter_C_0
+	Function /Game/MainCharacter.MainCharacter_C:ExecuteUbergraph_MainCharacter:0E55
+[2019.12.09-17.45.00:158][946]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_FinishSpawningActor_ReturnValue". Blueprint:  MainCharacter Function:  Execute Ubergraph Main Character Graph:  EventGraph Node:  DestroyActor
+[2019.12.09-17.45.00:377][954]LogScript: Warning: Script Msg: Attempted to access index 1 from array 'CallFunc_Map_Keys_Keys_1' of length 1 in '/Game/MainCharacter.MainCharacter_C:ExecuteUbergraph_MainCharacter'!
+[2019.12.09-17.45.00:377][954]LogScript: Warning: UGameplayStatics::BeginSpawningActorFromClass: can not spawn an actor from a NULL class
+[2019.12.09-17.45.00:377][954]LogScript: Warning: Accessed None trying to read property CallFunc_FinishSpawningActor_ReturnValue
+	MainCharacter_C /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default:PersistentLevel.MainCharacter_C_0
+	Function /Game/MainCharacter.MainCharacter_C:ExecuteUbergraph_MainCharacter:0E55
+[2019.12.09-17.45.00:377][954]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_FinishSpawningActor_ReturnValue". Blueprint:  MainCharacter Function:  Execute Ubergraph Main Character Graph:  EventGraph Node:  DestroyActor
+[2019.12.09-17.45.00:622][962]LogScript: Warning: Script Msg: Attempted to access index 1 from array 'CallFunc_Map_Keys_Keys_1' of length 1 in '/Game/MainCharacter.MainCharacter_C:ExecuteUbergraph_MainCharacter'!
+[2019.12.09-17.45.00:622][962]LogScript: Warning: UGameplayStatics::BeginSpawningActorFromClass: can not spawn an actor from a NULL class
+[2019.12.09-17.45.00:622][962]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_FinishSpawningActor_ReturnValue". Blueprint:  MainCharacter Function:  Execute Ubergraph Main Character Graph:  EventGraph Node:  DestroyActor
+[2019.12.09-17.45.00:848][970]LogScript: Warning: Script Msg: Attempted to access index 1 from array 'CallFunc_Map_Keys_Keys_1' of length 1 in '/Game/MainCharacter.MainCharacter_C:ExecuteUbergraph_MainCharacter'!
+[2019.12.09-17.45.00:848][970]LogScript: Warning: UGameplayStatics::BeginSpawningActorFromClass: can not spawn an actor from a NULL class
+[2019.12.09-17.45.00:848][970]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_FinishSpawningActor_ReturnValue". Blueprint:  MainCharacter Function:  Execute Ubergraph Main Character Graph:  EventGraph Node:  DestroyActor
+[2019.12.09-17.45.01:031][977]LogScript: Warning: Script Msg: Attempted to access index 1 from array 'CallFunc_Map_Keys_Keys_1' of length 1 in '/Game/MainCharacter.MainCharacter_C:ExecuteUbergraph_MainCharacter'!
+[2019.12.09-17.45.01:031][977]LogScript: Warning: UGameplayStatics::BeginSpawningActorFromClass: can not spawn an actor from a NULL class
+[2019.12.09-17.45.01:031][977]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_FinishSpawningActor_ReturnValue". Blueprint:  MainCharacter Function:  Execute Ubergraph Main Character Graph:  EventGraph Node:  DestroyActor
+[2019.12.09-17.45.01:364][989]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2019.12.09-17.45.01:364][989]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.09-17.45.01:364][989]LogWorld: BeginTearingDown for /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2019.12.09-17.45.01:364][989]LogWorld: UWorld::CleanupWorld for Minimal_Default, bSessionEnded=true, bCleanupResources=true
+[2019.12.09-17.45.01:445][989]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.12.09-17.45.01:445][989]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2019.12.09-17.45.01:484][989]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.09-17.45.01:492][989]LogUObjectHash: Compacting FUObjectHashTables data took   2.68ms
+[2019.12.09-17.45.01:501][989]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.12.09-17.45.01:538][990]LogPlayLevel: Display: Destroying online subsystem :Context_7
+[2019.12.09-17.45.03:097][168]LogSlate: Window 'Message Log' being destroyed
+[2019.12.09-17.45.03:103][168]LogSlate: Window 'Message Log' being destroyed
+[2019.12.09-17.45.11:175][106]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MainCharacter" FILE="../../../../../../Users/Vadzim_Makarchyk/Work/SelfStudy/University/CGA/JustDoIt/Content/MainCharacter.uasset" SILENT=true
+[2019.12.09-17.45.11:277][106]LogSavePackage: Moving '../../../../../../Users/Vadzim_Makarchyk/Work/SelfStudy/University/CGA/JustDoIt/Saved/MainCharacterB1CFD19C4A51CFE3BB9B04ACA9A54B2B.tmp' to '../../../../../../Users/Vadzim_Makarchyk/Work/SelfStudy/University/CGA/JustDoIt/Content/MainCharacter.uasset'
+[2019.12.09-17.45.11:763][162]BlueprintLog: New page: Compile MainCharacter
+[2019.12.09-17.45.11:972][162]LogUObjectHash: Compacting FUObjectHashTables data took   3.26ms
+[2019.12.09-17.45.14:747][483]LogTemp: Repeating last play command: Selected Viewport
+[2019.12.09-17.45.14:762][483]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2019.12.09-17.45.14:762][483]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.12.09-17.45.14:762][483]PIE: New page: PIE session: Minimal_Default (Dec 9, 2019, 11:45:14 PM)
+[2019.12.09-17.45.14:763][483]LogPlayLevel: Creating play world package: /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2019.12.09-17.45.14:799][483]LogPlayLevel: PIE: StaticDuplicateObject took: (0.036924s)
+[2019.12.09-17.45.14:800][483]LogAIModule: Creating AISystem for world Minimal_Default
+[2019.12.09-17.45.14:800][483]LogPlayLevel: PIE: World Init took: (0.000740s)
+[2019.12.09-17.45.14:800][483]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Maps/Minimal_Default.Minimal_Default to /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default (0.037770s)
+[2019.12.09-17.45.14:833][483]LogUObjectHash: Compacting FUObjectHashTables data took   3.78ms
+[2019.12.09-17.45.14:835][483]LogInit: XAudio2 using 'Remote Audio' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2019.12.09-17.45.14:856][483]LogInit: FAudioDevice initialized.
+[2019.12.09-17.45.14:862][483]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.09-17.45.14:862][483]LogLoad: Game class is 'CustomGM_C'
+[2019.12.09-17.45.14:867][483]LogWorld: Bringing World /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default up for play (max tick rate 0) at 2019.12.09-20.45.14
+[2019.12.09-17.45.14:868][483]LogWorld: Bringing up level for play took: 0.005114
+[2019.12.09-17.45.14:868][483]LogOnline: OSS: Creating online subsystem instance for: :Context_8
+[2019.12.09-17.45.14:872][483]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_Map_Keys_Keys' of length 0 in '/Game/MainCharacter.MainCharacter_C:ExecuteUbergraph_MainCharacter'!
+[2019.12.09-17.45.14:877][483]PIE: Play in editor start time for /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default -0.302
+[2019.12.09-17.45.14:878][483]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2019.12.09-17.45.15:002][484]LogRenderer: Reallocating scene render targets to support 1280x720 Format 10 NumSamples 1 (Frame:1).
+[2019.12.09-17.45.20:260][611]LogScript: Warning: Script Msg: Attempted to access index 1 from array 'CallFunc_Map_Keys_Keys_1' of length 1 in '/Game/MainCharacter.MainCharacter_C:ExecuteUbergraph_MainCharacter'!
+[2019.12.09-17.45.20:260][611]LogScript: Warning: UGameplayStatics::BeginSpawningActorFromClass: can not spawn an actor from a NULL class
+[2019.12.09-17.45.20:260][611]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2019.12.09-17.45.20:260][611]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_FinishSpawningActor_ReturnValue". Blueprint:  MainCharacter Function:  Execute Ubergraph Main Character Graph:  EventGraph Node:  DestroyActor
+[2019.12.09-17.45.20:597][619]LogScript: Warning: Script Msg: Attempted to access index 1 from array 'CallFunc_Map_Keys_Keys_1' of length 1 in '/Game/MainCharacter.MainCharacter_C:ExecuteUbergraph_MainCharacter'!
+[2019.12.09-17.45.20:597][619]LogScript: Warning: UGameplayStatics::BeginSpawningActorFromClass: can not spawn an actor from a NULL class
+[2019.12.09-17.45.20:597][619]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2019.12.09-17.45.20:597][619]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_FinishSpawningActor_ReturnValue". Blueprint:  MainCharacter Function:  Execute Ubergraph Main Character Graph:  EventGraph Node:  DestroyActor
+[2019.12.09-17.45.20:768][623]LogScript: Warning: Script Msg: Attempted to access index 1 from array 'CallFunc_Map_Keys_Keys_1' of length 1 in '/Game/MainCharacter.MainCharacter_C:ExecuteUbergraph_MainCharacter'!
+[2019.12.09-17.45.20:769][623]LogScript: Warning: UGameplayStatics::BeginSpawningActorFromClass: can not spawn an actor from a NULL class
+[2019.12.09-17.45.20:769][623]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2019.12.09-17.45.20:769][623]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_FinishSpawningActor_ReturnValue". Blueprint:  MainCharacter Function:  Execute Ubergraph Main Character Graph:  EventGraph Node:  DestroyActor
+[2019.12.09-17.45.23:028][678]LogScript: Warning: Script Msg: Attempted to access index 1 from array 'CallFunc_Map_Keys_Keys_1' of length 1 in '/Game/MainCharacter.MainCharacter_C:ExecuteUbergraph_MainCharacter'!
+[2019.12.09-17.45.23:028][678]LogScript: Warning: UGameplayStatics::BeginSpawningActorFromClass: can not spawn an actor from a NULL class
+[2019.12.09-17.45.23:028][678]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2019.12.09-17.45.23:028][678]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_FinishSpawningActor_ReturnValue". Blueprint:  MainCharacter Function:  Execute Ubergraph Main Character Graph:  EventGraph Node:  DestroyActor
+[2019.12.09-17.45.23:841][699]LogScript: Warning: Script Msg: Attempted to access index 1 from array 'CallFunc_Map_Keys_Keys_1' of length 1 in '/Game/MainCharacter.MainCharacter_C:ExecuteUbergraph_MainCharacter'!
+[2019.12.09-17.45.23:841][699]LogScript: Warning: UGameplayStatics::BeginSpawningActorFromClass: can not spawn an actor from a NULL class
+[2019.12.09-17.45.23:841][699]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2019.12.09-17.45.23:842][699]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_FinishSpawningActor_ReturnValue". Blueprint:  MainCharacter Function:  Execute Ubergraph Main Character Graph:  EventGraph Node:  DestroyActor
+[2019.12.09-17.45.24:143][707]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2019.12.09-17.45.24:144][707]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.09-17.45.24:144][707]LogWorld: BeginTearingDown for /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2019.12.09-17.45.24:158][707]LogSlate: Window 'JustDoIt Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.12.09-17.45.24:239][707]LogWorld: UWorld::CleanupWorld for Minimal_Default, bSessionEnded=true, bCleanupResources=true
+[2019.12.09-17.45.24:258][707]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.12.09-17.45.24:259][707]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2019.12.09-17.45.24:312][707]LogUObjectHash: Compacting FUObjectHashTables data took   2.77ms
+[2019.12.09-17.45.24:356][708]LogPlayLevel: Display: Destroying online subsystem :Context_8
+[2019.12.09-17.45.30:301][414]LogSlate: Window 'Message Log' being destroyed
+[2019.12.09-17.45.30:308][414]LogSlate: Window 'Message Log' being destroyed
+[2019.12.09-17.45.36:981][199]Cmd: TRANSACTION UNDO
+[2019.12.09-17.45.36:981][199]LogEditorTransaction: Undo Add Node
+[2019.12.09-17.45.42:651][820]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MainCharacter" FILE="../../../../../../Users/Vadzim_Makarchyk/Work/SelfStudy/University/CGA/JustDoIt/Content/MainCharacter.uasset" SILENT=true
+[2019.12.09-17.45.42:754][820]LogSavePackage: Moving '../../../../../../Users/Vadzim_Makarchyk/Work/SelfStudy/University/CGA/JustDoIt/Saved/MainCharacter427599994F362CB8A65C0A8CB567C834.tmp' to '../../../../../../Users/Vadzim_Makarchyk/Work/SelfStudy/University/CGA/JustDoIt/Content/MainCharacter.uasset'
+[2019.12.09-17.45.43:403][896]BlueprintLog: New page: Compile MainCharacter
+[2019.12.09-17.45.43:629][896]LogUObjectHash: Compacting FUObjectHashTables data took   4.39ms
+[2019.12.09-17.45.44:401][979]LogEditorSessionSummary: EditorSessionSummary sent report. Type=Shutdown, SessionId={A4383755-49EF-FE8B-6C3B-D5843C8DD375}
+[2019.12.09-17.45.44:489][989]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_Map_Keys_Keys' of length 0 in '/Game/MainCharacter.MainCharacter_C:ExecuteUbergraph_MainCharacter'!
