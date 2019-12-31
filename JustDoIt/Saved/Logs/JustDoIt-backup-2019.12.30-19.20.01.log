@@ -1,0 +1,1055 @@
+﻿Log file open, 12/30/19 15:39:53
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: JustDoIt
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 11 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.866064
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +3:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin ScreenshotTools
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.23-CL-8386587
+LogInit: Engine Version: 4.23.0-8386587+++UE4+Release-4.23
+LogInit: Compatible Engine Version: 4.23.0-8386587+++UE4+Release-4.23
+LogInit: Net CL: 8386587
+LogInit: OS: Windows 10 (Release 1803) (), CPU: Intel(R) Core(TM) i3-5005U CPU @ 2.00GHz, GPU: Intel(R) HD Graphics 5500
+LogInit: Compiled (64-bit): Aug 31 2019 02:04:44
+LogInit: Compiled with Visual C++: 19.16.27030.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.23
+LogInit: Command Line: 
+LogInit: Base Directory: D:/Programs/UE4/UE_4.23/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 23
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 3
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 34
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 35
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 31
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 11
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 27
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 6
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 9
+LogInit: Presizing for max 16777216 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2019.12.30-12.39.56:523][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2019.12.30-12.39.56:523][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2019.12.30-12.39.56:523][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [D:/Study/Labs/7 semester/CGA/JustDoIt/Saved/Config/Windows/Engine.ini]
+[2019.12.30-12.39.56:523][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2019.12.30-12.39.56:523][  0]LogConfig: Setting CVar [[r.DefaultFeature.AutoExposure.ExtendDefaultLuminanceRange:1]]
+[2019.12.30-12.39.56:523][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [D:/Study/Labs/7 semester/CGA/JustDoIt/Saved/Config/Windows/Engine.ini]
+[2019.12.30-12.39.56:523][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [D:/Study/Labs/7 semester/CGA/JustDoIt/Saved/Config/Windows/Engine.ini]
+[2019.12.30-12.39.56:523][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2019.12.30-12.39.56:523][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2019.12.30-12.39.56:523][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2019.12.30-12.39.56:523][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2019.12.30-12.39.56:523][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2019.12.30-12.39.56:523][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2019.12.30-12.39.56:523][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2019.12.30-12.39.56:523][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2019.12.30-12.39.56:523][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2019.12.30-12.39.56:523][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2019.12.30-12.39.56:523][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2019.12.30-12.39.56:523][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2019.12.30-12.39.56:523][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2019.12.30-12.39.56:523][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [D:/Study/Labs/7 semester/CGA/JustDoIt/Saved/Config/Windows/Engine.ini]
+[2019.12.30-12.39.56:523][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2019.12.30-12.39.56:523][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2019.12.30-12.39.56:523][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2019.12.30-12.39.56:523][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2019.12.30-12.39.56:523][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2019.12.30-12.39.56:523][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2019.12.30-12.39.56:523][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:16777216]]
+[2019.12.30-12.39.56:523][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2019.12.30-12.39.56:523][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2019.12.30-12.39.56:523][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2019.12.30-12.39.56:523][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2019.12.30-12.39.56:523][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2019.12.30-12.39.56:523][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2019.12.30-12.39.56:524][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [D:/Study/Labs/7 semester/CGA/JustDoIt/Saved/Config/Windows/Engine.ini]
+[2019.12.30-12.39.56:524][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [D:/Study/Labs/7 semester/CGA/JustDoIt/Saved/Config/Windows/Engine.ini]
+[2019.12.30-12.39.56:527][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [D:/Study/Labs/7 semester/CGA/JustDoIt/Saved/Config/Windows/Scalability.ini]
+[2019.12.30-12.39.56:527][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.12.30-12.39.56:527][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.12.30-12.39.56:527][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/Study/Labs/7 semester/CGA/JustDoIt/Saved/Config/Windows/Scalability.ini]
+[2019.12.30-12.39.56:527][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.12.30-12.39.56:528][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [D:/Study/Labs/7 semester/CGA/JustDoIt/Saved/Config/Windows/Scalability.ini]
+[2019.12.30-12.39.56:528][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.12.30-12.39.56:528][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.12.30-12.39.56:528][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.12.30-12.39.56:528][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.12.30-12.39.56:528][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.12.30-12.39.56:528][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.12.30-12.39.56:528][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.12.30-12.39.56:528][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.12.30-12.39.56:528][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.12.30-12.39.56:528][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.12.30-12.39.56:528][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.12.30-12.39.56:528][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.12.30-12.39.56:528][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.12.30-12.39.56:528][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.12.30-12.39.56:528][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.12.30-12.39.56:528][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.12.30-12.39.56:528][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.12.30-12.39.56:528][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.12.30-12.39.56:528][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [D:/Study/Labs/7 semester/CGA/JustDoIt/Saved/Config/Windows/Scalability.ini]
+[2019.12.30-12.39.56:528][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.12.30-12.39.56:528][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.12.30-12.39.56:528][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.12.30-12.39.56:528][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.12.30-12.39.56:528][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.12.30-12.39.56:528][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.12.30-12.39.56:528][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.12.30-12.39.56:528][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.12.30-12.39.56:528][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.12.30-12.39.56:528][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.12.30-12.39.56:528][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.12.30-12.39.56:528][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.12.30-12.39.56:528][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.12.30-12.39.56:528][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.12.30-12.39.56:528][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.12.30-12.39.56:528][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.12.30-12.39.56:528][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.12.30-12.39.56:528][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.12.30-12.39.56:528][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.12.30-12.39.56:528][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.12.30-12.39.56:528][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.12.30-12.39.56:528][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.12.30-12.39.56:529][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.12.30-12.39.56:529][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.12.30-12.39.56:529][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.12.30-12.39.56:529][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.12.30-12.39.56:529][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.12.30-12.39.56:529][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.12.30-12.39.56:529][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.12.30-12.39.56:529][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.12.30-12.39.56:529][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [D:/Study/Labs/7 semester/CGA/JustDoIt/Saved/Config/Windows/Scalability.ini]
+[2019.12.30-12.39.56:529][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.12.30-12.39.56:529][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.12.30-12.39.56:529][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.12.30-12.39.56:529][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.12.30-12.39.56:529][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.12.30-12.39.56:529][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.12.30-12.39.56:529][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.12.30-12.39.56:529][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.12.30-12.39.56:529][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [D:/Study/Labs/7 semester/CGA/JustDoIt/Saved/Config/Windows/Scalability.ini]
+[2019.12.30-12.39.56:529][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.12.30-12.39.56:529][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.12.30-12.39.56:529][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.12.30-12.39.56:529][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.12.30-12.39.56:529][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.12.30-12.39.56:529][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.12.30-12.39.56:529][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.12.30-12.39.56:529][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.12.30-12.39.56:529][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.12.30-12.39.56:529][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.12.30-12.39.56:529][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.12.30-12.39.56:529][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.12.30-12.39.56:529][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.12.30-12.39.56:529][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [D:/Study/Labs/7 semester/CGA/JustDoIt/Saved/Config/Windows/Scalability.ini]
+[2019.12.30-12.39.56:529][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.12.30-12.39.56:529][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.12.30-12.39.56:529][  0]LogInit: Selected Device Profile: [Windows]
+[2019.12.30-12.39.56:529][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2019.12.30-12.39.56:636][  0]LogHAL: Display: Platform has ~ 4 GB [4188467200 / 4294967296 / 4], which maps to Smallest [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2019.12.30-12.39.56:636][  0]LogInit: Going up to parent DeviceProfile []
+[2019.12.30-12.39.56:636][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@0] File [D:/Study/Labs/7 semester/CGA/JustDoIt/Saved/Config/Windows/Scalability.ini]
+[2019.12.30-12.39.56:636][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:2]]
+[2019.12.30-12.39.56:636][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:0.4]]
+[2019.12.30-12.39.56:636][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@0] File [D:/Study/Labs/7 semester/CGA/JustDoIt/Saved/Config/Windows/Scalability.ini]
+[2019.12.30-12.39.56:636][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:0]]
+[2019.12.30-12.39.56:636][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@0] File [D:/Study/Labs/7 semester/CGA/JustDoIt/Saved/Config/Windows/Scalability.ini]
+[2019.12.30-12.39.56:636][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:0]]
+[2019.12.30-12.39.56:636][  0]LogConfig: Setting CVar [[r.ShadowQuality:0]]
+[2019.12.30-12.39.56:637][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:1]]
+[2019.12.30-12.39.56:637][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:512]]
+[2019.12.30-12.39.56:637][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:512]]
+[2019.12.30-12.39.56:637][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.06]]
+[2019.12.30-12.39.56:637][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:0.6]]
+[2019.12.30-12.39.56:637][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:0]]
+[2019.12.30-12.39.56:637][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:0.5]]
+[2019.12.30-12.39.56:637][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:0]]
+[2019.12.30-12.39.56:637][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:0]]
+[2019.12.30-12.39.56:637][  0]LogConfig: Setting CVar [[r.VolumetricFog:0]]
+[2019.12.30-12.39.56:637][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:0]]
+[2019.12.30-12.39.56:637][  0]LogConfig: Setting CVar [[r.CapsuleShadows:0]]
+[2019.12.30-12.39.56:637][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@0] File [D:/Study/Labs/7 semester/CGA/JustDoIt/Saved/Config/Windows/Scalability.ini]
+[2019.12.30-12.39.56:637][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:0]]
+[2019.12.30-12.39.56:637][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:1.0]]
+[2019.12.30-12.39.56:637][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:0]]
+[2019.12.30-12.39.56:637][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:0]]
+[2019.12.30-12.39.56:637][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.2]]
+[2019.12.30-12.39.56:637][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:0]]
+[2019.12.30-12.39.56:637][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:300]]
+[2019.12.30-12.39.56:637][  0]LogConfig: Setting CVar [[r.LensFlareQuality:0]]
+[2019.12.30-12.39.56:637][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:0]]
+[2019.12.30-12.39.56:637][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:0]]
+[2019.12.30-12.39.56:637][  0]LogConfig: Setting CVar [[r.BloomQuality:4]]
+[2019.12.30-12.39.56:637][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:0]]
+[2019.12.30-12.39.56:637][  0]LogConfig: Setting CVar [[r.Upscale.Quality:1]]
+[2019.12.30-12.39.56:637][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:0]]
+[2019.12.30-12.39.56:637][  0]LogConfig: Setting CVar [[r.LightShaftQuality:0]]
+[2019.12.30-12.39.56:637][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:0.6]]
+[2019.12.30-12.39.56:637][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:0]]
+[2019.12.30-12.39.56:637][  0]LogConfig: Applying CVar settings from Section [TextureQuality@0] File [D:/Study/Labs/7 semester/CGA/JustDoIt/Saved/Config/Windows/Scalability.ini]
+[2019.12.30-12.39.56:637][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:16]]
+[2019.12.30-12.39.56:637][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:1]]
+[2019.12.30-12.39.56:637][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:1]]
+[2019.12.30-12.39.56:637][  0]LogConfig: Setting CVar [[r.Streaming.Boost:0.3]]
+[2019.12.30-12.39.56:637][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:0]]
+[2019.12.30-12.39.56:637][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:1]]
+[2019.12.30-12.39.56:637][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:400]]
+[2019.12.30-12.39.56:637][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.12.30-12.39.56:637][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@0] File [D:/Study/Labs/7 semester/CGA/JustDoIt/Saved/Config/Windows/Scalability.ini]
+[2019.12.30-12.39.56:637][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:24]]
+[2019.12.30-12.39.56:637][  0]LogConfig: Setting CVar [[r.RefractionQuality:0]]
+[2019.12.30-12.39.56:637][  0]LogConfig: Setting CVar [[r.SSR.Quality:0]]
+[2019.12.30-12.39.56:637][  0]LogConfig: Setting CVar [[r.SceneColorFormat:3]]
+[2019.12.30-12.39.56:638][  0]LogConfig: Setting CVar [[r.DetailMode:0]]
+[2019.12.30-12.39.56:638][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:0]]
+[2019.12.30-12.39.56:638][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:0 ; Low quality]]
+[2019.12.30-12.39.56:638][  0]LogConfig: Setting CVar [[r.SSS.Scale:0]]
+[2019.12.30-12.39.56:638][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:0]]
+[2019.12.30-12.39.56:638][  0]LogConfig: Setting CVar [[r.SSS.Quality:0]]
+[2019.12.30-12.39.56:638][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.12.30-12.39.56:638][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:0.125]]
+[2019.12.30-12.39.56:638][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:0]]
+[2019.12.30-12.39.56:638][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@0] File [D:/Study/Labs/7 semester/CGA/JustDoIt/Saved/Config/Windows/Scalability.ini]
+[2019.12.30-12.39.56:638][  0]LogConfig: Setting CVar [[foliage.DensityScale:0]]
+[2019.12.30-12.39.56:638][  0]LogConfig: Setting CVar [[grass.DensityScale:0]]
+[2019.12.30-12.39.56:638][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2019.12.30-12.39.56:673][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2019.12.30-12.39.56:673][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2019.12.30-12.39.56:673][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [D:/Study/Labs/7 semester/CGA/JustDoIt/Saved/Config/Windows/Engine.ini]
+[2019.12.30-12.39.56:674][  0]LogInit: Computer: DESKTOP-URMRIOT
+[2019.12.30-12.39.56:674][  0]LogInit: User: Daddy
+[2019.12.30-12.39.56:674][  0]LogInit: CPU Page size=4096, Cores=2
+[2019.12.30-12.39.56:674][  0]LogInit: High frequency timer resolution =1.948615 MHz
+[2019.12.30-12.39.56:674][  0]LogMemory: Memory total: Physical=3.9GB (4GB approx)
+[2019.12.30-12.39.56:674][  0]LogMemory: Platform Memory Stats for Windows
+[2019.12.30-12.39.56:674][  0]LogMemory: Process Physical Memory: 99.72 MB used, 99.72 MB peak
+[2019.12.30-12.39.56:674][  0]LogMemory: Process Virtual Memory: 87.63 MB used, 87.63 MB peak
+[2019.12.30-12.39.56:674][  0]LogMemory: Physical Memory: 1670.95 MB used,  2323.49 MB free, 3994.43 MB total
+[2019.12.30-12.39.56:674][  0]LogMemory: Virtual Memory: 4655.93 MB used,  134213072.00 MB free, 134217728.00 MB total
+[2019.12.30-12.39.56:760][  0]LogWindows: WindowsPlatformFeatures enabled
+[2019.12.30-12.39.57:241][  0]LogInit: Using OS detected language (ru-RU).
+[2019.12.30-12.39.57:241][  0]LogInit: Using OS detected locale (ru-RU).
+[2019.12.30-12.39.57:262][  0]LogTextLocalizationManager: No specific localization for 'ru-RU' exists, so the 'ru' localization will be used.
+[2019.12.30-12.39.57:263][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Editor/ru/Editor.locres' could not be opened for reading!
+[2019.12.30-12.39.57:263][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/EditorTutorials/ru/EditorTutorials.locres' could not be opened for reading!
+[2019.12.30-12.39.57:263][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Keywords/ru/Keywords.locres' could not be opened for reading!
+[2019.12.30-12.39.57:264][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Category/ru/Category.locres' could not be opened for reading!
+[2019.12.30-12.39.57:272][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/ToolTips/ru/ToolTips.locres' could not be opened for reading!
+[2019.12.30-12.39.57:273][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/PropertyNames/ru/PropertyNames.locres' could not be opened for reading!
+[2019.12.30-12.39.57:273][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Engine/ru/Engine.locres' could not be opened for reading!
+[2019.12.30-12.39.57:463][  0]LogInit: Setting process to per monitor DPI aware
+[2019.12.30-12.39.58:034][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2019.12.30-12.39.58:034][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2019.12.30-12.40.06:408][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.12.30-12.40.06:408][  0]LogD3D11RHI: D3D11 adapters:
+[2019.12.30-12.40.06:420][  0]LogD3D11RHI:    0. 'Intel(R) HD Graphics 5500' (Feature Level 11_0)
+[2019.12.30-12.40.06:420][  0]LogD3D11RHI:       128/0/1997 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x8086
+[2019.12.30-12.40.06:572][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2019.12.30-12.40.06:572][  0]LogD3D11RHI:       0/0/1997 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2019.12.30-12.40.06:572][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2019.12.30-12.40.06:582][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2019.12.30-12.40.06:582][  0]LogD3D11RHI:     GPU DeviceId: 0x1616 (for the marketing name, search the web for "GPU Device Id")
+[2019.12.30-12.40.06:582][  0]LogWindows: EnumDisplayDevices:
+[2019.12.30-12.40.06:582][  0]LogWindows:    0. 'Intel(R) HD Graphics 5500' (P:1 D:1)
+[2019.12.30-12.40.06:583][  0]LogWindows:    1. 'Intel(R) HD Graphics 5500' (P:0 D:0)
+[2019.12.30-12.40.06:584][  0]LogWindows:    2. 'Intel(R) HD Graphics 5500' (P:0 D:0)
+[2019.12.30-12.40.06:584][  0]LogWindows: DebugString: FoundDriverCount:3 
+[2019.12.30-12.40.06:585][  0]LogD3D11RHI:     Adapter Name: Intel(R) HD Graphics 5500
+[2019.12.30-12.40.06:585][  0]LogD3D11RHI:   Driver Version: 20.19.15.4549 (internal:20.19.15.4549, unified:20.19.15.4549)
+[2019.12.30-12.40.06:585][  0]LogD3D11RHI:      Driver Date: 11-10-2016
+[2019.12.30-12.40.06:585][  0]LogRHI: Texture pool is 788 MB (70% of 1126 MB)
+[2019.12.30-12.40.06:593][  0]LogD3D11RHI: Async texture creation enabled
+[2019.12.30-12.40.06:604][  0]LogD3D11RHI: GPU Timing Frequency: 12.500000 (Debug: 2 0)
+[2019.12.30-12.40.11:198][  0]LogTemp: Display: Module 'AllDesktopTargetPlatform' loaded TargetPlatform 'AllDesktop'
+[2019.12.30-12.40.11:232][  0]LogTemp: Display: Module 'MacClientTargetPlatform' loaded TargetPlatform 'MacClient'
+[2019.12.30-12.40.11:258][  0]LogTemp: Display: Module 'MacNoEditorTargetPlatform' loaded TargetPlatform 'MacNoEditor'
+[2019.12.30-12.40.11:320][  0]LogTemp: Display: Module 'MacServerTargetPlatform' loaded TargetPlatform 'MacServer'
+[2019.12.30-12.40.11:367][  0]LogTemp: Display: Module 'MacTargetPlatform' loaded TargetPlatform 'Mac'
+[2019.12.30-12.40.11:511][  0]LogTemp: Display: Module 'WindowsClientTargetPlatform' loaded TargetPlatform 'WindowsClient'
+[2019.12.30-12.40.11:554][  0]LogTemp: Display: Module 'WindowsNoEditorTargetPlatform' loaded TargetPlatform 'WindowsNoEditor'
+[2019.12.30-12.40.11:584][  0]LogTemp: Display: Module 'WindowsServerTargetPlatform' loaded TargetPlatform 'WindowsServer'
+[2019.12.30-12.40.11:605][  0]LogTemp: Display: Module 'WindowsTargetPlatform' loaded TargetPlatform 'Windows'
+[2019.12.30-12.40.11:751][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android'
+[2019.12.30-12.40.11:751][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTC'
+[2019.12.30-12.40.11:751][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATC'
+[2019.12.30-12.40.11:751][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXT'
+[2019.12.30-12.40.11:751][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1'
+[2019.12.30-12.40.11:751][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1a'
+[2019.12.30-12.40.11:751][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2'
+[2019.12.30-12.40.11:751][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTC'
+[2019.12.30-12.40.11:751][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'AndroidClient'
+[2019.12.30-12.40.11:751][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTCClient'
+[2019.12.30-12.40.11:751][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATCClient'
+[2019.12.30-12.40.11:751][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXTClient'
+[2019.12.30-12.40.11:751][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1Client'
+[2019.12.30-12.40.11:751][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1aClient'
+[2019.12.30-12.40.11:751][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2Client'
+[2019.12.30-12.40.11:751][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTCClient'
+[2019.12.30-12.40.11:751][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_Multi'
+[2019.12.30-12.40.11:751][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_MultiClient'
+[2019.12.30-12.40.11:846][  0]LogTemp: Display: Module 'HTML5TargetPlatform' loaded TargetPlatform 'HTML5'
+[2019.12.30-12.40.11:987][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOSClient'
+[2019.12.30-12.40.11:988][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOS'
+[2019.12.30-12.40.12:018][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOSClient'
+[2019.12.30-12.40.12:018][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOS'
+[2019.12.30-12.40.12:102][  0]LogTemp: Display: Module 'LinuxClientTargetPlatform' loaded TargetPlatform 'LinuxClient'
+[2019.12.30-12.40.12:148][  0]LogTemp: Display: Module 'LinuxNoEditorTargetPlatform' loaded TargetPlatform 'LinuxNoEditor'
+[2019.12.30-12.40.12:195][  0]LogTemp: Display: Module 'LinuxServerTargetPlatform' loaded TargetPlatform 'LinuxServer'
+[2019.12.30-12.40.12:253][  0]LogTemp: Display: Module 'LinuxTargetPlatform' loaded TargetPlatform 'Linux'
+[2019.12.30-12.40.12:343][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'Lumin'
+[2019.12.30-12.40.12:343][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'LuminClient'
+[2019.12.30-12.40.12:343][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2019.12.30-12.40.12:469][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2019.12.30-12.40.14:174][  0]LogShaderCompilers: Guid format shader working directory is -6 characters bigger than the processId version (../../../../../../Study/Labs/7 semester/CGA/JustDoIt/Intermediate/Shaders/WorkingDirectory/9252/).
+[2019.12.30-12.40.14:174][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Daddy/AppData/Local/Temp/UnrealShaderWorkingDir/254C7AFE4E25BBE45E841A91A63FEFEE/'.
+[2019.12.30-12.40.14:468][  0]LogXGEController: Cleaning working directory: C:/Users/Daddy/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2019.12.30-12.40.14:468][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2019.12.30-12.40.14:469][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2019.12.30-12.40.14:469][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2019.12.30-12.40.24:032][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2019.12.30-12.40.25:078][  0]LogDerivedDataCache: Loaded boot cache 1.02s 73MB C:/Users/Daddy/AppData/Local/UnrealEngine/4.23/DerivedDataCache/Boot.ddc.
+[2019.12.30-12.40.25:079][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Daddy/AppData/Local/UnrealEngine/4.23/DerivedDataCache/Boot.ddc
+[2019.12.30-12.40.25:079][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Study/Labs/7 semester/CGA/JustDoIt/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2019.12.30-12.40.25:079][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2019.12.30-12.40.25:079][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Study/Labs/7 semester/CGA/JustDoIt/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.12.30-12.40.25:079][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2019.12.30-12.40.25:215][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2019.12.30-12.40.25:215][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.12.30-12.40.25:215][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2019.12.30-12.40.25:217][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Daddy/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2019.12.30-12.40.25:217][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2019.12.30-12.40.25:217][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2019.12.30-12.40.25:257][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2019.12.30-12.40.25:261][  0]LogSlate: Using FreeType 2.6.0
+[2019.12.30-12.40.25:366][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2019.12.30-12.40.26:749][  0]LogAssetRegistry: FAssetRegistry took 0.0041 seconds to start up
+[2019.12.30-12.40.27:256][  0]LogInit: Selected Device Profile: [Windows]
+[2019.12.30-12.40.28:798][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2019.12.30-12.40.28:799][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2019.12.30-12.40.28:799][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2019.12.30-12.40.28:799][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2019.12.30-12.40.28:799][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2019.12.30-12.40.29:000][  0]LogNetVersion: JustDoIt 1.0.0, NetCL: 8386587, EngineNetVer: 11, GameNetVer: 0 (Checksum: 2198397873)
+[2019.12.30-12.40.33:990][  0]LogPackageLocalizationCache: Processed 12 localized package path(s) for 1 prioritized culture(s) in 0.112180 seconds
+[2019.12.30-12.40.34:001][  0]LogUObjectArray: 43444 objects as part of root set at end of initial load.
+[2019.12.30-12.40.34:001][  0]LogUObjectAllocator: 7548648 out of 0 bytes used by permanent object pool.
+[2019.12.30-12.40.34:001][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2019.12.30-12.40.51:371][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2019.12.30-12.40.51:391][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2019.12.30-12.40.52:048][  0]SourceControl: Source control is disabled
+[2019.12.30-12.40.52:048][  0]SourceControl: Source control is disabled
+[2019.12.30-12.40.52:107][  0]SourceControl: Source control is disabled
+[2019.12.30-12.40.52:129][  0]SourceControl: Source control is disabled
+[2019.12.30-12.40.53:539][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2019.12.30-12.40.54:409][  0]LogOcInput: OculusInput pre-init called
+[2019.12.30-12.40.54:582][  0]LogWindows: Failed to load 'OVRPlugin.dll' (GetLastError=126)
+[2019.12.30-12.40.54:582][  0]LogWindows: File 'OVRPlugin.dll' does not exist
+[2019.12.30-12.40.54:918][  0]LogEngine: Initializing Engine...
+[2019.12.30-12.40.54:920][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.12.30-12.40.54:921][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2019.12.30-12.40.56:779][  0]LogInit: Initializing FReadOnlyCVARCache
+[2019.12.30-12.40.56:846][  0]LogAIModule: Creating AISystem for world Untitled
+[2019.12.30-12.40.56:887][  0]LogInit: XAudio2 using 'Динамики (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.12.30-12.40.57:492][  0]LogInit: FAudioDevice initialized.
+[2019.12.30-12.40.57:493][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2019.12.30-12.40.57:906][  0]LogDerivedDataCache: Saved boot cache 0.41s 73MB C:/Users/Daddy/AppData/Local/UnrealEngine/4.23/DerivedDataCache/Boot.ddc.
+[2019.12.30-12.40.57:913][  0]LogInit: Texture streaming: Enabled
+[2019.12.30-12.40.58:827][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2019.12.30-12.41.00:180][  0]LogInit: Transaction tracking system initialized
+[2019.12.30-12.41.00:579][  0]BlueprintLog: New page: Editor Load
+[2019.12.30-12.41.01:399][  0]LocalizationService: Localization service is disabled
+[2019.12.30-12.41.06:232][  0]LogFileCache: Scanning file cache for directory 'D:/Study/Labs/7 semester/CGA/JustDoIt/Content/' took 0.01s
+[2019.12.30-12.41.06:232][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2019.12.30-12.41.06:232][  0]LogCook: Display: Mobile HDR setting 1
+[2019.12.30-12.41.08:905][  0]SourceControl: Source control is disabled
+[2019.12.30-12.41.08:905][  0]Cmd: MAP LOAD FILE="../../../../../../Study/Labs/7 semester/CGA/JustDoIt/Content/StarterContent/Maps/Minimal_Default.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.12.30-12.41.08:905][  0]LogEditorServer: Warning: Can't find file '../../../../../../Study/Labs/7 semester/CGA/JustDoIt/Content/StarterContent/Maps/Minimal_Default.umap'
+[2019.12.30-12.41.08:905][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.12.30-12.41.08:906][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,22ms to complete.
+[2019.12.30-12.41.08:906][  0]LogFileHelpers: Loading map 'Minimal_Default' took 0.001
+[2019.12.30-12.41.09:298][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.30-12.41.09:313][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.30-12.41.09:326][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.30-12.41.09:340][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.30-12.41.09:515][  0]LogCollectionManager: Loaded 0 collections in 0.002685 seconds
+[2019.12.30-12.41.09:553][  0]LogFileCache: Scanning file cache for directory 'D:/Study/Labs/7 semester/CGA/JustDoIt/Saved/Collections/' took 0.00s
+[2019.12.30-12.41.09:553][  0]LogFileCache: Scanning file cache for directory 'D:/Study/Labs/7 semester/CGA/JustDoIt/Content/Developers/Daddy/Collections/' took 0.00s
+[2019.12.30-12.41.09:553][  0]LogFileCache: Scanning file cache for directory 'D:/Study/Labs/7 semester/CGA/JustDoIt/Content/Collections/' took 0.00s
+[2019.12.30-12.41.09:553][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000002 seconds
+[2019.12.30-12.41.09:567][  0]LogContentBrowser: Native class hierarchy populated in 0.0137 seconds. Added 2864 classes and 682 folders.
+[2019.12.30-12.41.09:605][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2019.12.30-12.41.11:466][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2019.12.30-12.41.11:648][  0]LogSlate: Took 0.056526 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2019.12.30-12.41.11:724][  0]LogSlate: Took 0.073490 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2019.12.30-12.41.11:785][  0]LogSlate: Took 0.053334 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2019.12.30-12.41.12:140][  0]LogRenderer: Reallocating scene render targets to support 884x652 Format 9 NumSamples 1 (Frame:1).
+[2019.12.30-12.41.12:542][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2019.12.30-12.41.12:542][  0]LogLoad: (Engine Initialization) Total time: 98.02 seconds
+[2019.12.30-12.41.12:542][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2019.12.30-12.41.12:620][  0]LogContentStreaming: Texture pool size now 400 MB
+[2019.12.30-12.41.17:657][ 52]LogAssetRegistry: Asset discovery search completed in 50.9101 seconds
+[2019.12.30-12.41.17:663][ 52]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000008 seconds (found 0 objects)
+[2019.12.30-12.41.17:663][ 52]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000092 seconds (updated 0 objects)
+[2019.12.30-12.41.18:083][ 52]LogSlate: Took 0.402742 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.12.30-12.41.18:199][ 53]LogFileCache: Retrieving MD5 hashes for directory 'D:/Study/Labs/7 semester/CGA/JustDoIt/Content/' took 5.63s
+[2019.12.30-12.41.21:428][243]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.30-12.41.21:564][251]LogSlate: Took 0.000376 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.12.30-12.41.21:889][251]LogProperty: Error: UStructProperty::Serialize Loading: Property 'StructProperty /Game/MenuAndSaving/SaveGameInstance.SaveGameInstance_C:PeaceCharacters.PeaceCharacters'. Unknown structure.
+[2019.12.30-12.41.21:889][251]LogProperty: Error: UStructProperty::Serialize Loading: Property 'StructProperty /Game/MenuAndSaving/SaveGameInstance.SaveGameInstance_C:HellCharacters.HellCharacters'. Unknown structure.
+[2019.12.30-12.41.22:711][251]LogClass: Warning: Property PeaceCharacters of PeaceCharacters has a struct type mismatch (tag FallbackStruct != prop SavedCharacter) in package:  FObjectReader. If that struct got renamed, add an entry to ActiveStructRedirects.
+[2019.12.30-12.41.22:711][251]LogClass: Warning: Property HellCharacters of HellCharacters has a struct type mismatch (tag FallbackStruct != prop SavedCharacter) in package:  FObjectReader. If that struct got renamed, add an entry to ActiveStructRedirects.
+[2019.12.30-12.41.22:837][251]LogAIModule: Creating AISystem for world Menu
+[2019.12.30-12.41.22:845][251]LogAssetEditorManager: Opening Asset editor for World /Game/Maps/Menu.Menu
+[2019.12.30-12.41.22:891][251]LogUObjectHash: Compacting FUObjectHashTables data took   4.38ms
+[2019.12.30-12.41.22:892][251]Cmd: MAP LOAD FILE="../../../../../../Study/Labs/7 semester/CGA/JustDoIt/Content/Maps/Menu.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.12.30-12.41.22:893][251]LightingResults: New page: Lighting Build
+[2019.12.30-12.41.22:973][251]LogContentBrowser: Native class hierarchy updated for 'StatsViewer' in 0.0003 seconds. Added 5 classes and 0 folders.
+[2019.12.30-12.41.22:974][251]LoadErrors: New page: Loading map: Menu.umap
+[2019.12.30-12.41.22:974][251]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2019.12.30-12.41.22:975][251]MapCheck: New page: Map Check
+[2019.12.30-12.41.22:975][251]LightingResults: New page: Lighting Build
+[2019.12.30-12.41.23:012][251]LogUObjectHash: Compacting FUObjectHashTables data took   2.65ms
+[2019.12.30-12.41.23:240][251]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.12.30-12.41.23:277][251]LogUObjectHash: Compacting FUObjectHashTables data took   2.24ms
+[2019.12.30-12.41.23:342][251]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.12.30-12.41.23:342][251]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,15ms to complete.
+[2019.12.30-12.41.23:342][251]LogFileHelpers: Loading map 'Menu' took 0.450
+[2019.12.30-12.42.12:582][198]LogHttp: Warning: 000001F94C094A40: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BEB9EB6B6-4B32-D5DC-B0CB-9EB9F4E1680E%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.0-8386587%2B%2B%2BUE4%2BRelease-4.23&UserID=e167d8634e0401a9c81ddea97c5dd187%7Cde31d28a090c4bb9ada4ed616c8da227%7C07011f6c-5ee6-480e-93d5-f1d2be119f73&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: -1, actual payload size: 0
+[2019.12.30-12.42.12:582][198]LogHttp: Warning: 000001F94C094A40: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2019.12.30-12.42.12:582][198]LogHttp: Warning: 000001F94C094A40: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2019.12.30-12.42.12:582][198]LogHttp: Warning: 000001F94C094A40: libcurl info message cache 1 (Closing connection 0)
+[2019.12.30-12.42.12:582][198]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BEB9EB6B6-4B32-D5DC-B0CB-9EB9F4E1680E%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.0-8386587%2B%2B%2BUE4%2BRelease-4.23&UserID=e167d8634e0401a9c81ddea97c5dd187%7Cde31d28a090c4bb9ada4ed616c8da227%7C07011f6c-5ee6-480e-93d5-f1d2be119f73&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.12.30-12.42.21:815][734]LogAssetEditorManager: Opening Asset editor for BlackboardData /Game/AI/ZombieBlackboard.ZombieBlackboard
+[2019.12.30-12.42.27:638][ 33]LogAssetEditorManager: Opening Asset editor for BehaviorTree /Game/AI/ZombieBehaviorTree.ZombieBehaviorTree
+[2019.12.30-12.42.27:884][ 33]LogSlate: Took 0.046074 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2019.12.30-12.42.33:954][321]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/AI/ZombiePC.ZombiePC
+[2019.12.30-12.42.34:540][321]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0007 seconds. Added 121 classes and 0 folders.
+[2019.12.30-12.42.36:491][322]LogSlate: Took 0.021278 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2019.12.30-12.44.12:635][871]LogHttp: Warning: 000001F967D70180: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BEB9EB6B6-4B32-D5DC-B0CB-9EB9F4E1680E%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.0-8386587%2B%2B%2BUE4%2BRelease-4.23&UserID=e167d8634e0401a9c81ddea97c5dd187%7Cde31d28a090c4bb9ada4ed616c8da227%7C07011f6c-5ee6-480e-93d5-f1d2be119f73&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: -1, actual payload size: 0
+[2019.12.30-12.44.12:635][871]LogHttp: Warning: 000001F967D70180: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2019.12.30-12.44.12:635][871]LogHttp: Warning: 000001F967D70180: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2019.12.30-12.44.12:635][871]LogHttp: Warning: 000001F967D70180: libcurl info message cache 1 (Closing connection 1)
+[2019.12.30-12.44.12:650][872]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BEB9EB6B6-4B32-D5DC-B0CB-9EB9F4E1680E%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.0-8386587%2B%2B%2BUE4%2BRelease-4.23&UserID=e167d8634e0401a9c81ddea97c5dd187%7Cde31d28a090c4bb9ada4ed616c8da227%7C07011f6c-5ee6-480e-93d5-f1d2be119f73&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.12.30-12.44.26:135][327]LogMaterial: Display: Missing cached shader map for material PeacePortalMaterial, compiling. 
+[2019.12.30-12.44.26:289][327]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 22
+[2019.12.30-12.44.26:289][327]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 14
+[2019.12.30-12.44.26:289][327]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 6
+[2019.12.30-12.44.27:545][327]LogAIModule: Creating AISystem for world Hell
+[2019.12.30-12.44.31:834][327]LogAssetEditorManager: Opening Asset editor for World /Game/Maps/Hell.Hell
+[2019.12.30-12.44.32:047][327]LogUObjectHash: Compacting FUObjectHashTables data took  18.61ms
+[2019.12.30-12.44.32:050][327]Cmd: MAP LOAD FILE="../../../../../../Study/Labs/7 semester/CGA/JustDoIt/Content/Maps/Hell.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.12.30-12.44.32:053][327]LightingResults: New page: Lighting Build
+[2019.12.30-12.44.32:055][327]LoadErrors: New page: Loading map: Hell.umap
+[2019.12.30-12.44.32:055][327]LogWorld: UWorld::CleanupWorld for Menu, bSessionEnded=true, bCleanupResources=true
+[2019.12.30-12.44.32:056][327]MapCheck: New page: Map Check
+[2019.12.30-12.44.32:056][327]LightingResults: New page: Lighting Build
+[2019.12.30-12.44.32:219][327]LogUObjectHash: Compacting FUObjectHashTables data took  14.09ms
+[2019.12.30-12.44.41:761][327]LogEditorServer: Finished looking for orphan Actors (0.001 secs)
+[2019.12.30-12.44.44:569][327]LogUObjectHash: Compacting FUObjectHashTables data took  16.63ms
+[2019.12.30-12.44.44:792][327]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.12.30-12.44.44:796][327]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 3,517ms to complete.
+[2019.12.30-12.44.44:796][327]LogFileHelpers: Loading map 'Hell' took 12.749
+[2019.12.30-12.45.06:274][560]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2019.12.30-12.45.07:398][575]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.30-12.45.17:692][129]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.30-12.45.24:279][776]LogEditorViewport: Clicking on Actor (LMB): HellGround_C (HellGround1683)
+[2019.12.30-12.45.26:870][954]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.30-12.45.37:921][398]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Maps/ZombieSpawn.ZombieSpawn
+[2019.12.30-12.45.49:168][ 69]BlueprintLog: New page: Compile ZombieSpawn
+[2019.12.30-12.45.49:822][ 69]LogUObjectHash: Compacting FUObjectHashTables data took   8.09ms
+[2019.12.30-12.45.51:550][109]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/ZombieSpawn" FILE="../../../../../../Study/Labs/7 semester/CGA/JustDoIt/Content/Maps/ZombieSpawn.uasset" SILENT=true
+[2019.12.30-12.45.52:162][109]LogSavePackage: Moving '../../../../../../Study/Labs/7 semester/CGA/JustDoIt/Saved/ZombieSpawnCF81BD3142DC25E951CEBDA18ADB2F77.tmp' to '../../../../../../Study/Labs/7 semester/CGA/JustDoIt/Content/Maps/ZombieSpawn.uasset'
+[2019.12.30-12.45.53:810][222]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2019.12.30-12.45.54:078][222]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Hell.Hell:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Hell.Hell:PersistentLevel.Hell' with GeneratedClass '/Game/Maps/Hell.Hell_C' with ClassGeneratedBy '/Game/Maps/Hell.Hell:PersistentLevel.Hell'
+[2019.12.30-12.45.54:117][222]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.12.30-12.45.54:141][222]PIE: New page: PIE session: Hell (30 дек. 2019 г., 18:45:54)
+[2019.12.30-12.45.54:276][222]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2019.12.30-12.45.54:311][222]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Hell
+[2019.12.30-12.45.55:220][222]LogPlayLevel: PIE: StaticDuplicateObject took: (0.909835s)
+[2019.12.30-12.45.55:265][222]LogAIModule: Creating AISystem for world Hell
+[2019.12.30-12.45.55:273][222]LogPlayLevel: PIE: World Init took: (0.024823s)
+[2019.12.30-12.45.55:282][222]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Hell.Hell to /Game/Maps/UEDPIE_0_Hell.Hell (0.970566s)
+[2019.12.30-12.45.55:344][222]LogUObjectHash: Compacting FUObjectHashTables data took   7.12ms
+[2019.12.30-12.45.55:487][222]LogInit: XAudio2 using 'Динамики (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.12.30-12.45.55:968][222]LogInit: FAudioDevice initialized.
+[2019.12.30-12.45.56:010][222]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.30-12.45.56:142][222]LogLoad: Game class is 'CustomGM_C'
+[2019.12.30-12.45.57:842][222]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Hell.Hell up for play (max tick rate 0) at 2019.12.30-15.45.57
+[2019.12.30-12.45.58:426][222]LogWorld: Bringing up level for play took: 1.219485
+[2019.12.30-12.45.58:465][222]LogOnline: OSS: Creating online subsystem instance for: :Context_7
+[2019.12.30-12.45.58:804][222]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0007 seconds. Added 20 classes and 0 folders.
+[2019.12.30-12.45.59:137][222]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Hell 4,73
+[2019.12.30-12.45.59:138][222]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Hell.Hell:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Hell.Hell:PersistentLevel.Hell' with GeneratedClass '/Game/Maps/Hell.Hell_C' with ClassGeneratedBy '/Game/Maps/Hell.Hell:PersistentLevel.Hell'
+[2019.12.30-12.46.05:323][225]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.12.30-12.46.07:526][270]LogNet: Browse: /Game/Maps/GameOver
+[2019.12.30-12.46.07:565][270]LogLoad: LoadMap: /Game/Maps/GameOver
+[2019.12.30-12.46.07:565][270]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Hell
+[2019.12.30-12.46.07:590][270]LogWorld: UWorld::CleanupWorld for Hell, bSessionEnded=true, bCleanupResources=true
+[2019.12.30-12.46.08:122][270]LogUObjectHash: Compacting FUObjectHashTables data took   9.72ms
+[2019.12.30-12.46.08:254][270]LogAIModule: Creating AISystem for world GameOver
+[2019.12.30-12.46.08:254][270]LogLoad: Game class is 'CustomGM_C'
+[2019.12.30-12.46.08:256][270]LogWorld: Bringing World /Game/Maps/UEDPIE_0_GameOver.GameOver up for play (max tick rate 0) at 2019.12.30-15.46.08
+[2019.12.30-12.46.08:256][270]LogWorld: Bringing up level for play took: 0.000750
+[2019.12.30-12.46.08:256][270]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2019.12.30-12.46.08:259][270]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(723)]!
+[2019.12.30-12.46.08:272][270]LogLoad: Took 0.706747 seconds to LoadMap(/Game/Maps/GameOver)
+[2019.12.30-12.46.09:584][328]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.30-12.46.09:586][328]LogNet: Browse: /Game/Maps/Peaceful
+[2019.12.30-12.46.09:586][328]LogLoad: LoadMap: /Game/Maps/Peaceful
+[2019.12.30-12.46.09:586][328]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_GameOver
+[2019.12.30-12.46.09:587][328]LogWorld: UWorld::CleanupWorld for GameOver, bSessionEnded=true, bCleanupResources=true
+[2019.12.30-12.46.09:703][328]LogUObjectHash: Compacting FUObjectHashTables data took   7.45ms
+[2019.12.30-12.46.11:344][328]LogAIModule: Creating AISystem for world Peaceful
+[2019.12.30-12.46.11:345][328]LogLoad: Game class is 'CustomGM_C'
+[2019.12.30-12.46.12:091][328]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Peaceful.Peaceful up for play (max tick rate 0) at 2019.12.30-15.46.12
+[2019.12.30-12.46.12:128][328]LogWorld: Bringing up level for play took: 0.783982
+[2019.12.30-12.46.12:132][328]LogLoad: Took 2.546710 seconds to LoadMap(/Game/Maps/Peaceful)
+[2019.12.30-12.46.12:647][330]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.12.30-12.46.12:721][332]LogHttp: Warning: 000001F9482CA340: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BEB9EB6B6-4B32-D5DC-B0CB-9EB9F4E1680E%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.0-8386587%2B%2B%2BUE4%2BRelease-4.23&UserID=e167d8634e0401a9c81ddea97c5dd187%7Cde31d28a090c4bb9ada4ed616c8da227%7C07011f6c-5ee6-480e-93d5-f1d2be119f73&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: -1, actual payload size: 0
+[2019.12.30-12.46.12:721][332]LogHttp: Warning: 000001F9482CA340: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2019.12.30-12.46.12:721][332]LogHttp: Warning: 000001F9482CA340: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2019.12.30-12.46.12:721][332]LogHttp: Warning: 000001F9482CA340: libcurl info message cache 1 (Closing connection 2)
+[2019.12.30-12.46.12:721][332]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BEB9EB6B6-4B32-D5DC-B0CB-9EB9F4E1680E%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.0-8386587%2B%2B%2BUE4%2BRelease-4.23&UserID=e167d8634e0401a9c81ddea97c5dd187%7Cde31d28a090c4bb9ada4ed616c8da227%7C07011f6c-5ee6-480e-93d5-f1d2be119f73&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.12.30-12.46.13:482][346]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Hell.Hell:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Hell.Hell:PersistentLevel.Hell' with GeneratedClass '/Game/Maps/Hell.Hell_C' with ClassGeneratedBy '/Game/Maps/Hell.Hell:PersistentLevel.Hell'
+[2019.12.30-12.46.13:494][346]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.30-12.46.13:494][346]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Peaceful
+[2019.12.30-12.46.13:547][346]LogSlate: Window 'JustDoIt Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.12.30-12.46.13:553][346]LogWorld: UWorld::CleanupWorld for Peaceful, bSessionEnded=true, bCleanupResources=true
+[2019.12.30-12.46.13:589][346]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.12.30-12.46.13:590][346]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Hell.Hell:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Hell.Hell:PersistentLevel.Hell' with GeneratedClass '/Game/Maps/Hell.Hell_C' with ClassGeneratedBy '/Game/Maps/Hell.Hell:PersistentLevel.Hell'
+[2019.12.30-12.46.13:876][346]LogUObjectHash: Compacting FUObjectHashTables data took   7.91ms
+[2019.12.30-12.46.14:235][347]LogPlayLevel: Display: Destroying online subsystem :Context_7
+[2019.12.30-12.46.18:399][749]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2019.12.30-12.46.18:647][749]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.12.30-12.46.18:663][749]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Hell" FILE="../../../../../../Study/Labs/7 semester/CGA/JustDoIt/Content/Maps/Hell.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.12.30-12.46.18:763][749]LogUObjectHash: Compacting FUObjectHashTables data took   1.50ms
+[2019.12.30-12.46.26:713][749]LogSavePackage: Moving '../../../../../../Study/Labs/7 semester/CGA/JustDoIt/Saved/HellF330BFDE4F0450D58F207B9AAB728235.tmp' to '../../../../../../Study/Labs/7 semester/CGA/JustDoIt/Content/Maps/Hell.umap'
+[2019.12.30-12.46.26:843][749]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Hell_BuiltData" FILE="../../../../../../Study/Labs/7 semester/CGA/JustDoIt/Content/Maps/Hell_BuiltData.uasset" SILENT=true
+[2019.12.30-12.46.27:014][749]LogSavePackage: Moving '../../../../../../Study/Labs/7 semester/CGA/JustDoIt/Saved/Hell_BuiltData3058C11C42900D56C33C78BDA2F0628B.tmp' to '../../../../../../Study/Labs/7 semester/CGA/JustDoIt/Content/Maps/Hell_BuiltData.uasset'
+[2019.12.30-12.46.27:735][807]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2019.12.30-12.46.27:788][807]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Hell.Hell:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Hell.Hell:PersistentLevel.Hell' with GeneratedClass '/Game/Maps/Hell.Hell_C' with ClassGeneratedBy '/Game/Maps/Hell.Hell:PersistentLevel.Hell'
+[2019.12.30-12.46.27:791][807]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.12.30-12.46.27:792][807]PIE: New page: PIE session: Hell (30 дек. 2019 г., 18:46:27)
+[2019.12.30-12.46.27:792][807]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Hell
+[2019.12.30-12.46.28:529][807]LogPlayLevel: PIE: StaticDuplicateObject took: (0.737453s)
+[2019.12.30-12.46.28:530][807]LogAIModule: Creating AISystem for world Hell
+[2019.12.30-12.46.28:530][807]LogPlayLevel: PIE: World Init took: (0.001441s)
+[2019.12.30-12.46.28:531][807]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Hell.Hell to /Game/Maps/UEDPIE_0_Hell.Hell (0.739636s)
+[2019.12.30-12.46.28:602][807]LogUObjectHash: Compacting FUObjectHashTables data took   8.73ms
+[2019.12.30-12.46.28:612][807]LogInit: XAudio2 using 'Динамики (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.12.30-12.46.28:745][807]LogInit: FAudioDevice initialized.
+[2019.12.30-12.46.28:754][807]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.30-12.46.28:754][807]LogLoad: Game class is 'CustomGM_C'
+[2019.12.30-12.46.29:308][807]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Hell.Hell up for play (max tick rate 0) at 2019.12.30-15.46.29
+[2019.12.30-12.46.29:462][807]LogWorld: Bringing up level for play took: 0.705817
+[2019.12.30-12.46.29:462][807]LogOnline: OSS: Creating online subsystem instance for: :Context_9
+[2019.12.30-12.46.29:476][807]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Hell 1,069
+[2019.12.30-12.46.29:476][807]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Hell.Hell:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Hell.Hell:PersistentLevel.Hell' with GeneratedClass '/Game/Maps/Hell.Hell_C' with ClassGeneratedBy '/Game/Maps/Hell.Hell:PersistentLevel.Hell'
+[2019.12.30-12.46.31:343][828]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.12.30-12.46.31:489][831]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.12.30-12.47.06:949][497]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.12.30-12.47.07:150][501]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.12.30-12.47.07:468][506]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.12.30-12.47.07:567][508]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.12.30-12.47.07:762][512]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.12.30-12.47.48:567][289]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.12.30-12.47.48:722][292]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.12.30-12.47.48:929][296]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.12.30-12.47.49:076][299]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.12.30-12.47.49:225][302]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.12.30-12.47.54:949][411]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Hell.Hell:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Hell.Hell:PersistentLevel.Hell' with GeneratedClass '/Game/Maps/Hell.Hell_C' with ClassGeneratedBy '/Game/Maps/Hell.Hell:PersistentLevel.Hell'
+[2019.12.30-12.47.54:954][411]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.30-12.47.54:954][411]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Hell
+[2019.12.30-12.47.55:020][411]LogSlate: Window 'JustDoIt Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.12.30-12.47.55:045][411]LogWorld: UWorld::CleanupWorld for Hell, bSessionEnded=true, bCleanupResources=true
+[2019.12.30-12.47.55:271][411]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.12.30-12.47.55:272][411]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Hell.Hell:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Hell.Hell:PersistentLevel.Hell' with GeneratedClass '/Game/Maps/Hell.Hell_C' with ClassGeneratedBy '/Game/Maps/Hell.Hell:PersistentLevel.Hell'
+[2019.12.30-12.47.55:487][411]LogUObjectHash: Compacting FUObjectHashTables data took   7.84ms
+[2019.12.30-12.47.55:502][412]LogPlayLevel: Display: Destroying online subsystem :Context_9
+[2019.12.30-12.48.12:776][714]LogHttp: Warning: 000001F9BB47A200: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BEB9EB6B6-4B32-D5DC-B0CB-9EB9F4E1680E%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.0-8386587%2B%2B%2BUE4%2BRelease-4.23&UserID=e167d8634e0401a9c81ddea97c5dd187%7Cde31d28a090c4bb9ada4ed616c8da227%7C07011f6c-5ee6-480e-93d5-f1d2be119f73&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: -1, actual payload size: 0
+[2019.12.30-12.48.12:776][714]LogHttp: Warning: 000001F9BB47A200: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2019.12.30-12.48.12:776][714]LogHttp: Warning: 000001F9BB47A200: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2019.12.30-12.48.12:776][714]LogHttp: Warning: 000001F9BB47A200: libcurl info message cache 1 (Closing connection 3)
+[2019.12.30-12.48.12:776][714]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BEB9EB6B6-4B32-D5DC-B0CB-9EB9F4E1680E%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.0-8386587%2B%2B%2BUE4%2BRelease-4.23&UserID=e167d8634e0401a9c81ddea97c5dd187%7Cde31d28a090c4bb9ada4ed616c8da227%7C07011f6c-5ee6-480e-93d5-f1d2be119f73&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.12.30-12.48.28:584][ 71]LogEditorTransaction: Undo Create Pin Link
+[2019.12.30-12.49.29:063][235]BlueprintLog: New page: Compile ZombiePC
+[2019.12.30-12.49.29:631][235]LogUObjectHash: Compacting FUObjectHashTables data took   9.25ms
+[2019.12.30-12.49.31:370][388]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2019.12.30-12.49.31:414][388]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Hell.Hell:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Hell.Hell:PersistentLevel.Hell' with GeneratedClass '/Game/Maps/Hell.Hell_C' with ClassGeneratedBy '/Game/Maps/Hell.Hell:PersistentLevel.Hell'
+[2019.12.30-12.49.31:417][388]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.12.30-12.49.31:417][388]PIE: New page: PIE session: Hell (30 дек. 2019 г., 18:49:31)
+[2019.12.30-12.49.31:417][388]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Hell
+[2019.12.30-12.49.32:151][388]LogPlayLevel: PIE: StaticDuplicateObject took: (0.734153s)
+[2019.12.30-12.49.32:152][388]LogAIModule: Creating AISystem for world Hell
+[2019.12.30-12.49.32:153][388]LogPlayLevel: PIE: World Init took: (0.001723s)
+[2019.12.30-12.49.32:153][388]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Hell.Hell to /Game/Maps/UEDPIE_0_Hell.Hell (0.736529s)
+[2019.12.30-12.49.32:230][388]LogUObjectHash: Compacting FUObjectHashTables data took   8.84ms
+[2019.12.30-12.49.32:237][388]LogInit: XAudio2 using 'Динамики (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.12.30-12.49.32:349][388]LogInit: FAudioDevice initialized.
+[2019.12.30-12.49.32:357][388]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.30-12.49.32:358][388]LogLoad: Game class is 'CustomGM_C'
+[2019.12.30-12.49.32:935][388]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Hell.Hell up for play (max tick rate 0) at 2019.12.30-15.49.32
+[2019.12.30-12.49.33:081][388]LogWorld: Bringing up level for play took: 0.721635
+[2019.12.30-12.49.33:082][388]LogOnline: OSS: Creating online subsystem instance for: :Context_10
+[2019.12.30-12.49.33:096][388]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Hell 0,689
+[2019.12.30-12.49.33:097][388]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Hell.Hell:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Hell.Hell:PersistentLevel.Hell' with GeneratedClass '/Game/Maps/Hell.Hell_C' with ClassGeneratedBy '/Game/Maps/Hell.Hell:PersistentLevel.Hell'
+[2019.12.30-12.49.37:802][457]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.12.30-12.49.37:904][459]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.12.30-12.50.03:922][949]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.12.30-12.50.04:131][953]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.12.30-12.50.04:429][959]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.12.30-12.50.04:830][967]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.12.30-12.50.12:840][128]LogHttp: Warning: 000001F9C1E3CA40: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BEB9EB6B6-4B32-D5DC-B0CB-9EB9F4E1680E%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.0-8386587%2B%2B%2BUE4%2BRelease-4.23&UserID=e167d8634e0401a9c81ddea97c5dd187%7Cde31d28a090c4bb9ada4ed616c8da227%7C07011f6c-5ee6-480e-93d5-f1d2be119f73&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: -1, actual payload size: 0
+[2019.12.30-12.50.12:841][128]LogHttp: Warning: 000001F9C1E3CA40: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2019.12.30-12.50.12:841][128]LogHttp: Warning: 000001F9C1E3CA40: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2019.12.30-12.50.12:841][128]LogHttp: Warning: 000001F9C1E3CA40: libcurl info message cache 1 (Closing connection 4)
+[2019.12.30-12.50.12:841][128]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BEB9EB6B6-4B32-D5DC-B0CB-9EB9F4E1680E%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.0-8386587%2B%2B%2BUE4%2BRelease-4.23&UserID=e167d8634e0401a9c81ddea97c5dd187%7Cde31d28a090c4bb9ada4ed616c8da227%7C07011f6c-5ee6-480e-93d5-f1d2be119f73&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.12.30-12.50.13:584][143]LogCharacterMovement: Zombie_C_0 is stuck and failed to move! Velocity: X=0.08 Y=53.02 Z=0.00 Location: X=-157.37 Y=-747.36 Z=62.55 Normal: X=0.57 Y=-0.82 Z=-0.00 PenetrationDepth:7.803 Actor:Cow_2 Component:Cube BoneName:None (0 other events since notify)
+[2019.12.30-12.50.14:595][164]LogCharacterMovement: Zombie_C_0 is stuck and failed to move! Velocity: X=0.09 Y=53.67 Z=0.00 Location: X=-157.37 Y=-747.36 Z=62.55 Normal: X=0.58 Y=-0.82 Z=-0.00 PenetrationDepth:11.515 Actor:Cow_2 Component:Cube BoneName:None (1 other events since notify)
+[2019.12.30-12.50.18:532][246]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Hell.Hell:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Hell.Hell:PersistentLevel.Hell' with GeneratedClass '/Game/Maps/Hell.Hell_C' with ClassGeneratedBy '/Game/Maps/Hell.Hell:PersistentLevel.Hell'
+[2019.12.30-12.50.18:540][246]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.30-12.50.18:540][246]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Hell
+[2019.12.30-12.50.18:584][246]LogSlate: Window 'JustDoIt Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.12.30-12.50.18:599][246]LogWorld: UWorld::CleanupWorld for Hell, bSessionEnded=true, bCleanupResources=true
+[2019.12.30-12.50.18:843][246]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.12.30-12.50.18:844][246]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Hell.Hell:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Hell.Hell:PersistentLevel.Hell' with GeneratedClass '/Game/Maps/Hell.Hell_C' with ClassGeneratedBy '/Game/Maps/Hell.Hell:PersistentLevel.Hell'
+[2019.12.30-12.50.19:074][246]LogUObjectHash: Compacting FUObjectHashTables data took   7.38ms
+[2019.12.30-12.50.19:586][247]LogPlayLevel: Display: Destroying online subsystem :Context_10
+[2019.12.30-13.40.33:251][611]LogD3D11RHI: Timed out while waiting for GPU to catch up. (500 ms)
+[2019.12.30-13.40.33:662][613]LogHttp: Warning: 000001F96B512D40: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BEB9EB6B6-4B32-D5DC-B0CB-9EB9F4E1680E%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.0-8386587%2B%2B%2BUE4%2BRelease-4.23&UserID=e167d8634e0401a9c81ddea97c5dd187%7Cde31d28a090c4bb9ada4ed616c8da227%7C07011f6c-5ee6-480e-93d5-f1d2be119f73&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: -1, actual payload size: 0
+[2019.12.30-13.40.33:662][613]LogHttp: Warning: 000001F96B512D40: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2019.12.30-13.40.33:662][613]LogHttp: Warning: 000001F96B512D40: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2019.12.30-13.40.33:662][613]LogHttp: Warning: 000001F96B512D40: libcurl info message cache 1 (Closing connection 5)
+[2019.12.30-13.40.33:995][614]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BEB9EB6B6-4B32-D5DC-B0CB-9EB9F4E1680E%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.0-8386587%2B%2B%2BUE4%2BRelease-4.23&UserID=e167d8634e0401a9c81ddea97c5dd187%7Cde31d28a090c4bb9ada4ed616c8da227%7C07011f6c-5ee6-480e-93d5-f1d2be119f73&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.12.30-13.40.41:414][670]LogUObjectHash: Compacting FUObjectHashTables data took   3.10ms
+[2019.12.30-13.40.41:414][670]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Hell' took 0.107
+[2019.12.30-13.40.41:418][670]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/AI/ZombiePC] ([1] browsable assets)...
+[2019.12.30-13.40.41:418][670]OBJ SavePackage: Finished generating thumbnails for package [/Game/AI/ZombiePC]
+[2019.12.30-13.40.41:419][670]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AI/ZombiePC" FILE="../../../../../../Study/Labs/7 semester/CGA/JustDoIt/Saved/Autosaves/Game/AI/ZombiePC_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2019.12.30-13.40.41:607][670]LogSavePackage: Moving '../../../../../../Study/Labs/7 semester/CGA/JustDoIt/Saved/ZombiePC_Auto179FB7490444090562F2D67B986492E5F.tmp' to '../../../../../../Study/Labs/7 semester/CGA/JustDoIt/Saved/Autosaves/Game/AI/ZombiePC_Auto1.uasset'
+[2019.12.30-13.40.41:609][670]LogFileHelpers: Auto-saving content packages took 0.192
+[2019.12.30-13.41.00:320][334]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Inventory/InventoryComponent.InventoryComponent
+[2019.12.30-13.41.13:368][196]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2019.12.30-13.41.16:849][526]LogEditorViewport: Clicking on Actor (LMB): HellGround_C (HellGround1049)
+[2019.12.30-13.41.18:019][617]LogEditorViewport: Clicking on Actor (LMB): HellGround_C (HellGround1035)
+[2019.12.30-13.41.21:762][978]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.30-13.42.34:572][ 14]LogHttp: Warning: 000001F9BD2BC7C0: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BEB9EB6B6-4B32-D5DC-B0CB-9EB9F4E1680E%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.0-8386587%2B%2B%2BUE4%2BRelease-4.23&UserID=e167d8634e0401a9c81ddea97c5dd187%7Cde31d28a090c4bb9ada4ed616c8da227%7C07011f6c-5ee6-480e-93d5-f1d2be119f73&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: -1, actual payload size: 0
+[2019.12.30-13.42.34:573][ 14]LogHttp: Warning: 000001F9BD2BC7C0: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2019.12.30-13.42.34:573][ 14]LogHttp: Warning: 000001F9BD2BC7C0: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2019.12.30-13.42.34:573][ 14]LogHttp: Warning: 000001F9BD2BC7C0: libcurl info message cache 1 (Closing connection 6)
+[2019.12.30-13.42.34:573][ 14]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BEB9EB6B6-4B32-D5DC-B0CB-9EB9F4E1680E%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.0-8386587%2B%2B%2BUE4%2BRelease-4.23&UserID=e167d8634e0401a9c81ddea97c5dd187%7Cde31d28a090c4bb9ada4ed616c8da227%7C07011f6c-5ee6-480e-93d5-f1d2be119f73&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.12.30-13.47.38:554][ 28]LogD3D11RHI: Timed out while waiting for GPU to catch up. (500 ms)
+[2019.12.30-13.47.38:581][ 29]LogHttp: Warning: 000001F9BD2BC7C0: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BEB9EB6B6-4B32-D5DC-B0CB-9EB9F4E1680E%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.0-8386587%2B%2B%2BUE4%2BRelease-4.23&UserID=e167d8634e0401a9c81ddea97c5dd187%7Cde31d28a090c4bb9ada4ed616c8da227%7C07011f6c-5ee6-480e-93d5-f1d2be119f73&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: -1, actual payload size: 0
+[2019.12.30-13.47.38:582][ 29]LogHttp: Warning: 000001F9BD2BC7C0: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2019.12.30-13.47.38:582][ 29]LogHttp: Warning: 000001F9BD2BC7C0: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2019.12.30-13.47.38:582][ 29]LogHttp: Warning: 000001F9BD2BC7C0: libcurl info message cache 1 (Closing connection 7)
+[2019.12.30-13.47.38:896][ 30]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BEB9EB6B6-4B32-D5DC-B0CB-9EB9F4E1680E%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.0-8386587%2B%2B%2BUE4%2BRelease-4.23&UserID=e167d8634e0401a9c81ddea97c5dd187%7Cde31d28a090c4bb9ada4ed616c8da227%7C07011f6c-5ee6-480e-93d5-f1d2be119f73&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.12.30-13.47.50:819][474]LogAIModule: Creating AISystem for world Menu
+[2019.12.30-13.47.50:823][474]LogAssetEditorManager: Opening Asset editor for World /Game/Maps/Menu.Menu
+[2019.12.30-13.47.50:902][474]LogUObjectHash: Compacting FUObjectHashTables data took   8.30ms
+[2019.12.30-13.47.53:161][474]LogSlate: Window 'Save Content' being destroyed
+[2019.12.30-13.47.53:173][474]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AI/ZombiePC" FILE="../../../../../../Study/Labs/7 semester/CGA/JustDoIt/Content/AI/ZombiePC.uasset" SILENT=true
+[2019.12.30-13.47.53:331][474]LogSavePackage: Moving '../../../../../../Study/Labs/7 semester/CGA/JustDoIt/Saved/ZombiePC12E6E54746DC0C17824368803BCA10B8.tmp' to '../../../../../../Study/Labs/7 semester/CGA/JustDoIt/Content/AI/ZombiePC.uasset'
+[2019.12.30-13.47.53:347][474]Cmd: MAP LOAD FILE="../../../../../../Study/Labs/7 semester/CGA/JustDoIt/Content/Maps/Menu.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.12.30-13.47.53:347][474]LightingResults: New page: Lighting Build
+[2019.12.30-13.47.53:349][474]LoadErrors: New page: Loading map: Menu.umap
+[2019.12.30-13.47.53:550][474]LogWorld: UWorld::CleanupWorld for Hell, bSessionEnded=true, bCleanupResources=true
+[2019.12.30-13.47.53:599][474]MapCheck: New page: Map Check
+[2019.12.30-13.47.53:599][474]LightingResults: New page: Lighting Build
+[2019.12.30-13.47.53:752][474]LogUObjectHash: Compacting FUObjectHashTables data took   9.13ms
+[2019.12.30-13.47.54:047][474]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.12.30-13.47.54:114][474]LogUObjectHash: Compacting FUObjectHashTables data took   5.72ms
+[2019.12.30-13.47.54:180][474]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.12.30-13.47.54:180][474]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,133ms to complete.
+[2019.12.30-13.47.54:180][474]LogFileHelpers: Loading map 'Menu' took 0.835
+[2019.12.30-13.47.55:782][616]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2019.12.30-13.47.55:832][616]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Menu.Menu:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Menu.Menu:PersistentLevel.Menu' with GeneratedClass '/Game/Maps/Menu.Menu_C' with ClassGeneratedBy '/Game/Maps/Menu.Menu:PersistentLevel.Menu'
+[2019.12.30-13.47.55:836][616]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.12.30-13.47.55:836][616]PIE: New page: PIE session: Menu (30 дек. 2019 г., 19:47:55)
+[2019.12.30-13.47.55:836][616]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Menu
+[2019.12.30-13.47.55:838][616]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001723s)
+[2019.12.30-13.47.55:840][616]LogAIModule: Creating AISystem for world Menu
+[2019.12.30-13.47.55:840][616]LogPlayLevel: PIE: World Init took: (0.001620s)
+[2019.12.30-13.47.55:840][616]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Menu.Menu to /Game/Maps/UEDPIE_0_Menu.Menu (0.003733s)
+[2019.12.30-13.47.55:905][616]LogUObjectHash: Compacting FUObjectHashTables data took   5.60ms
+[2019.12.30-13.47.55:909][616]LogInit: XAudio2 using 'Динамики (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.12.30-13.47.56:022][616]LogInit: FAudioDevice initialized.
+[2019.12.30-13.47.56:030][616]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.30-13.47.56:031][616]LogLoad: Game class is 'CustomGM_C'
+[2019.12.30-13.47.56:033][616]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Menu.Menu up for play (max tick rate 0) at 2019.12.30-16.47.56
+[2019.12.30-13.47.56:033][616]LogWorld: Bringing up level for play took: 0.000898
+[2019.12.30-13.47.56:034][616]LogOnline: OSS: Creating online subsystem instance for: :Context_12
+[2019.12.30-13.47.56:048][616]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Menu -0,306
+[2019.12.30-13.47.56:049][616]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Menu.Menu:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Menu.Menu:PersistentLevel.Menu' with GeneratedClass '/Game/Maps/Menu.Menu_C' with ClassGeneratedBy '/Game/Maps/Menu.Menu:PersistentLevel.Menu'
+[2019.12.30-13.47.57:206][661]LogNet: Browse: /Game/Maps/Peaceful
+[2019.12.30-13.47.57:206][661]LogLoad: LoadMap: /Game/Maps/Peaceful
+[2019.12.30-13.47.57:206][661]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Menu
+[2019.12.30-13.47.57:207][661]LogWorld: UWorld::CleanupWorld for Menu, bSessionEnded=true, bCleanupResources=true
+[2019.12.30-13.47.57:272][661]LogUObjectHash: Compacting FUObjectHashTables data took   6.04ms
+[2019.12.30-13.47.57:608][661]LogAIModule: Creating AISystem for world Peaceful
+[2019.12.30-13.47.57:609][661]LogLoad: Game class is 'CustomGM_C'
+[2019.12.30-13.47.58:306][661]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Peaceful.Peaceful up for play (max tick rate 0) at 2019.12.30-16.47.58
+[2019.12.30-13.47.58:312][661]LogWorld: Bringing up level for play took: 0.701896
+[2019.12.30-13.47.58:316][661]LogLoad: Took 1.110337 seconds to LoadMap(/Game/Maps/Peaceful)
+[2019.12.30-13.47.58:597][663]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.12.30-13.47.59:453][682]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.12.30-13.48.11:513][951]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.12.30-13.48.11:785][957]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.12.30-13.48.12:153][965]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.12.30-13.48.12:653][976]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.12.30-13.48.12:930][982]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.12.30-13.48.13:415][993]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.12.30-13.48.13:632][998]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.12.30-13.48.13:842][  3]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.12.30-13.48.14:088][  9]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.12.30-13.48.14:462][ 18]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.12.30-13.48.14:710][ 24]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.12.30-13.48.29:416][399]LogNet: Browse: /Game/Maps/GameOver
+[2019.12.30-13.48.29:416][399]LogLoad: LoadMap: /Game/Maps/GameOver
+[2019.12.30-13.48.29:416][399]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Peaceful
+[2019.12.30-13.48.29:422][399]LogWorld: UWorld::CleanupWorld for Peaceful, bSessionEnded=true, bCleanupResources=true
+[2019.12.30-13.48.29:515][399]LogUObjectHash: Compacting FUObjectHashTables data took   2.01ms
+[2019.12.30-13.48.29:531][399]LogAIModule: Creating AISystem for world GameOver
+[2019.12.30-13.48.29:531][399]LogLoad: Game class is 'CustomGM_C'
+[2019.12.30-13.48.29:533][399]LogWorld: Bringing World /Game/Maps/UEDPIE_0_GameOver.GameOver up for play (max tick rate 0) at 2019.12.30-16.48.29
+[2019.12.30-13.48.29:533][399]LogWorld: Bringing up level for play took: 0.000786
+[2019.12.30-13.48.29:533][399]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2019.12.30-13.48.29:537][399]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(723)]!
+[2019.12.30-13.48.29:537][399]LogLoad: Took 0.120892 seconds to LoadMap(/Game/Maps/GameOver)
+[2019.12.30-13.48.33:402][586]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.30-13.48.33:402][586]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.30-13.48.33:402][586]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Menu.Menu:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Menu.Menu:PersistentLevel.Menu' with GeneratedClass '/Game/Maps/Menu.Menu_C' with ClassGeneratedBy '/Game/Maps/Menu.Menu:PersistentLevel.Menu'
+[2019.12.30-13.48.33:406][586]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_GameOver
+[2019.12.30-13.48.33:440][586]LogSlate: Window 'JustDoIt Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.12.30-13.48.33:447][586]LogWorld: UWorld::CleanupWorld for GameOver, bSessionEnded=true, bCleanupResources=true
+[2019.12.30-13.48.33:453][586]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.12.30-13.48.33:454][586]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Menu.Menu:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Menu.Menu:PersistentLevel.Menu' with GeneratedClass '/Game/Maps/Menu.Menu_C' with ClassGeneratedBy '/Game/Maps/Menu.Menu:PersistentLevel.Menu'
+[2019.12.30-13.48.33:547][586]LogUObjectHash: Compacting FUObjectHashTables data took   1.61ms
+[2019.12.30-13.48.33:615][587]LogPlayLevel: Display: Destroying online subsystem :Context_12
+[2019.12.30-13.49.31:110][204]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/AI/Cow.Cow
+[2019.12.30-13.49.36:752][565]LogRenderer: Reallocating scene render targets to support 924x652 Format 9 NumSamples 1 (Frame:1).
+[2019.12.30-13.49.38:921][666]LogHttp: Warning: 000001F9735987C0: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BEB9EB6B6-4B32-D5DC-B0CB-9EB9F4E1680E%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.0-8386587%2B%2B%2BUE4%2BRelease-4.23&UserID=e167d8634e0401a9c81ddea97c5dd187%7Cde31d28a090c4bb9ada4ed616c8da227%7C07011f6c-5ee6-480e-93d5-f1d2be119f73&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: -1, actual payload size: 0
+[2019.12.30-13.49.38:921][666]LogHttp: Warning: 000001F9735987C0: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2019.12.30-13.49.38:921][666]LogHttp: Warning: 000001F9735987C0: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2019.12.30-13.49.38:921][666]LogHttp: Warning: 000001F9735987C0: libcurl info message cache 1 (Closing connection 8)
+[2019.12.30-13.49.38:921][666]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BEB9EB6B6-4B32-D5DC-B0CB-9EB9F4E1680E%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.0-8386587%2B%2B%2BUE4%2BRelease-4.23&UserID=e167d8634e0401a9c81ddea97c5dd187%7Cde31d28a090c4bb9ada4ed616c8da227%7C07011f6c-5ee6-480e-93d5-f1d2be119f73&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.12.30-13.50.02:088][214]BlueprintLog: New page: Compile Cow
+[2019.12.30-13.50.02:648][214]LogUObjectHash: Compacting FUObjectHashTables data took   9.70ms
+[2019.12.30-13.50.02:883][214]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AI/Cow" FILE="../../../../../../Study/Labs/7 semester/CGA/JustDoIt/Content/AI/Cow.uasset" SILENT=true
+[2019.12.30-13.50.03:156][214]LogSavePackage: Moving '../../../../../../Study/Labs/7 semester/CGA/JustDoIt/Saved/CowDC0579BE4D2370771DD0D3B180D0821F.tmp' to '../../../../../../Study/Labs/7 semester/CGA/JustDoIt/Content/AI/Cow.uasset'
+[2019.12.30-13.50.03:938][262]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2019.12.30-13.51.33:194][662]LogD3D11RHI: Timed out while waiting for GPU to catch up. (500 ms)
+[2019.12.30-13.51.39:277][679]LogHttp: Warning: 000001F9054BEFC0: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BEB9EB6B6-4B32-D5DC-B0CB-9EB9F4E1680E%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.0-8386587%2B%2B%2BUE4%2BRelease-4.23&UserID=e167d8634e0401a9c81ddea97c5dd187%7Cde31d28a090c4bb9ada4ed616c8da227%7C07011f6c-5ee6-480e-93d5-f1d2be119f73&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: -1, actual payload size: 0
+[2019.12.30-13.51.39:277][679]LogHttp: Warning: 000001F9054BEFC0: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2019.12.30-13.51.39:277][679]LogHttp: Warning: 000001F9054BEFC0: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2019.12.30-13.51.39:277][679]LogHttp: Warning: 000001F9054BEFC0: libcurl info message cache 1 (Closing connection 9)
+[2019.12.30-14.02.45:516][680]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BEB9EB6B6-4B32-D5DC-B0CB-9EB9F4E1680E%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.0-8386587%2B%2B%2BUE4%2BRelease-4.23&UserID=e167d8634e0401a9c81ddea97c5dd187%7Cde31d28a090c4bb9ada4ed616c8da227%7C07011f6c-5ee6-480e-93d5-f1d2be119f73&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.12.30-14.02.46:725][680]LogD3D11RHI: Timed out while waiting for GPU to catch up. (500 ms)
+[2019.12.30-14.03.00:941][ 68]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Buildable/Plant.Plant
+[2019.12.30-14.04.45:559][650]LogHttp: Warning: 000001F905512480: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BEB9EB6B6-4B32-D5DC-B0CB-9EB9F4E1680E%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.0-8386587%2B%2B%2BUE4%2BRelease-4.23&UserID=e167d8634e0401a9c81ddea97c5dd187%7Cde31d28a090c4bb9ada4ed616c8da227%7C07011f6c-5ee6-480e-93d5-f1d2be119f73&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: -1, actual payload size: 0
+[2019.12.30-14.04.45:559][650]LogHttp: Warning: 000001F905512480: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2019.12.30-14.04.45:559][650]LogHttp: Warning: 000001F905512480: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2019.12.30-14.04.45:560][650]LogHttp: Warning: 000001F905512480: libcurl info message cache 1 (Closing connection 10)
+[2019.12.30-14.04.45:560][650]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BEB9EB6B6-4B32-D5DC-B0CB-9EB9F4E1680E%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.0-8386587%2B%2B%2BUE4%2BRelease-4.23&UserID=e167d8634e0401a9c81ddea97c5dd187%7Cde31d28a090c4bb9ada4ed616c8da227%7C07011f6c-5ee6-480e-93d5-f1d2be119f73&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.12.30-14.04.57:116][385]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Buildable/Plant" FILE="../../../../../../Study/Labs/7 semester/CGA/JustDoIt/Content/Buildable/Plant.uasset" SILENT=true
+[2019.12.30-14.04.57:397][385]LogSavePackage: Moving '../../../../../../Study/Labs/7 semester/CGA/JustDoIt/Saved/Plant776CAC934D4B2B9648714C9B61089B0A.tmp' to '../../../../../../Study/Labs/7 semester/CGA/JustDoIt/Content/Buildable/Plant.uasset'
+[2019.12.30-14.04.58:572][464]BlueprintLog: New page: Compile Plant
+[2019.12.30-14.04.59:166][464]LogUObjectHash: Compacting FUObjectHashTables data took   9.69ms
+[2019.12.30-14.05.00:079][506]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Buildable/Plant" FILE="../../../../../../Study/Labs/7 semester/CGA/JustDoIt/Content/Buildable/Plant.uasset" SILENT=true
+[2019.12.30-14.05.00:215][506]LogSavePackage: Moving '../../../../../../Study/Labs/7 semester/CGA/JustDoIt/Saved/PlantDDD57CA64CCCF16C9D2D0DA4CEB9C2F7.tmp' to '../../../../../../Study/Labs/7 semester/CGA/JustDoIt/Content/Buildable/Plant.uasset'
+[2019.12.30-14.05.03:076][690]LogWorld: UWorld::CleanupWorld for World_16, bSessionEnded=true, bCleanupResources=true
+[2019.12.30-14.11.37:637][758]LogD3D11RHI: Timed out while waiting for GPU to catch up. (500 ms)
+[2019.12.30-14.11.37:637][758]LogHttp: Warning: 000001F90564F740: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BEB9EB6B6-4B32-D5DC-B0CB-9EB9F4E1680E%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.0-8386587%2B%2B%2BUE4%2BRelease-4.23&UserID=e167d8634e0401a9c81ddea97c5dd187%7Cde31d28a090c4bb9ada4ed616c8da227%7C07011f6c-5ee6-480e-93d5-f1d2be119f73&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: -1, actual payload size: 0
+[2019.12.30-14.11.37:638][758]LogHttp: Warning: 000001F90564F740: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2019.12.30-14.11.37:638][758]LogHttp: Warning: 000001F90564F740: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2019.12.30-14.11.37:638][758]LogHttp: Warning: 000001F90564F740: libcurl info message cache 1 (Closing connection 11)
+[2019.12.30-14.11.37:638][758]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BEB9EB6B6-4B32-D5DC-B0CB-9EB9F4E1680E%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.0-8386587%2B%2B%2BUE4%2BRelease-4.23&UserID=e167d8634e0401a9c81ddea97c5dd187%7Cde31d28a090c4bb9ada4ed616c8da227%7C07011f6c-5ee6-480e-93d5-f1d2be119f73&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.12.30-14.12.49:875][728]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2019.12.30-14.12.49:875][728]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2019.12.30-14.13.49:761][800]LogHttp: Warning: 000001F983F0FEC0: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BEB9EB6B6-4B32-D5DC-B0CB-9EB9F4E1680E%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.0-8386587%2B%2B%2BUE4%2BRelease-4.23&UserID=e167d8634e0401a9c81ddea97c5dd187%7Cde31d28a090c4bb9ada4ed616c8da227%7C07011f6c-5ee6-480e-93d5-f1d2be119f73&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: -1, actual payload size: 0
+[2019.12.30-14.13.49:761][800]LogHttp: Warning: 000001F983F0FEC0: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2019.12.30-14.13.49:761][800]LogHttp: Warning: 000001F983F0FEC0: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2019.12.30-14.13.49:761][800]LogHttp: Warning: 000001F983F0FEC0: libcurl info message cache 1 (Closing connection 12)
+[2019.12.30-14.13.49:761][800]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BEB9EB6B6-4B32-D5DC-B0CB-9EB9F4E1680E%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.0-8386587%2B%2B%2BUE4%2BRelease-4.23&UserID=e167d8634e0401a9c81ddea97c5dd187%7Cde31d28a090c4bb9ada4ed616c8da227%7C07011f6c-5ee6-480e-93d5-f1d2be119f73&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.12.30-14.15.49:778][119]LogHttp: Warning: 000001F983F0FEC0: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BEB9EB6B6-4B32-D5DC-B0CB-9EB9F4E1680E%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.0-8386587%2B%2B%2BUE4%2BRelease-4.23&UserID=e167d8634e0401a9c81ddea97c5dd187%7Cde31d28a090c4bb9ada4ed616c8da227%7C07011f6c-5ee6-480e-93d5-f1d2be119f73&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: -1, actual payload size: 0
+[2019.12.30-14.15.49:779][119]LogHttp: Warning: 000001F983F0FEC0: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2019.12.30-14.15.49:779][119]LogHttp: Warning: 000001F983F0FEC0: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2019.12.30-14.15.49:779][119]LogHttp: Warning: 000001F983F0FEC0: libcurl info message cache 1 (Closing connection 13)
+[2019.12.30-14.15.49:787][120]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BEB9EB6B6-4B32-D5DC-B0CB-9EB9F4E1680E%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.0-8386587%2B%2B%2BUE4%2BRelease-4.23&UserID=e167d8634e0401a9c81ddea97c5dd187%7Cde31d28a090c4bb9ada4ed616c8da227%7C07011f6c-5ee6-480e-93d5-f1d2be119f73&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.12.30-14.17.49:799][891]LogHttp: Warning: 000001F983F0E340: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BEB9EB6B6-4B32-D5DC-B0CB-9EB9F4E1680E%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.0-8386587%2B%2B%2BUE4%2BRelease-4.23&UserID=e167d8634e0401a9c81ddea97c5dd187%7Cde31d28a090c4bb9ada4ed616c8da227%7C07011f6c-5ee6-480e-93d5-f1d2be119f73&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: -1, actual payload size: 0
+[2019.12.30-14.17.49:799][891]LogHttp: Warning: 000001F983F0E340: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2019.12.30-14.17.49:799][891]LogHttp: Warning: 000001F983F0E340: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2019.12.30-14.17.49:799][891]LogHttp: Warning: 000001F983F0E340: libcurl info message cache 1 (Closing connection 14)
+[2019.12.30-14.17.49:807][892]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BEB9EB6B6-4B32-D5DC-B0CB-9EB9F4E1680E%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.0-8386587%2B%2B%2BUE4%2BRelease-4.23&UserID=e167d8634e0401a9c81ddea97c5dd187%7Cde31d28a090c4bb9ada4ed616c8da227%7C07011f6c-5ee6-480e-93d5-f1d2be119f73&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.12.30-14.19.49:838][294]LogHttp: Warning: 000001F983F0E340: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BEB9EB6B6-4B32-D5DC-B0CB-9EB9F4E1680E%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.0-8386587%2B%2B%2BUE4%2BRelease-4.23&UserID=e167d8634e0401a9c81ddea97c5dd187%7Cde31d28a090c4bb9ada4ed616c8da227%7C07011f6c-5ee6-480e-93d5-f1d2be119f73&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: -1, actual payload size: 0
+[2019.12.30-14.19.49:839][294]LogHttp: Warning: 000001F983F0E340: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2019.12.30-14.19.49:839][294]LogHttp: Warning: 000001F983F0E340: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2019.12.30-14.19.49:839][294]LogHttp: Warning: 000001F983F0E340: libcurl info message cache 1 (Closing connection 15)
+[2019.12.30-14.19.49:839][294]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BEB9EB6B6-4B32-D5DC-B0CB-9EB9F4E1680E%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.0-8386587%2B%2B%2BUE4%2BRelease-4.23&UserID=e167d8634e0401a9c81ddea97c5dd187%7Cde31d28a090c4bb9ada4ed616c8da227%7C07011f6c-5ee6-480e-93d5-f1d2be119f73&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.12.30-14.21.49:883][697]LogHttp: Warning: 000001F983F0E340: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BEB9EB6B6-4B32-D5DC-B0CB-9EB9F4E1680E%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.0-8386587%2B%2B%2BUE4%2BRelease-4.23&UserID=e167d8634e0401a9c81ddea97c5dd187%7Cde31d28a090c4bb9ada4ed616c8da227%7C07011f6c-5ee6-480e-93d5-f1d2be119f73&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: -1, actual payload size: 0
+[2019.12.30-14.21.49:883][697]LogHttp: Warning: 000001F983F0E340: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2019.12.30-14.21.49:883][697]LogHttp: Warning: 000001F983F0E340: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2019.12.30-14.21.49:883][697]LogHttp: Warning: 000001F983F0E340: libcurl info message cache 1 (Closing connection 16)
+[2019.12.30-14.21.49:892][698]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BEB9EB6B6-4B32-D5DC-B0CB-9EB9F4E1680E%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.0-8386587%2B%2B%2BUE4%2BRelease-4.23&UserID=e167d8634e0401a9c81ddea97c5dd187%7Cde31d28a090c4bb9ada4ed616c8da227%7C07011f6c-5ee6-480e-93d5-f1d2be119f73&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.12.30-14.21.53:576][119]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2019.12.30-14.21.53:627][119]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Menu.Menu:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Menu.Menu:PersistentLevel.Menu' with GeneratedClass '/Game/Maps/Menu.Menu_C' with ClassGeneratedBy '/Game/Maps/Menu.Menu:PersistentLevel.Menu'
+[2019.12.30-14.21.53:627][119]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.12.30-14.21.53:627][119]PIE: New page: PIE session: Menu (30 дек. 2019 г., 20:21:53)
+[2019.12.30-14.21.53:628][119]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Menu
+[2019.12.30-14.21.53:630][119]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002414s)
+[2019.12.30-14.21.53:632][119]LogAIModule: Creating AISystem for world Menu
+[2019.12.30-14.21.53:632][119]LogPlayLevel: PIE: World Init took: (0.001970s)
+[2019.12.30-14.21.53:632][119]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Menu.Menu to /Game/Maps/UEDPIE_0_Menu.Menu (0.004641s)
+[2019.12.30-14.21.53:710][119]LogUObjectHash: Compacting FUObjectHashTables data took   9.59ms
+[2019.12.30-14.21.53:715][119]LogInit: XAudio2 using 'Динамики (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.12.30-14.21.53:830][119]LogInit: FAudioDevice initialized.
+[2019.12.30-14.21.53:841][119]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.30-14.21.53:842][119]LogLoad: Game class is 'CustomGM_C'
+[2019.12.30-14.21.53:844][119]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Menu.Menu up for play (max tick rate 0) at 2019.12.30-17.21.53
+[2019.12.30-14.21.53:845][119]LogWorld: Bringing up level for play took: 0.001077
+[2019.12.30-14.21.53:845][119]LogOnline: OSS: Creating online subsystem instance for: :Context_22
+[2019.12.30-14.21.53:874][119]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Menu -0,403
+[2019.12.30-14.21.53:874][119]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Menu.Menu:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Menu.Menu:PersistentLevel.Menu' with GeneratedClass '/Game/Maps/Menu.Menu_C' with ClassGeneratedBy '/Game/Maps/Menu.Menu:PersistentLevel.Menu'
+[2019.12.30-14.21.56:466][232]LogNet: Browse: /Game/Maps/Peaceful
+[2019.12.30-14.21.56:466][232]LogLoad: LoadMap: /Game/Maps/Peaceful
+[2019.12.30-14.21.56:466][232]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Menu
+[2019.12.30-14.21.56:467][232]LogWorld: UWorld::CleanupWorld for Menu, bSessionEnded=true, bCleanupResources=true
+[2019.12.30-14.21.56:531][232]LogUObjectHash: Compacting FUObjectHashTables data took   6.72ms
+[2019.12.30-14.21.56:892][232]LogAIModule: Creating AISystem for world Peaceful
+[2019.12.30-14.21.56:892][232]LogLoad: Game class is 'CustomGM_C'
+[2019.12.30-14.21.57:742][232]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Peaceful.Peaceful up for play (max tick rate 0) at 2019.12.30-17.21.57
+[2019.12.30-14.21.57:748][232]LogWorld: Bringing up level for play took: 0.854933
+[2019.12.30-14.21.57:752][232]LogLoad: Took 1.286376 seconds to LoadMap(/Game/Maps/Peaceful)
+[2019.12.30-14.21.58:063][234]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.12.30-14.22.03:336][349]LogNet: Browse: /Game/Maps/Hell
+[2019.12.30-14.22.03:336][349]LogLoad: LoadMap: /Game/Maps/Hell
+[2019.12.30-14.22.03:336][349]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Peaceful
+[2019.12.30-14.22.03:342][349]LogWorld: UWorld::CleanupWorld for Peaceful, bSessionEnded=true, bCleanupResources=true
+[2019.12.30-14.22.03:450][349]LogUObjectHash: Compacting FUObjectHashTables data took   1.98ms
+[2019.12.30-14.22.04:978][349]LogAIModule: Creating AISystem for world Hell
+[2019.12.30-14.22.04:978][349]LogLoad: Game class is 'CustomGM_C'
+[2019.12.30-14.22.08:314][349]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Hell.Hell up for play (max tick rate 0) at 2019.12.30-17.22.08
+[2019.12.30-14.22.08:418][349]LogWorld: Bringing up level for play took: 3.440196
+[2019.12.30-14.22.08:427][349]LogLoad: Took 5.090833 seconds to LoadMap(/Game/Maps/Hell)
+[2019.12.30-14.23.04:785][435]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Menu.Menu:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Menu.Menu:PersistentLevel.Menu' with GeneratedClass '/Game/Maps/Menu.Menu_C' with ClassGeneratedBy '/Game/Maps/Menu.Menu:PersistentLevel.Menu'
+[2019.12.30-14.23.04:786][435]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.30-14.23.04:786][435]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Hell
+[2019.12.30-14.23.04:978][435]LogSlate: Window 'JustDoIt Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.12.30-14.23.04:990][435]LogWorld: UWorld::CleanupWorld for Hell, bSessionEnded=true, bCleanupResources=true
+[2019.12.30-14.23.05:247][435]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.12.30-14.23.05:247][435]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Menu.Menu:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Menu.Menu:PersistentLevel.Menu' with GeneratedClass '/Game/Maps/Menu.Menu_C' with ClassGeneratedBy '/Game/Maps/Menu.Menu:PersistentLevel.Menu'
+[2019.12.30-14.23.05:424][435]LogUObjectHash: Compacting FUObjectHashTables data took   8.36ms
+[2019.12.30-14.23.05:442][436]LogPlayLevel: Display: Destroying online subsystem :Context_22
+[2019.12.30-14.23.12:377][870]LogAssetEditorManager: Opening Asset editor for BehaviorTree /Game/AI/CowBehaviorTree.CowBehaviorTree
+[2019.12.30-14.23.49:932][998]LogHttp: Warning: 000001F96B62E5C0: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BEB9EB6B6-4B32-D5DC-B0CB-9EB9F4E1680E%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.0-8386587%2B%2B%2BUE4%2BRelease-4.23&UserID=e167d8634e0401a9c81ddea97c5dd187%7Cde31d28a090c4bb9ada4ed616c8da227%7C07011f6c-5ee6-480e-93d5-f1d2be119f73&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: -1, actual payload size: 0
+[2019.12.30-14.23.49:932][998]LogHttp: Warning: 000001F96B62E5C0: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2019.12.30-14.23.49:932][998]LogHttp: Warning: 000001F96B62E5C0: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2019.12.30-14.23.49:932][998]LogHttp: Warning: 000001F96B62E5C0: libcurl info message cache 1 (Closing connection 17)
+[2019.12.30-14.23.49:932][998]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BEB9EB6B6-4B32-D5DC-B0CB-9EB9F4E1680E%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.0-8386587%2B%2B%2BUE4%2BRelease-4.23&UserID=e167d8634e0401a9c81ddea97c5dd187%7Cde31d28a090c4bb9ada4ed616c8da227%7C07011f6c-5ee6-480e-93d5-f1d2be119f73&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.12.30-14.24.00:742][ 65]LogAssetEditorManager: Opening Asset editor for BehaviorTree /Game/AI/ZombieBehaviorTree.ZombieBehaviorTree
+[2019.12.30-14.25.49:967][122]LogHttp: Warning: 000001F9055E6E80: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BEB9EB6B6-4B32-D5DC-B0CB-9EB9F4E1680E%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.0-8386587%2B%2B%2BUE4%2BRelease-4.23&UserID=e167d8634e0401a9c81ddea97c5dd187%7Cde31d28a090c4bb9ada4ed616c8da227%7C07011f6c-5ee6-480e-93d5-f1d2be119f73&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: -1, actual payload size: 0
+[2019.12.30-14.25.49:967][122]LogHttp: Warning: 000001F9055E6E80: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2019.12.30-14.25.49:967][122]LogHttp: Warning: 000001F9055E6E80: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2019.12.30-14.25.49:967][122]LogHttp: Warning: 000001F9055E6E80: libcurl info message cache 1 (Closing connection 18)
+[2019.12.30-14.25.49:967][122]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BEB9EB6B6-4B32-D5DC-B0CB-9EB9F4E1680E%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.0-8386587%2B%2B%2BUE4%2BRelease-4.23&UserID=e167d8634e0401a9c81ddea97c5dd187%7Cde31d28a090c4bb9ada4ed616c8da227%7C07011f6c-5ee6-480e-93d5-f1d2be119f73&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.12.30-14.27.49:990][569]LogHttp: Warning: 000001F9055E42C0: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BEB9EB6B6-4B32-D5DC-B0CB-9EB9F4E1680E%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.0-8386587%2B%2B%2BUE4%2BRelease-4.23&UserID=e167d8634e0401a9c81ddea97c5dd187%7Cde31d28a090c4bb9ada4ed616c8da227%7C07011f6c-5ee6-480e-93d5-f1d2be119f73&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: -1, actual payload size: 0
+[2019.12.30-14.27.49:990][569]LogHttp: Warning: 000001F9055E42C0: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2019.12.30-14.27.49:990][569]LogHttp: Warning: 000001F9055E42C0: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2019.12.30-14.27.49:990][569]LogHttp: Warning: 000001F9055E42C0: libcurl info message cache 1 (Closing connection 19)
+[2019.12.30-14.27.50:003][570]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BEB9EB6B6-4B32-D5DC-B0CB-9EB9F4E1680E%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.0-8386587%2B%2B%2BUE4%2BRelease-4.23&UserID=e167d8634e0401a9c81ddea97c5dd187%7Cde31d28a090c4bb9ada4ed616c8da227%7C07011f6c-5ee6-480e-93d5-f1d2be119f73&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.12.30-14.29.50:033][144]LogHttp: Warning: 000001F9055E42C0: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BEB9EB6B6-4B32-D5DC-B0CB-9EB9F4E1680E%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.0-8386587%2B%2B%2BUE4%2BRelease-4.23&UserID=e167d8634e0401a9c81ddea97c5dd187%7Cde31d28a090c4bb9ada4ed616c8da227%7C07011f6c-5ee6-480e-93d5-f1d2be119f73&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: -1, actual payload size: 0
+[2019.12.30-14.29.50:033][144]LogHttp: Warning: 000001F9055E42C0: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2019.12.30-14.29.50:033][144]LogHttp: Warning: 000001F9055E42C0: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2019.12.30-14.29.50:033][144]LogHttp: Warning: 000001F9055E42C0: libcurl info message cache 1 (Closing connection 20)
+[2019.12.30-14.29.50:033][144]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BEB9EB6B6-4B32-D5DC-B0CB-9EB9F4E1680E%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.0-8386587%2B%2B%2BUE4%2BRelease-4.23&UserID=e167d8634e0401a9c81ddea97c5dd187%7Cde31d28a090c4bb9ada4ed616c8da227%7C07011f6c-5ee6-480e-93d5-f1d2be119f73&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.12.30-15.53.52:453][304]LogHttp: Warning: 000001F9639A96C0: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BEB9EB6B6-4B32-D5DC-B0CB-9EB9F4E1680E%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.0-8386587%2B%2B%2BUE4%2BRelease-4.23&UserID=e167d8634e0401a9c81ddea97c5dd187%7Cde31d28a090c4bb9ada4ed616c8da227%7C07011f6c-5ee6-480e-93d5-f1d2be119f73&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: -1, actual payload size: 0
+[2019.12.30-15.53.52:453][304]LogHttp: Warning: 000001F9639A96C0: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2019.12.30-15.53.52:453][304]LogHttp: Warning: 000001F9639A96C0: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2019.12.30-15.53.52:453][304]LogHttp: Warning: 000001F9639A96C0: libcurl info message cache 1 (Closing connection 21)
+[2019.12.30-15.53.52:453][304]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BEB9EB6B6-4B32-D5DC-B0CB-9EB9F4E1680E%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.0-8386587%2B%2B%2BUE4%2BRelease-4.23&UserID=e167d8634e0401a9c81ddea97c5dd187%7Cde31d28a090c4bb9ada4ed616c8da227%7C07011f6c-5ee6-480e-93d5-f1d2be119f73&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.12.30-17.34.52:824][ 72]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.12.30-17.34.52:940][ 72]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.12.30-17.36.21:971][802]LogRenderer: Reallocating scene render targets to support 1008x652 Format 9 NumSamples 1 (Frame:10).
+[2019.12.30-17.36.34:598][329]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Maps/ZombieSpawn.ZombieSpawn
+[2019.12.30-17.49.49:177][883]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/ZombieSpawn" FILE="../../../../../../Study/Labs/7 semester/CGA/JustDoIt/Content/Maps/ZombieSpawn.uasset" SILENT=true
+[2019.12.30-17.49.50:259][883]LogSavePackage: Moving '../../../../../../Study/Labs/7 semester/CGA/JustDoIt/Saved/ZombieSpawn6895FC1D4B7A86A671498CA3A080CAA9.tmp' to '../../../../../../Study/Labs/7 semester/CGA/JustDoIt/Content/Maps/ZombieSpawn.uasset'
+[2019.12.30-17.49.52:701][ 70]BlueprintLog: New page: Compile ZombieSpawn
+[2019.12.30-17.49.56:497][ 70]LogUObjectHash: Compacting FUObjectHashTables data took 100.20ms
+[2019.12.30-17.49.58:454][184]LogWorld: UWorld::CleanupWorld for World_17, bSessionEnded=true, bCleanupResources=true
+[2019.12.30-17.50.01:457][239]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2019.12.30-17.50.01:457][239]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2019.12.30-17.50.20:524][295]LogAIModule: Creating AISystem for world Hell
+[2019.12.30-17.50.30:426][295]LogAssetEditorManager: Opening Asset editor for World /Game/Maps/Hell.Hell
+[2019.12.30-17.50.36:231][295]LogUObjectHash: Compacting FUObjectHashTables data took  68.08ms
+[2019.12.30-17.50.37:911][295]Cmd: MAP LOAD FILE="../../../../../../Study/Labs/7 semester/CGA/JustDoIt/Content/Maps/Hell.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.12.30-17.50.37:913][295]LightingResults: New page: Lighting Build
+[2019.12.30-17.50.38:316][295]LoadErrors: New page: Loading map: Hell.umap
+[2019.12.30-17.50.38:316][295]LogWorld: UWorld::CleanupWorld for Menu, bSessionEnded=true, bCleanupResources=true
+[2019.12.30-17.50.38:494][295]MapCheck: New page: Map Check
+[2019.12.30-17.50.38:494][295]LightingResults: New page: Lighting Build
+[2019.12.30-17.50.41:221][295]LogUObjectHash: Compacting FUObjectHashTables data took 132.53ms
+[2019.12.30-17.50.51:742][295]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.12.30-17.50.55:682][295]LogUObjectHash: Compacting FUObjectHashTables data took   8.51ms
+[2019.12.30-17.50.57:637][295]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.12.30-17.50.57:641][295]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 3,552ms to complete.
+[2019.12.30-17.50.57:641][295]LogFileHelpers: Loading map 'Hell' took 21.390
+[2019.12.30-17.51.16:596][401]LogEditorViewport: Clicking on Actor (LMB): Cow_C (Cow)
+[2019.12.30-17.51.23:203][576]Cmd: DELETE
+[2019.12.30-17.51.23:204][576]Cmd: ACTOR DELETE
+[2019.12.30-17.51.26:474][576]LogEditorActor: Deleted Actor: Cow_C
+[2019.12.30-17.51.27:070][576]LogUObjectHash: Compacting FUObjectHashTables data took  38.36ms
+[2019.12.30-17.51.27:071][576]LogEditorActor: Deleted 1 Actors (1.142 secs)
+[2019.12.30-17.51.37:253][444]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.12.30-17.51.37:301][444]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Hell" FILE="../../../../../../Study/Labs/7 semester/CGA/JustDoIt/Content/Maps/Hell.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.12.30-17.51.37:376][444]LogUObjectHash: Compacting FUObjectHashTables data took   1.48ms
+[2019.12.30-17.51.49:398][444]LogSavePackage: Moving '../../../../../../Study/Labs/7 semester/CGA/JustDoIt/Saved/Hell4C1D5906499B3B77798373A1E7097F73.tmp' to '../../../../../../Study/Labs/7 semester/CGA/JustDoIt/Content/Maps/Hell.umap'
+[2019.12.30-17.51.50:153][444]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Hell_BuiltData" FILE="../../../../../../Study/Labs/7 semester/CGA/JustDoIt/Content/Maps/Hell_BuiltData.uasset" SILENT=true
+[2019.12.30-17.51.50:875][444]LogSavePackage: Moving '../../../../../../Study/Labs/7 semester/CGA/JustDoIt/Saved/Hell_BuiltDataB88DECAB4959BDF2D133CAAF28D0A1CF.tmp' to '../../../../../../Study/Labs/7 semester/CGA/JustDoIt/Content/Maps/Hell_BuiltData.uasset'
+[2019.12.30-17.52.15:894][  7]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.30-17.52.16:051][ 15]LogUObjectHash: Compacting FUObjectHashTables data took   7.21ms
+[2019.12.30-17.52.16:915][ 15]LogSlate: Window 'JustDoIt - Unreal Editor' being destroyed
+[2019.12.30-17.52.17:131][ 15]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.12.30-17.52.35:590][ 16]Cmd: QUIT_EDITOR
+[2019.12.30-17.52.42:126][ 16]LogExit: Preparing to exit.
+[2019.12.30-17.52.52:878][ 16]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2019.12.30-17.52.52:881][ 16]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2019.12.30-17.52.52:884][ 16]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2019.12.30-17.52.52:887][ 16]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2019.12.30-17.52.52:958][ 16]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2019.12.30-17.52.52:962][ 16]LogWorld: UWorld::CleanupWorld for World_10, bSessionEnded=true, bCleanupResources=true
+[2019.12.30-17.52.52:965][ 16]LogWorld: UWorld::CleanupWorld for World_11, bSessionEnded=true, bCleanupResources=true
+[2019.12.30-17.52.52:967][ 16]LogWorld: UWorld::CleanupWorld for World_12, bSessionEnded=true, bCleanupResources=true
+[2019.12.30-17.52.52:970][ 16]LogWorld: UWorld::CleanupWorld for World_13, bSessionEnded=true, bCleanupResources=true
+[2019.12.30-17.52.52:973][ 16]LogWorld: UWorld::CleanupWorld for World_14, bSessionEnded=true, bCleanupResources=true
+[2019.12.30-17.52.52:976][ 16]LogWorld: UWorld::CleanupWorld for World_15, bSessionEnded=true, bCleanupResources=true
+[2019.12.30-17.52.53:242][ 16]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
