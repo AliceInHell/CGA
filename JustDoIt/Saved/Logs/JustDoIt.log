@@ -5907,3 +5907,700 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.01.01-12.51.36:031][103]LogSavePackage: Moving '../../../../../../Study/Labs/7 semester/CGA/JustDoIt/Saved/InventorySlot24165E1046E60A58AD996EB18C055FED.tmp' to '../../../../../../Study/Labs/7 semester/CGA/JustDoIt/Content/Inventory/UI/InventorySlot.uasset'
 [2020.01.01-12.51.39:691][276]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Inventory/UI/InventorySlot" FILE="../../../../../../Study/Labs/7 semester/CGA/JustDoIt/Content/Inventory/UI/InventorySlot.uasset" SILENT=true
 [2020.01.01-12.51.39:893][276]LogSavePackage: Moving '../../../../../../Study/Labs/7 semester/CGA/JustDoIt/Saved/InventorySlotCC57D10E41B800EBD770B2AD81026E6D.tmp' to '../../../../../../Study/Labs/7 semester/CGA/JustDoIt/Content/Inventory/UI/InventorySlot.uasset'
+[2020.01.01-12.53.22:169][ 32]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2020.01.01-12.53.22:169][ 32]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2020.01.01-12.54.45:810][718]LogSlate: Took 0.120411 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf' (3848K)
+[2020.01.01-12.56.39:254][480]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2020.01.01-12.56.39:254][480]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2020.01.01-13.02.44:349][221]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2020.01.01-13.02.44:349][221]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2020.01.01-13.04.13:802][748]LogSlate: Window 'Pick Parent Class' being destroyed
+[2020.01.01-13.04.24:302][313]LogUObjectHash: Compacting FUObjectHashTables data took   7.66ms
+[2020.01.01-13.04.26:029][313]LogSlate: Window 'Delete Assets' being destroyed
+[2020.01.01-13.04.26:322][313]LogUObjectHash: Compacting FUObjectHashTables data took   5.84ms
+[2020.01.01-13.04.36:130][854]LogAssetEditorManager: Opening Asset editor for WidgetBlueprint /Game/Inventory/UI/CraftWidget.CraftWidget
+[2020.01.01-13.04.41:045][ 28]LogSlate: Window 'CraftWidget' being destroyed
+[2020.01.01-13.08.33:968][599]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Inventory/UI/CraftWidget" FILE="../../../../../../Study/Labs/7 semester/CGA/JustDoIt/Content/Inventory/UI/CraftWidget.uasset" SILENT=true
+[2020.01.01-13.08.34:094][599]LogSavePackage: Moving '../../../../../../Study/Labs/7 semester/CGA/JustDoIt/Saved/CraftWidget6B210A004BDF39436BB6ECA2ADA7EBD8.tmp' to '../../../../../../Study/Labs/7 semester/CGA/JustDoIt/Content/Inventory/UI/CraftWidget.uasset'
+[2020.01.01-13.08.34:522][615]BlueprintLog: New page: Compile CraftWidget
+[2020.01.01-13.08.43:243][615]LogUObjectHash: Compacting FUObjectHashTables data took  10.41ms
+[2020.01.01-13.08.50:115][ 20]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Inventory/UI/CraftWidget" FILE="../../../../../../Study/Labs/7 semester/CGA/JustDoIt/Content/Inventory/UI/CraftWidget.uasset" SILENT=true
+[2020.01.01-13.08.50:280][ 20]LogSavePackage: Moving '../../../../../../Study/Labs/7 semester/CGA/JustDoIt/Saved/CraftWidgetE1C850E744DE4CEC6A8FD49D4BD6ABD4.tmp' to '../../../../../../Study/Labs/7 semester/CGA/JustDoIt/Content/Inventory/UI/CraftWidget.uasset'
+[2020.01.01-13.08.56:655][397]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Inventory/UI/CraftWidget" FILE="../../../../../../Study/Labs/7 semester/CGA/JustDoIt/Content/Inventory/UI/CraftWidget.uasset" SILENT=true
+[2020.01.01-13.08.56:751][397]LogSavePackage: Moving '../../../../../../Study/Labs/7 semester/CGA/JustDoIt/Saved/CraftWidget6AF31AF34B35F1B73319E4BEA9C92207.tmp' to '../../../../../../Study/Labs/7 semester/CGA/JustDoIt/Content/Inventory/UI/CraftWidget.uasset'
+[2020.01.01-13.08.58:504][500]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Inventory/UI/CraftWidget" FILE="../../../../../../Study/Labs/7 semester/CGA/JustDoIt/Content/Inventory/UI/CraftWidget.uasset" SILENT=true
+[2020.01.01-13.08.58:530][500]LogSavePackage: Moving '../../../../../../Study/Labs/7 semester/CGA/JustDoIt/Saved/CraftWidget68F0628E4B541EB28F8E7CB4726C031B.tmp' to '../../../../../../Study/Labs/7 semester/CGA/JustDoIt/Content/Inventory/UI/CraftWidget.uasset'
+[2020.01.01-13.08.59:744][571]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Inventory/UI/CraftWidget" FILE="../../../../../../Study/Labs/7 semester/CGA/JustDoIt/Content/Inventory/UI/CraftWidget.uasset" SILENT=true
+[2020.01.01-13.08.59:768][571]LogSavePackage: Moving '../../../../../../Study/Labs/7 semester/CGA/JustDoIt/Saved/CraftWidgetA8CB696B47426CEB5626B9AD866184C7.tmp' to '../../../../../../Study/Labs/7 semester/CGA/JustDoIt/Content/Inventory/UI/CraftWidget.uasset'
+[2020.01.01-13.09.39:141][908]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Inventory/UI/CraftWidget" FILE="../../../../../../Study/Labs/7 semester/CGA/JustDoIt/Content/Inventory/UI/CraftWidget.uasset" SILENT=true
+[2020.01.01-13.09.39:169][908]LogSavePackage: Moving '../../../../../../Study/Labs/7 semester/CGA/JustDoIt/Saved/CraftWidgetCED3FF6945A71079200BC1B174CA2715.tmp' to '../../../../../../Study/Labs/7 semester/CGA/JustDoIt/Content/Inventory/UI/CraftWidget.uasset'
+[2020.01.01-13.09.39:852][948]BlueprintLog: New page: Compile CraftWidget
+[2020.01.01-13.09.39:951][948]LogUObjectHash: Compacting FUObjectHashTables data took   9.42ms
+[2020.01.01-13.09.40:533][977]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Inventory/UI/CraftWidget" FILE="../../../../../../Study/Labs/7 semester/CGA/JustDoIt/Content/Inventory/UI/CraftWidget.uasset" SILENT=true
+[2020.01.01-13.09.40:559][977]LogSavePackage: Moving '../../../../../../Study/Labs/7 semester/CGA/JustDoIt/Saved/CraftWidget59DBE36F40708B68A6344B97483758F7.tmp' to '../../../../../../Study/Labs/7 semester/CGA/JustDoIt/Content/Inventory/UI/CraftWidget.uasset'
+[2020.01.01-13.09.42:668][101]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Inventory/UI/CraftWidget" FILE="../../../../../../Study/Labs/7 semester/CGA/JustDoIt/Content/Inventory/UI/CraftWidget.uasset" SILENT=true
+[2020.01.01-13.09.42:693][101]LogSavePackage: Moving '../../../../../../Study/Labs/7 semester/CGA/JustDoIt/Saved/CraftWidget5B38C0F4433C4942386088A94BEDB012.tmp' to '../../../../../../Study/Labs/7 semester/CGA/JustDoIt/Content/Inventory/UI/CraftWidget.uasset'
+[2020.01.01-13.09.51:957][650]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Inventory/UI/CraftWidget" FILE="../../../../../../Study/Labs/7 semester/CGA/JustDoIt/Content/Inventory/UI/CraftWidget.uasset" SILENT=true
+[2020.01.01-13.09.51:982][650]LogSavePackage: Moving '../../../../../../Study/Labs/7 semester/CGA/JustDoIt/Saved/CraftWidgetD954ED2E4DCFBA18AED2E89A0C048D2A.tmp' to '../../../../../../Study/Labs/7 semester/CGA/JustDoIt/Content/Inventory/UI/CraftWidget.uasset'
+[2020.01.01-13.10.19:664][284]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Inventory/UI/CraftWidget" FILE="../../../../../../Study/Labs/7 semester/CGA/JustDoIt/Content/Inventory/UI/CraftWidget.uasset" SILENT=true
+[2020.01.01-13.10.19:690][284]LogSavePackage: Moving '../../../../../../Study/Labs/7 semester/CGA/JustDoIt/Saved/CraftWidget107356CB4AA91FF6ACB615A0E71419E8.tmp' to '../../../../../../Study/Labs/7 semester/CGA/JustDoIt/Content/Inventory/UI/CraftWidget.uasset'
+[2020.01.01-13.10.20:144][310]BlueprintLog: New page: Compile CraftWidget
+[2020.01.01-13.10.20:237][310]LogUObjectHash: Compacting FUObjectHashTables data took   9.87ms
+[2020.01.01-13.10.31:810][989]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Inventory/UI/CraftWidget" FILE="../../../../../../Study/Labs/7 semester/CGA/JustDoIt/Content/Inventory/UI/CraftWidget.uasset" SILENT=true
+[2020.01.01-13.10.31:840][989]LogSavePackage: Moving '../../../../../../Study/Labs/7 semester/CGA/JustDoIt/Saved/CraftWidgetCB23AC194923A4372736EA88B9CA7F89.tmp' to '../../../../../../Study/Labs/7 semester/CGA/JustDoIt/Content/Inventory/UI/CraftWidget.uasset'
+[2020.01.01-13.10.45:676][810]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Inventory/UI/CraftWidget" FILE="../../../../../../Study/Labs/7 semester/CGA/JustDoIt/Content/Inventory/UI/CraftWidget.uasset" SILENT=true
+[2020.01.01-13.10.45:703][810]LogSavePackage: Moving '../../../../../../Study/Labs/7 semester/CGA/JustDoIt/Saved/CraftWidget7CCF20D44D3474089C4E6B8305580C4B.tmp' to '../../../../../../Study/Labs/7 semester/CGA/JustDoIt/Content/Inventory/UI/CraftWidget.uasset'
+[2020.01.01-13.10.46:807][873]BlueprintLog: New page: Compile CraftWidget
+[2020.01.01-13.10.46:980][873]LogUObjectHash: Compacting FUObjectHashTables data took   9.85ms
+[2020.01.01-13.10.47:736][912]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Inventory/UI/CraftWidget" FILE="../../../../../../Study/Labs/7 semester/CGA/JustDoIt/Content/Inventory/UI/CraftWidget.uasset" SILENT=true
+[2020.01.01-13.10.47:762][912]LogSavePackage: Moving '../../../../../../Study/Labs/7 semester/CGA/JustDoIt/Saved/CraftWidget5F8BBBBD4CAB6ED3292CF790B742DBFA.tmp' to '../../../../../../Study/Labs/7 semester/CGA/JustDoIt/Content/Inventory/UI/CraftWidget.uasset'
+[2020.01.01-13.11.51:630][685]LogEditorTransaction: Undo Straighten Connection(s)
+[2020.01.01-13.11.54:643][863]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Inventory/UI/CraftWidget" FILE="../../../../../../Study/Labs/7 semester/CGA/JustDoIt/Content/Inventory/UI/CraftWidget.uasset" SILENT=true
+[2020.01.01-13.11.54:678][863]LogSavePackage: Moving '../../../../../../Study/Labs/7 semester/CGA/JustDoIt/Saved/CraftWidgetF3FCEEB94A9FEBC05F0B22AE6B85734E.tmp' to '../../../../../../Study/Labs/7 semester/CGA/JustDoIt/Content/Inventory/UI/CraftWidget.uasset'
+[2020.01.01-13.11.59:930][176]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Inventory/UI/CraftWidget" FILE="../../../../../../Study/Labs/7 semester/CGA/JustDoIt/Content/Inventory/UI/CraftWidget.uasset" SILENT=true
+[2020.01.01-13.11.59:960][176]LogSavePackage: Moving '../../../../../../Study/Labs/7 semester/CGA/JustDoIt/Saved/CraftWidget64C2FCBC4F0819AEED8C2D88216227DE.tmp' to '../../../../../../Study/Labs/7 semester/CGA/JustDoIt/Content/Inventory/UI/CraftWidget.uasset'
+[2020.01.01-13.12.00:368][199]BlueprintLog: New page: Compile CraftWidget
+[2020.01.01-13.12.00:397][199]LogBlueprint: Error: [Compiler CraftWidget] This blueprint (self) is not a GridPanel, therefore ' Target ' must have a connection.
+[2020.01.01-13.12.00:488][199]LogUObjectHash: Compacting FUObjectHashTables data took   9.74ms
+[2020.01.01-13.12.06:477][550]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Inventory/UI/CraftWidget" FILE="../../../../../../Study/Labs/7 semester/CGA/JustDoIt/Content/Inventory/UI/CraftWidget.uasset" SILENT=true
+[2020.01.01-13.12.06:511][550]LogSavePackage: Moving '../../../../../../Study/Labs/7 semester/CGA/JustDoIt/Saved/CraftWidget70D90F664DBA7730EE6677A241CA50E5.tmp' to '../../../../../../Study/Labs/7 semester/CGA/JustDoIt/Content/Inventory/UI/CraftWidget.uasset'
+[2020.01.01-13.12.08:877][682]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Inventory/UI/CraftWidget" FILE="../../../../../../Study/Labs/7 semester/CGA/JustDoIt/Content/Inventory/UI/CraftWidget.uasset" SILENT=true
+[2020.01.01-13.12.08:908][682]LogSavePackage: Moving '../../../../../../Study/Labs/7 semester/CGA/JustDoIt/Saved/CraftWidget9068358C425A1208163BBE971F1CDE19.tmp' to '../../../../../../Study/Labs/7 semester/CGA/JustDoIt/Content/Inventory/UI/CraftWidget.uasset'
+[2020.01.01-13.12.30:901][974]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Inventory/UI/CraftWidget" FILE="../../../../../../Study/Labs/7 semester/CGA/JustDoIt/Content/Inventory/UI/CraftWidget.uasset" SILENT=true
+[2020.01.01-13.12.31:093][974]LogSavePackage: Moving '../../../../../../Study/Labs/7 semester/CGA/JustDoIt/Saved/CraftWidget60F671D441E68981C12A30B02D0ACAB7.tmp' to '../../../../../../Study/Labs/7 semester/CGA/JustDoIt/Content/Inventory/UI/CraftWidget.uasset'
+[2020.01.01-13.12.33:685][112]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Inventory/UI/CraftWidget" FILE="../../../../../../Study/Labs/7 semester/CGA/JustDoIt/Content/Inventory/UI/CraftWidget.uasset" SILENT=true
+[2020.01.01-13.12.33:716][112]LogSavePackage: Moving '../../../../../../Study/Labs/7 semester/CGA/JustDoIt/Saved/CraftWidget3295A4FC489DE1F77AC09BAA165EC7C2.tmp' to '../../../../../../Study/Labs/7 semester/CGA/JustDoIt/Content/Inventory/UI/CraftWidget.uasset'
+[2020.01.01-13.12.34:573][162]BlueprintLog: New page: Compile CraftWidget
+[2020.01.01-13.12.34:583][162]LogBlueprint: Error: [Compiler CraftWidget] This blueprint (self) is not a GridPanel, therefore ' Target ' must have a connection.
+[2020.01.01-13.12.34:684][162]LogUObjectHash: Compacting FUObjectHashTables data took  11.51ms
+[2020.01.01-13.12.35:916][230]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Inventory/UI/CraftWidget" FILE="../../../../../../Study/Labs/7 semester/CGA/JustDoIt/Content/Inventory/UI/CraftWidget.uasset" SILENT=true
+[2020.01.01-13.12.35:965][230]LogSavePackage: Moving '../../../../../../Study/Labs/7 semester/CGA/JustDoIt/Saved/CraftWidget377F0A994F8BDCD53375F1BDF76F8029.tmp' to '../../../../../../Study/Labs/7 semester/CGA/JustDoIt/Content/Inventory/UI/CraftWidget.uasset'
+[2020.01.01-13.12.48:405][961]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Inventory/UI/CraftWidget" FILE="../../../../../../Study/Labs/7 semester/CGA/JustDoIt/Content/Inventory/UI/CraftWidget.uasset" SILENT=true
+[2020.01.01-13.12.48:438][961]LogSavePackage: Moving '../../../../../../Study/Labs/7 semester/CGA/JustDoIt/Saved/CraftWidgetAAA75B6B4423D86A9F40549DB3B38B36.tmp' to '../../../../../../Study/Labs/7 semester/CGA/JustDoIt/Content/Inventory/UI/CraftWidget.uasset'
+[2020.01.01-13.12.56:171][422]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Inventory/UI/CraftWidget" FILE="../../../../../../Study/Labs/7 semester/CGA/JustDoIt/Content/Inventory/UI/CraftWidget.uasset" SILENT=true
+[2020.01.01-13.12.56:338][422]LogSavePackage: Moving '../../../../../../Study/Labs/7 semester/CGA/JustDoIt/Saved/CraftWidget4A2B557F47E4960F89DBC3B37062C232.tmp' to '../../../../../../Study/Labs/7 semester/CGA/JustDoIt/Content/Inventory/UI/CraftWidget.uasset'
+[2020.01.01-13.13.28:244][324]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Inventory/UI/CraftWidget" FILE="../../../../../../Study/Labs/7 semester/CGA/JustDoIt/Content/Inventory/UI/CraftWidget.uasset" SILENT=true
+[2020.01.01-13.13.28:348][324]LogSavePackage: Moving '../../../../../../Study/Labs/7 semester/CGA/JustDoIt/Saved/CraftWidgetD4597D414DDDB0123E3F7E8E5B74F668.tmp' to '../../../../../../Study/Labs/7 semester/CGA/JustDoIt/Content/Inventory/UI/CraftWidget.uasset'
+[2020.01.01-13.13.52:451][698]LogEditorTransaction: Undo Move Node
+[2020.01.01-13.13.55:908][902]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Inventory/UI/CraftWidget" FILE="../../../../../../Study/Labs/7 semester/CGA/JustDoIt/Content/Inventory/UI/CraftWidget.uasset" SILENT=true
+[2020.01.01-13.13.56:016][902]LogSavePackage: Moving '../../../../../../Study/Labs/7 semester/CGA/JustDoIt/Saved/CraftWidgetCF97047048C5B002B386538C464E05B1.tmp' to '../../../../../../Study/Labs/7 semester/CGA/JustDoIt/Content/Inventory/UI/CraftWidget.uasset'
+[2020.01.01-13.13.59:551][112]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Inventory/UI/CraftWidget" FILE="../../../../../../Study/Labs/7 semester/CGA/JustDoIt/Content/Inventory/UI/CraftWidget.uasset" SILENT=true
+[2020.01.01-13.13.59:584][112]LogSavePackage: Moving '../../../../../../Study/Labs/7 semester/CGA/JustDoIt/Saved/CraftWidgetEA5EC79E470B017E0BE270A181BC4A93.tmp' to '../../../../../../Study/Labs/7 semester/CGA/JustDoIt/Content/Inventory/UI/CraftWidget.uasset'
+[2020.01.01-13.14.01:615][233]BlueprintLog: New page: Compile CraftWidget
+[2020.01.01-13.14.01:719][233]LogUObjectHash: Compacting FUObjectHashTables data took  10.08ms
+[2020.01.01-13.14.03:556][337]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Inventory/UI/CraftWidget" FILE="../../../../../../Study/Labs/7 semester/CGA/JustDoIt/Content/Inventory/UI/CraftWidget.uasset" SILENT=true
+[2020.01.01-13.14.03:591][337]LogSavePackage: Moving '../../../../../../Study/Labs/7 semester/CGA/JustDoIt/Saved/CraftWidget7C9A5604433A6F82617B47A014D39DD8.tmp' to '../../../../../../Study/Labs/7 semester/CGA/JustDoIt/Content/Inventory/UI/CraftWidget.uasset'
+[2020.01.01-13.14.35:731][229]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Inventory/UI/CraftWidget" FILE="../../../../../../Study/Labs/7 semester/CGA/JustDoIt/Content/Inventory/UI/CraftWidget.uasset" SILENT=true
+[2020.01.01-13.14.35:786][229]LogSavePackage: Moving '../../../../../../Study/Labs/7 semester/CGA/JustDoIt/Saved/CraftWidget52936BBC41FB7A0AB7A7D8AD66816706.tmp' to '../../../../../../Study/Labs/7 semester/CGA/JustDoIt/Content/Inventory/UI/CraftWidget.uasset'
+[2020.01.01-13.14.38:440][380]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Inventory/UI/CraftWidget" FILE="../../../../../../Study/Labs/7 semester/CGA/JustDoIt/Content/Inventory/UI/CraftWidget.uasset" SILENT=true
+[2020.01.01-13.14.38:478][380]LogSavePackage: Moving '../../../../../../Study/Labs/7 semester/CGA/JustDoIt/Saved/CraftWidgetC62BB5A04DDA7977CF3507A35C90854F.tmp' to '../../../../../../Study/Labs/7 semester/CGA/JustDoIt/Content/Inventory/UI/CraftWidget.uasset'
+[2020.01.01-13.14.48:029][950]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Inventory/UI/CraftWidget" FILE="../../../../../../Study/Labs/7 semester/CGA/JustDoIt/Content/Inventory/UI/CraftWidget.uasset" SILENT=true
+[2020.01.01-13.14.48:066][950]LogSavePackage: Moving '../../../../../../Study/Labs/7 semester/CGA/JustDoIt/Saved/CraftWidget1C68115C4AE56FF22B42529FA4A7E9DF.tmp' to '../../../../../../Study/Labs/7 semester/CGA/JustDoIt/Content/Inventory/UI/CraftWidget.uasset'
+[2020.01.01-13.14.48:866][997]BlueprintLog: New page: Compile CraftWidget
+[2020.01.01-13.14.48:972][997]LogUObjectHash: Compacting FUObjectHashTables data took  10.73ms
+[2020.01.01-13.14.49:757][ 38]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Inventory/UI/CraftWidget" FILE="../../../../../../Study/Labs/7 semester/CGA/JustDoIt/Content/Inventory/UI/CraftWidget.uasset" SILENT=true
+[2020.01.01-13.14.49:795][ 38]LogSavePackage: Moving '../../../../../../Study/Labs/7 semester/CGA/JustDoIt/Saved/CraftWidget86AE888547D2141B09B551A2EB5CD884.tmp' to '../../../../../../Study/Labs/7 semester/CGA/JustDoIt/Content/Inventory/UI/CraftWidget.uasset'
+[2020.01.01-13.15.07:522][ 97]LogHttp: Warning: 000002AC352C2980: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BC07C6541-47D3-3EF5-99CE-F2B3CF1571E2%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.0-8386587%2B%2B%2BUE4%2BRelease-4.23&UserID=e167d8634e0401a9c81ddea97c5dd187%7Cde31d28a090c4bb9ada4ed616c8da227%7C07011f6c-5ee6-480e-93d5-f1d2be119f73&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: -1, actual payload size: 0
+[2020.01.01-13.15.07:522][ 97]LogHttp: Warning: 000002AC352C2980: request failed, libcurl error: 0 (No error)
+[2020.01.01-13.15.07:522][ 97]LogHttp: Warning: 000002AC352C2980: libcurl info message cache 0 (Found bundle for host datarouter.ol.epicgames.com: 0x2ab5a4b7f70 [can pipeline])
+[2020.01.01-13.15.07:522][ 97]LogHttp: Warning: 000002AC352C2980: libcurl info message cache 1 (Re-using existing connection! (#90) with host datarouter.ol.epicgames.com)
+[2020.01.01-13.15.07:522][ 97]LogHttp: Warning: 000002AC352C2980: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (52.71.213.9) port 443 (#90))
+[2020.01.01-13.15.07:522][ 97]LogHttp: Warning: 000002AC352C2980: libcurl info message cache 3 (We are completely uploaded and fine)
+[2020.01.01-13.15.07:522][ 97]LogHttp: Warning: 000002AC352C2980: libcurl info message cache 4 (TLSv1.2 (IN), TLS alert, Client hello (1):)
+[2020.01.01-13.15.07:522][ 97]LogHttp: Warning: 000002AC352C2980: libcurl info message cache 5 (Connection died, retrying a fresh connect)
+[2020.01.01-13.15.07:522][ 97]LogHttp: Warning: 000002AC352C2980: libcurl info message cache 6 (necessary data rewind wasn't possible)
+[2020.01.01-13.15.07:522][ 97]LogHttp: Warning: 000002AC352C2980: libcurl info message cache 7 (Closing connection 90)
+[2020.01.01-13.15.07:522][ 97]LogHttp: Warning: 000002AC352C2980: libcurl info message cache 8 (TLSv1.2 (OUT), TLS alert, Client hello (1):)
+[2020.01.01-13.15.07:523][ 97]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BC07C6541-47D3-3EF5-99CE-F2B3CF1571E2%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.0-8386587%2B%2B%2BUE4%2BRelease-4.23&UserID=e167d8634e0401a9c81ddea97c5dd187%7Cde31d28a090c4bb9ada4ed616c8da227%7C07011f6c-5ee6-480e-93d5-f1d2be119f73&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2020.01.01-13.15.27:725][306]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Inventory/UI/CraftWidget" FILE="../../../../../../Study/Labs/7 semester/CGA/JustDoIt/Content/Inventory/UI/CraftWidget.uasset" SILENT=true
+[2020.01.01-13.15.27:765][306]LogSavePackage: Moving '../../../../../../Study/Labs/7 semester/CGA/JustDoIt/Saved/CraftWidgetEF4BBC874F480CF1591466BAC42C5C1D.tmp' to '../../../../../../Study/Labs/7 semester/CGA/JustDoIt/Content/Inventory/UI/CraftWidget.uasset'
+[2020.01.01-13.15.28:403][343]BlueprintLog: New page: Compile CraftWidget
+[2020.01.01-13.15.28:510][343]LogUObjectHash: Compacting FUObjectHashTables data took  10.48ms
+[2020.01.01-13.15.29:433][392]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Inventory/UI/CraftWidget" FILE="../../../../../../Study/Labs/7 semester/CGA/JustDoIt/Content/Inventory/UI/CraftWidget.uasset" SILENT=true
+[2020.01.01-13.15.29:472][392]LogSavePackage: Moving '../../../../../../Study/Labs/7 semester/CGA/JustDoIt/Saved/CraftWidget629C3BC943B8F12B0E4F3196F1FCCF59.tmp' to '../../../../../../Study/Labs/7 semester/CGA/JustDoIt/Content/Inventory/UI/CraftWidget.uasset'
+[2020.01.01-13.15.31:939][539]LogEditorTransaction: Undo Move Node
+[2020.01.01-13.15.34:070][663]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Inventory/UI/CraftWidget" FILE="../../../../../../Study/Labs/7 semester/CGA/JustDoIt/Content/Inventory/UI/CraftWidget.uasset" SILENT=true
+[2020.01.01-13.15.34:111][663]LogSavePackage: Moving '../../../../../../Study/Labs/7 semester/CGA/JustDoIt/Saved/CraftWidgetF471E87C40D000F108A670AD17518520.tmp' to '../../../../../../Study/Labs/7 semester/CGA/JustDoIt/Content/Inventory/UI/CraftWidget.uasset'
+[2020.01.01-13.15.35:622][751]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Inventory/UI/CraftWidget" FILE="../../../../../../Study/Labs/7 semester/CGA/JustDoIt/Content/Inventory/UI/CraftWidget.uasset" SILENT=true
+[2020.01.01-13.15.35:662][751]LogSavePackage: Moving '../../../../../../Study/Labs/7 semester/CGA/JustDoIt/Saved/CraftWidget5B1FB5A94E7DAE39D4C59490C93CB806.tmp' to '../../../../../../Study/Labs/7 semester/CGA/JustDoIt/Content/Inventory/UI/CraftWidget.uasset'
+[2020.01.01-13.15.43:078][192]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Inventory/UI/CraftWidget" FILE="../../../../../../Study/Labs/7 semester/CGA/JustDoIt/Content/Inventory/UI/CraftWidget.uasset" SILENT=true
+[2020.01.01-13.15.43:118][192]LogSavePackage: Moving '../../../../../../Study/Labs/7 semester/CGA/JustDoIt/Saved/CraftWidgetDC45AFB044D68883F169C8B637DDE422.tmp' to '../../../../../../Study/Labs/7 semester/CGA/JustDoIt/Content/Inventory/UI/CraftWidget.uasset'
+[2020.01.01-13.15.45:625][340]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Inventory/UI/CraftWidget" FILE="../../../../../../Study/Labs/7 semester/CGA/JustDoIt/Content/Inventory/UI/CraftWidget.uasset" SILENT=true
+[2020.01.01-13.15.45:667][340]LogSavePackage: Moving '../../../../../../Study/Labs/7 semester/CGA/JustDoIt/Saved/CraftWidget48A1345148A0CB6658C04EB4BFE11085.tmp' to '../../../../../../Study/Labs/7 semester/CGA/JustDoIt/Content/Inventory/UI/CraftWidget.uasset'
+[2020.01.01-13.15.46:508][389]BlueprintLog: New page: Compile CraftWidget
+[2020.01.01-13.15.46:614][389]LogUObjectHash: Compacting FUObjectHashTables data took  10.10ms
+[2020.01.01-13.15.47:304][424]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Inventory/UI/CraftWidget" FILE="../../../../../../Study/Labs/7 semester/CGA/JustDoIt/Content/Inventory/UI/CraftWidget.uasset" SILENT=true
+[2020.01.01-13.15.47:343][424]LogSavePackage: Moving '../../../../../../Study/Labs/7 semester/CGA/JustDoIt/Saved/CraftWidget2CACB58B46E1F83492750CA8258FC5D6.tmp' to '../../../../../../Study/Labs/7 semester/CGA/JustDoIt/Content/Inventory/UI/CraftWidget.uasset'
+[2020.01.01-13.15.51:154][650]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Inventory/UI/CraftWidget" FILE="../../../../../../Study/Labs/7 semester/CGA/JustDoIt/Content/Inventory/UI/CraftWidget.uasset" SILENT=true
+[2020.01.01-13.15.51:193][650]LogSavePackage: Moving '../../../../../../Study/Labs/7 semester/CGA/JustDoIt/Saved/CraftWidgetCDE58FA04A86FC594A7C6D9D830D0672.tmp' to '../../../../../../Study/Labs/7 semester/CGA/JustDoIt/Content/Inventory/UI/CraftWidget.uasset'
+[2020.01.01-13.15.52:370][718]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Inventory/UI/CraftWidget" FILE="../../../../../../Study/Labs/7 semester/CGA/JustDoIt/Content/Inventory/UI/CraftWidget.uasset" SILENT=true
+[2020.01.01-13.15.52:409][718]LogSavePackage: Moving '../../../../../../Study/Labs/7 semester/CGA/JustDoIt/Saved/CraftWidgetE9A8C7774D15FFE8406449BD99DD1662.tmp' to '../../../../../../Study/Labs/7 semester/CGA/JustDoIt/Content/Inventory/UI/CraftWidget.uasset'
+[2020.01.01-13.15.56:196][943]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Inventory/UI/CraftWidget" FILE="../../../../../../Study/Labs/7 semester/CGA/JustDoIt/Content/Inventory/UI/CraftWidget.uasset" SILENT=true
+[2020.01.01-13.15.56:234][943]LogSavePackage: Moving '../../../../../../Study/Labs/7 semester/CGA/JustDoIt/Saved/CraftWidget4BD1F67046BD72959D5693B9EDF6EFD2.tmp' to '../../../../../../Study/Labs/7 semester/CGA/JustDoIt/Content/Inventory/UI/CraftWidget.uasset'
+[2020.01.01-13.16.01:909][277]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Inventory/UI/CraftWidget" FILE="../../../../../../Study/Labs/7 semester/CGA/JustDoIt/Content/Inventory/UI/CraftWidget.uasset" SILENT=true
+[2020.01.01-13.16.01:949][277]LogSavePackage: Moving '../../../../../../Study/Labs/7 semester/CGA/JustDoIt/Saved/CraftWidgetDAC111CB428058895809B3BE167A7074.tmp' to '../../../../../../Study/Labs/7 semester/CGA/JustDoIt/Content/Inventory/UI/CraftWidget.uasset'
+[2020.01.01-13.16.04:234][413]BlueprintLog: New page: Compile CraftWidget
+[2020.01.01-13.16.04:332][413]LogUObjectHash: Compacting FUObjectHashTables data took  10.36ms
+[2020.01.01-13.16.05:040][449]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Inventory/UI/CraftWidget" FILE="../../../../../../Study/Labs/7 semester/CGA/JustDoIt/Content/Inventory/UI/CraftWidget.uasset" SILENT=true
+[2020.01.01-13.16.05:089][449]LogSavePackage: Moving '../../../../../../Study/Labs/7 semester/CGA/JustDoIt/Saved/CraftWidget3157CE2C4F08B881B37AC084384CFB97.tmp' to '../../../../../../Study/Labs/7 semester/CGA/JustDoIt/Content/Inventory/UI/CraftWidget.uasset'
+[2020.01.01-13.16.40:235][555]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Inventory/UI/CraftWidget" FILE="../../../../../../Study/Labs/7 semester/CGA/JustDoIt/Content/Inventory/UI/CraftWidget.uasset" SILENT=true
+[2020.01.01-13.16.40:275][555]LogSavePackage: Moving '../../../../../../Study/Labs/7 semester/CGA/JustDoIt/Saved/CraftWidgetBA526A25406A4DE11441268469702124.tmp' to '../../../../../../Study/Labs/7 semester/CGA/JustDoIt/Content/Inventory/UI/CraftWidget.uasset'
+[2020.01.01-13.17.24:118][180]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Inventory/UI/CraftWidget" FILE="../../../../../../Study/Labs/7 semester/CGA/JustDoIt/Content/Inventory/UI/CraftWidget.uasset" SILENT=true
+[2020.01.01-13.17.24:163][180]LogSavePackage: Moving '../../../../../../Study/Labs/7 semester/CGA/JustDoIt/Saved/CraftWidgetAEB71FBF4F5DCAA6EDFD088F04D063AA.tmp' to '../../../../../../Study/Labs/7 semester/CGA/JustDoIt/Content/Inventory/UI/CraftWidget.uasset'
+[2020.01.01-13.17.29:410][492]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Inventory/UI/CraftWidget" FILE="../../../../../../Study/Labs/7 semester/CGA/JustDoIt/Content/Inventory/UI/CraftWidget.uasset" SILENT=true
+[2020.01.01-13.17.29:449][492]LogSavePackage: Moving '../../../../../../Study/Labs/7 semester/CGA/JustDoIt/Saved/CraftWidgetE4E335D040DF96BDF03EF6AF0C6DFC35.tmp' to '../../../../../../Study/Labs/7 semester/CGA/JustDoIt/Content/Inventory/UI/CraftWidget.uasset'
+[2020.01.01-13.17.40:403][134]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Inventory/InventoryComponent.InventoryComponent
+[2020.01.01-13.19.06:073][157]LogUObjectHash: Compacting FUObjectHashTables data took  10.10ms
+[2020.01.01-13.19.06:073][157]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Menu' took 0.096
+[2020.01.01-13.19.06:077][157]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Inventory/UI/InventoryWindow] ([1] browsable assets)...
+[2020.01.01-13.19.06:077][157]OBJ SavePackage: Finished generating thumbnails for package [/Game/Inventory/UI/InventoryWindow]
+[2020.01.01-13.19.06:774][157]LogSavePackage: Moving '../../../../../../Study/Labs/7 semester/CGA/JustDoIt/Saved/InventoryWindow_Auto4F0AC633348C50460550E00A2AB3BF499.tmp' to '../../../../../../Study/Labs/7 semester/CGA/JustDoIt/Saved/Autosaves/Game/Inventory/UI/InventoryWindow_Auto4.uasset'
+[2020.01.01-13.19.06:775][157]LogFileHelpers: Auto-saving content packages took 0.700
+[2020.01.01-13.20.31:519][193]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Inventory/UI/InventoryWindow" FILE="../../../../../../Study/Labs/7 semester/CGA/JustDoIt/Content/Inventory/UI/InventoryWindow.uasset" SILENT=true
+[2020.01.01-13.20.31:574][193]LogSavePackage: Moving '../../../../../../Study/Labs/7 semester/CGA/JustDoIt/Saved/InventoryWindow9128DA4E4DB3CB480E513EBB0E55102D.tmp' to '../../../../../../Study/Labs/7 semester/CGA/JustDoIt/Content/Inventory/UI/InventoryWindow.uasset'
+[2020.01.01-13.21.16:945][854]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Inventory/InventoryComponent" FILE="../../../../../../Study/Labs/7 semester/CGA/JustDoIt/Content/Inventory/InventoryComponent.uasset" SILENT=true
+[2020.01.01-13.21.17:116][854]LogSavePackage: Moving '../../../../../../Study/Labs/7 semester/CGA/JustDoIt/Saved/InventoryComponent9AEDC0CE414A6E344BA544BC85E4B653.tmp' to '../../../../../../Study/Labs/7 semester/CGA/JustDoIt/Content/Inventory/InventoryComponent.uasset'
+[2020.01.01-13.21.17:956][902]BlueprintLog: New page: Compile InventoryComponent
+[2020.01.01-13.21.18:218][902]LogUObjectHash: Compacting FUObjectHashTables data took  11.34ms
+[2020.01.01-13.21.19:049][940]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Inventory/InventoryComponent" FILE="../../../../../../Study/Labs/7 semester/CGA/JustDoIt/Content/Inventory/InventoryComponent.uasset" SILENT=true
+[2020.01.01-13.21.19:179][940]LogSavePackage: Moving '../../../../../../Study/Labs/7 semester/CGA/JustDoIt/Saved/InventoryComponent8F67F74F4D3E617971C105856779A742.tmp' to '../../../../../../Study/Labs/7 semester/CGA/JustDoIt/Content/Inventory/InventoryComponent.uasset'
+[2020.01.01-13.21.57:181][202]LogAssetEditorManager: Opening Asset editor for UserDefinedStruct /Game/CharacterIndicators.CharacterIndicators
+[2020.01.01-13.22.04:035][596]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/MainCharacter.MainCharacter
+[2020.01.01-13.22.38:239][341]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MainCharacter" FILE="../../../../../../Study/Labs/7 semester/CGA/JustDoIt/Content/MainCharacter.uasset" SILENT=true
+[2020.01.01-13.22.38:712][341]LogSavePackage: Moving '../../../../../../Study/Labs/7 semester/CGA/JustDoIt/Saved/MainCharacterB6BE02D44ED638E2CAB27BAF62B0E33D.tmp' to '../../../../../../Study/Labs/7 semester/CGA/JustDoIt/Content/MainCharacter.uasset'
+[2020.01.01-13.22.39:306][372]BlueprintLog: New page: Compile MainCharacter
+[2020.01.01-13.22.40:512][372]LogUObjectHash: Compacting FUObjectHashTables data took  28.50ms
+[2020.01.01-13.22.41:688][409]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MainCharacter" FILE="../../../../../../Study/Labs/7 semester/CGA/JustDoIt/Content/MainCharacter.uasset" SILENT=true
+[2020.01.01-13.22.41:946][409]LogSavePackage: Moving '../../../../../../Study/Labs/7 semester/CGA/JustDoIt/Saved/MainCharacter5925725D4B828EA3688BE3B3C856B336.tmp' to '../../../../../../Study/Labs/7 semester/CGA/JustDoIt/Content/MainCharacter.uasset'
+[2020.01.01-13.22.42:724][451]LogWorld: UWorld::CleanupWorld for World_16, bSessionEnded=true, bCleanupResources=true
+[2020.01.01-13.23.12:852][166]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Inventory/UI/InventoryWindow" FILE="../../../../../../Study/Labs/7 semester/CGA/JustDoIt/Content/Inventory/UI/InventoryWindow.uasset" SILENT=true
+[2020.01.01-13.23.12:907][166]LogSavePackage: Moving '../../../../../../Study/Labs/7 semester/CGA/JustDoIt/Saved/InventoryWindow2F2AD9B04B6C0A0E962B0EBD4FED24C1.tmp' to '../../../../../../Study/Labs/7 semester/CGA/JustDoIt/Content/Inventory/UI/InventoryWindow.uasset'
+[2020.01.01-13.23.13:562][204]BlueprintLog: New page: Compile InventoryWindow
+[2020.01.01-13.23.13:751][204]LogUObjectHash: Compacting FUObjectHashTables data took  10.73ms
+[2020.01.01-13.23.14:271][226]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Inventory/UI/InventoryWindow" FILE="../../../../../../Study/Labs/7 semester/CGA/JustDoIt/Content/Inventory/UI/InventoryWindow.uasset" SILENT=true
+[2020.01.01-13.23.14:327][226]LogSavePackage: Moving '../../../../../../Study/Labs/7 semester/CGA/JustDoIt/Saved/InventoryWindow5C1D104C44A5C32AE86BA495358EC58E.tmp' to '../../../../../../Study/Labs/7 semester/CGA/JustDoIt/Content/Inventory/UI/InventoryWindow.uasset'
+[2020.01.01-13.23.22:390][674]LogWorld: UWorld::CleanupWorld for World_15, bSessionEnded=true, bCleanupResources=true
+[2020.01.01-13.23.34:319][360]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Inventory/UI/CraftWidget" FILE="../../../../../../Study/Labs/7 semester/CGA/JustDoIt/Content/Inventory/UI/CraftWidget.uasset" SILENT=true
+[2020.01.01-13.23.34:369][360]LogSavePackage: Moving '../../../../../../Study/Labs/7 semester/CGA/JustDoIt/Saved/CraftWidget56D3BBFD44D61DB2F507D2ABE622D2A0.tmp' to '../../../../../../Study/Labs/7 semester/CGA/JustDoIt/Content/Inventory/UI/CraftWidget.uasset'
+[2020.01.01-13.23.34:724][380]BlueprintLog: New page: Compile CraftWidget
+[2020.01.01-13.23.34:837][380]LogUObjectHash: Compacting FUObjectHashTables data took  10.68ms
+[2020.01.01-13.23.36:757][490]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Inventory/UI/CraftWidget" FILE="../../../../../../Study/Labs/7 semester/CGA/JustDoIt/Content/Inventory/UI/CraftWidget.uasset" SILENT=true
+[2020.01.01-13.23.36:804][490]LogSavePackage: Moving '../../../../../../Study/Labs/7 semester/CGA/JustDoIt/Saved/CraftWidget51E569944A48E0E3E1466798199D2904.tmp' to '../../../../../../Study/Labs/7 semester/CGA/JustDoIt/Content/Inventory/UI/CraftWidget.uasset'
+[2020.01.01-13.24.03:554][ 83]BlueprintLog: New page: Compile CraftWidget
+[2020.01.01-13.24.03:654][ 83]LogUObjectHash: Compacting FUObjectHashTables data took   9.94ms
+[2020.01.01-13.24.03:662][ 83]BlueprintLog: New page: Compile CraftWidget
+[2020.01.01-13.24.03:759][ 83]LogUObjectHash: Compacting FUObjectHashTables data took   9.97ms
+[2020.01.01-13.24.05:056][156]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Inventory/UI/CraftWidget" FILE="../../../../../../Study/Labs/7 semester/CGA/JustDoIt/Content/Inventory/UI/CraftWidget.uasset" SILENT=true
+[2020.01.01-13.24.05:097][156]LogSavePackage: Moving '../../../../../../Study/Labs/7 semester/CGA/JustDoIt/Saved/CraftWidget8854FFE947C1EB9A48EE06BBD7891DB6.tmp' to '../../../../../../Study/Labs/7 semester/CGA/JustDoIt/Content/Inventory/UI/CraftWidget.uasset'
+[2020.01.01-13.24.41:566][309]BlueprintLog: New page: Compile InventoryWindow
+[2020.01.01-13.24.41:689][309]LogUObjectHash: Compacting FUObjectHashTables data took  10.82ms
+[2020.01.01-13.24.42:498][352]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Inventory/UI/InventoryWindow" FILE="../../../../../../Study/Labs/7 semester/CGA/JustDoIt/Content/Inventory/UI/InventoryWindow.uasset" SILENT=true
+[2020.01.01-13.24.42:646][352]LogSavePackage: Moving '../../../../../../Study/Labs/7 semester/CGA/JustDoIt/Saved/InventoryWindowD71682114BC5954D2311458EBB33F3A7.tmp' to '../../../../../../Study/Labs/7 semester/CGA/JustDoIt/Content/Inventory/UI/InventoryWindow.uasset'
+[2020.01.01-13.24.44:045][433]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2020.01.01-13.24.44:178][433]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Menu.Menu:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Menu.Menu:PersistentLevel.Menu' with GeneratedClass '/Game/Maps/Menu.Menu_C' with ClassGeneratedBy '/Game/Maps/Menu.Menu:PersistentLevel.Menu'
+[2020.01.01-13.24.44:178][433]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.01.01-13.24.44:179][433]PIE: New page: PIE session: Menu (1 янв. 2020 г., 19:24:44)
+[2020.01.01-13.24.44:180][433]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Menu
+[2020.01.01-13.24.44:182][433]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002073s)
+[2020.01.01-13.24.44:183][433]LogAIModule: Creating AISystem for world Menu
+[2020.01.01-13.24.44:184][433]LogPlayLevel: PIE: World Init took: (0.001919s)
+[2020.01.01-13.24.44:184][433]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Menu.Menu to /Game/Maps/UEDPIE_0_Menu.Menu (0.004222s)
+[2020.01.01-13.24.44:269][433]LogUObjectHash: Compacting FUObjectHashTables data took  10.48ms
+[2020.01.01-13.24.44:277][433]LogInit: XAudio2 using 'Динамики (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.01.01-13.24.44:473][433]LogInit: FAudioDevice initialized.
+[2020.01.01-13.24.44:482][433]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.01-13.24.44:483][433]LogLoad: Game class is 'CustomGM_C'
+[2020.01.01-13.24.44:485][433]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Menu.Menu up for play (max tick rate 60) at 2020.01.01-16.24.44
+[2020.01.01-13.24.44:485][433]LogWorld: Bringing up level for play took: 0.001030
+[2020.01.01-13.24.44:486][433]LogOnline: OSS: Creating online subsystem instance for: :Context_88
+[2020.01.01-13.24.44:523][433]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Menu 0,802
+[2020.01.01-13.24.44:524][433]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Menu.Menu:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Menu.Menu:PersistentLevel.Menu' with GeneratedClass '/Game/Maps/Menu.Menu_C' with ClassGeneratedBy '/Game/Maps/Menu.Menu:PersistentLevel.Menu'
+[2020.01.01-13.24.45:675][473]LogNet: Browse: /Game/Maps/Peaceful
+[2020.01.01-13.24.45:675][473]LogLoad: LoadMap: /Game/Maps/Peaceful
+[2020.01.01-13.24.45:675][473]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Menu
+[2020.01.01-13.24.45:676][473]LogWorld: UWorld::CleanupWorld for Menu, bSessionEnded=true, bCleanupResources=true
+[2020.01.01-13.24.45:757][473]LogUObjectHash: Compacting FUObjectHashTables data took   7.68ms
+[2020.01.01-13.24.46:191][473]LogAIModule: Creating AISystem for world Peaceful
+[2020.01.01-13.24.46:191][473]LogLoad: Game class is 'CustomGM_C'
+[2020.01.01-13.24.47:017][473]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Peaceful.Peaceful up for play (max tick rate 60) at 2020.01.01-16.24.47
+[2020.01.01-13.24.47:024][473]LogWorld: Bringing up level for play took: 0.831106
+[2020.01.01-13.24.47:027][473]LogLoad: Took 1.352241 seconds to LoadMap(/Game/Maps/Peaceful)
+[2020.01.01-13.24.47:354][475]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.01.01-13.24.48:352][500]LogScript: Warning: Accessed None trying to read property Inventory
+	CraftWidget_C /Engine/Transient.UnrealEdEngine_0:GameInstance_70.InventoryWindow_C_0.WidgetTree_0.CraftWidget
+	Function /Game/Inventory/UI/CraftWidget.CraftWidget_C:ExecuteUbergraph_CraftWidget:024A
+[2020.01.01-13.24.48:352][500]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Inventory". Blueprint:  CraftWidget Function:  Execute Ubergraph Craft Widget Graph:  ForLoop Node:  Branch
+[2020.01.01-13.24.51:702][575]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.01.01-13.24.52:099][586]LogScript: Warning: Accessed None trying to read property Inventory
+	CraftWidget_C /Engine/Transient.UnrealEdEngine_0:GameInstance_70.InventoryWindow_C_1.WidgetTree_0.CraftWidget
+	Function /Game/Inventory/UI/CraftWidget.CraftWidget_C:ExecuteUbergraph_CraftWidget:024A
+[2020.01.01-13.24.52:100][586]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Inventory". Blueprint:  CraftWidget Function:  Execute Ubergraph Craft Widget Graph:  ForLoop Node:  Branch
+[2020.01.01-13.24.56:476][686]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.01.01-13.25.02:229][837]LogScript: Warning: Accessed None trying to read property Inventory
+	CraftWidget_C /Engine/Transient.UnrealEdEngine_0:GameInstance_70.InventoryWindow_C_2.WidgetTree_0.CraftWidget
+	Function /Game/Inventory/UI/CraftWidget.CraftWidget_C:ExecuteUbergraph_CraftWidget:024A
+[2020.01.01-13.25.02:229][837]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Inventory". Blueprint:  CraftWidget Function:  Execute Ubergraph Craft Widget Graph:  ForLoop Node:  Branch
+[2020.01.01-13.25.06:441][931]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.01.01-13.25.10:076][ 28]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Menu.Menu:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Menu.Menu:PersistentLevel.Menu' with GeneratedClass '/Game/Maps/Menu.Menu_C' with ClassGeneratedBy '/Game/Maps/Menu.Menu:PersistentLevel.Menu'
+[2020.01.01-13.25.10:077][ 28]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.01-13.25.10:077][ 28]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Peaceful
+[2020.01.01-13.25.10:122][ 28]LogSlate: Window 'JustDoIt Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2020.01.01-13.25.10:130][ 28]LogWorld: UWorld::CleanupWorld for Peaceful, bSessionEnded=true, bCleanupResources=true
+[2020.01.01-13.25.10:167][ 28]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.01.01-13.25.10:167][ 28]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Menu.Menu:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Menu.Menu:PersistentLevel.Menu' with GeneratedClass '/Game/Maps/Menu.Menu_C' with ClassGeneratedBy '/Game/Maps/Menu.Menu:PersistentLevel.Menu'
+[2020.01.01-13.25.10:316][ 28]LogUObjectHash: Compacting FUObjectHashTables data took   7.48ms
+[2020.01.01-13.25.10:485][ 29]LogPlayLevel: Display: Destroying online subsystem :Context_88
+[2020.01.01-13.25.13:473][172]LogSlate: Window 'Message Log' being destroyed
+[2020.01.01-13.25.13:490][172]LogSlate: Window 'Message Log' being destroyed
+[2020.01.01-13.25.15:664][301]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Inventory/UI/CraftWidget" FILE="../../../../../../Study/Labs/7 semester/CGA/JustDoIt/Content/Inventory/UI/CraftWidget.uasset" SILENT=true
+[2020.01.01-13.25.15:705][301]LogSavePackage: Moving '../../../../../../Study/Labs/7 semester/CGA/JustDoIt/Saved/CraftWidget528DF4CE45E1C330EFC543906D28A616.tmp' to '../../../../../../Study/Labs/7 semester/CGA/JustDoIt/Content/Inventory/UI/CraftWidget.uasset'
+[2020.01.01-13.26.21:677][195]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Inventory/UI/InventoryWindow" FILE="../../../../../../Study/Labs/7 semester/CGA/JustDoIt/Content/Inventory/UI/InventoryWindow.uasset" SILENT=true
+[2020.01.01-13.26.21:736][195]LogSavePackage: Moving '../../../../../../Study/Labs/7 semester/CGA/JustDoIt/Saved/InventoryWindowAEC803354FA1B782039F1ABDF0E8E2A6.tmp' to '../../../../../../Study/Labs/7 semester/CGA/JustDoIt/Content/Inventory/UI/InventoryWindow.uasset'
+[2020.01.01-13.26.24:616][360]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Inventory/UI/InventoryWindow" FILE="../../../../../../Study/Labs/7 semester/CGA/JustDoIt/Content/Inventory/UI/InventoryWindow.uasset" SILENT=true
+[2020.01.01-13.26.24:673][360]LogSavePackage: Moving '../../../../../../Study/Labs/7 semester/CGA/JustDoIt/Saved/InventoryWindowF9F947634CE092CFEECDFFAA641AF686.tmp' to '../../../../../../Study/Labs/7 semester/CGA/JustDoIt/Content/Inventory/UI/InventoryWindow.uasset'
+[2020.01.01-13.26.25:101][384]BlueprintLog: New page: Compile InventoryWindow
+[2020.01.01-13.26.25:225][384]LogUObjectHash: Compacting FUObjectHashTables data took  10.83ms
+[2020.01.01-13.26.25:742][406]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Inventory/UI/InventoryWindow" FILE="../../../../../../Study/Labs/7 semester/CGA/JustDoIt/Content/Inventory/UI/InventoryWindow.uasset" SILENT=true
+[2020.01.01-13.26.25:837][406]LogSavePackage: Moving '../../../../../../Study/Labs/7 semester/CGA/JustDoIt/Saved/InventoryWindow14636EAC468C6EDFD8919BA59C10429B.tmp' to '../../../../../../Study/Labs/7 semester/CGA/JustDoIt/Content/Inventory/UI/InventoryWindow.uasset'
+[2020.01.01-13.26.39:473][196]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/MainCharacter.MainCharacter
+[2020.01.01-13.26.51:026][795]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MainCharacter" FILE="../../../../../../Study/Labs/7 semester/CGA/JustDoIt/Content/MainCharacter.uasset" SILENT=true
+[2020.01.01-13.26.51:286][795]LogSavePackage: Moving '../../../../../../Study/Labs/7 semester/CGA/JustDoIt/Saved/MainCharacter8A80501544EA7F8ADBD5429623BD7C6A.tmp' to '../../../../../../Study/Labs/7 semester/CGA/JustDoIt/Content/MainCharacter.uasset'
+[2020.01.01-13.27.02:826][474]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MainCharacter" FILE="../../../../../../Study/Labs/7 semester/CGA/JustDoIt/Content/MainCharacter.uasset" SILENT=true
+[2020.01.01-13.27.03:085][474]LogSavePackage: Moving '../../../../../../Study/Labs/7 semester/CGA/JustDoIt/Saved/MainCharacterDF402C744F55A964D5A0B6855AE9210E.tmp' to '../../../../../../Study/Labs/7 semester/CGA/JustDoIt/Content/MainCharacter.uasset'
+[2020.01.01-13.27.03:526][499]BlueprintLog: New page: Compile MainCharacter
+[2020.01.01-13.27.04:201][499]LogUObjectHash: Compacting FUObjectHashTables data took  11.36ms
+[2020.01.01-13.27.05:208][545]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MainCharacter" FILE="../../../../../../Study/Labs/7 semester/CGA/JustDoIt/Content/MainCharacter.uasset" SILENT=true
+[2020.01.01-13.27.05:488][545]LogSavePackage: Moving '../../../../../../Study/Labs/7 semester/CGA/JustDoIt/Saved/MainCharacter15B2F8824819F142D50ECB81F61F95C7.tmp' to '../../../../../../Study/Labs/7 semester/CGA/JustDoIt/Content/MainCharacter.uasset'
+[2020.01.01-13.27.36:867][988]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Inventory/InventoryComponent.InventoryComponent
+[2020.01.01-13.28.25:860][821]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Inventory/InventoryComponent" FILE="../../../../../../Study/Labs/7 semester/CGA/JustDoIt/Content/Inventory/InventoryComponent.uasset" SILENT=true
+[2020.01.01-13.28.26:029][821]LogSavePackage: Moving '../../../../../../Study/Labs/7 semester/CGA/JustDoIt/Saved/InventoryComponent7C97DB254EBC6531B4A9E592AAD8C2AE.tmp' to '../../../../../../Study/Labs/7 semester/CGA/JustDoIt/Content/Inventory/InventoryComponent.uasset'
+[2020.01.01-13.28.29:915][ 50]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Inventory/InventoryComponent" FILE="../../../../../../Study/Labs/7 semester/CGA/JustDoIt/Content/Inventory/InventoryComponent.uasset" SILENT=true
+[2020.01.01-13.28.30:052][ 50]LogSavePackage: Moving '../../../../../../Study/Labs/7 semester/CGA/JustDoIt/Saved/InventoryComponentAA999A1A436963C38DC3F9B6CD20B74C.tmp' to '../../../../../../Study/Labs/7 semester/CGA/JustDoIt/Content/Inventory/InventoryComponent.uasset'
+[2020.01.01-13.28.41:556][739]BlueprintLog: New page: Compile InventoryComponent
+[2020.01.01-13.28.42:655][739]LogActorComponent: RegisterComponentWithWorld: Owner belongs to a DEADCLASS
+[2020.01.01-13.28.42:655][739]LogActorComponent: RegisterComponentWithWorld: Owner belongs to a DEADCLASS
+[2020.01.01-13.28.42:655][739]LogActorComponent: RegisterComponentWithWorld: Owner belongs to a DEADCLASS
+[2020.01.01-13.28.42:713][739]LogActor: Warning: PickupableBlock_C /Engine/Transient.World_17:PersistentLevel.ActiveActor_GEN_VARIABLE_PickupableBlock_C_CAT_0 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2020.01.01-13.28.43:429][739]LogUObjectHash: Compacting FUObjectHashTables data took  58.74ms
+[2020.01.01-13.28.45:545][842]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Inventory/InventoryComponent" FILE="../../../../../../Study/Labs/7 semester/CGA/JustDoIt/Content/Inventory/InventoryComponent.uasset" SILENT=true
+[2020.01.01-13.28.45:674][842]LogSavePackage: Moving '../../../../../../Study/Labs/7 semester/CGA/JustDoIt/Saved/InventoryComponentC67F0C29433D126655364C975A4D695C.tmp' to '../../../../../../Study/Labs/7 semester/CGA/JustDoIt/Content/Inventory/InventoryComponent.uasset'
+[2020.01.01-13.28.46:749][903]LogWorld: UWorld::CleanupWorld for World_18, bSessionEnded=true, bCleanupResources=true
+[2020.01.01-13.29.15:952][493]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MainCharacter" FILE="../../../../../../Study/Labs/7 semester/CGA/JustDoIt/Content/MainCharacter.uasset" SILENT=true
+[2020.01.01-13.29.16:277][493]LogSavePackage: Moving '../../../../../../Study/Labs/7 semester/CGA/JustDoIt/Saved/MainCharacterAB6B6DA54D0529397B2A64969AF29165.tmp' to '../../../../../../Study/Labs/7 semester/CGA/JustDoIt/Content/MainCharacter.uasset'
+[2020.01.01-13.29.16:681][515]BlueprintLog: New page: Compile MainCharacter
+[2020.01.01-13.29.17:458][515]LogUObjectHash: Compacting FUObjectHashTables data took  21.10ms
+[2020.01.01-13.29.18:424][550]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MainCharacter" FILE="../../../../../../Study/Labs/7 semester/CGA/JustDoIt/Content/MainCharacter.uasset" SILENT=true
+[2020.01.01-13.29.18:682][550]LogSavePackage: Moving '../../../../../../Study/Labs/7 semester/CGA/JustDoIt/Saved/MainCharacter621D3A6A45FE4604FBDE3CB0C9BDEBFF.tmp' to '../../../../../../Study/Labs/7 semester/CGA/JustDoIt/Content/MainCharacter.uasset'
+[2020.01.01-13.29.43:527][999]LogUObjectHash: Compacting FUObjectHashTables data took  11.38ms
+[2020.01.01-13.29.43:527][999]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Menu' took 0.093
+[2020.01.01-13.29.43:530][999]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Inventory/UI/InventorySlot] ([1] browsable assets)...
+[2020.01.01-13.29.43:530][999]OBJ SavePackage: Finished generating thumbnails for package [/Game/Inventory/UI/InventorySlot]
+[2020.01.01-13.29.43:795][999]LogSavePackage: Moving '../../../../../../Study/Labs/7 semester/CGA/JustDoIt/Saved/InventorySlot_Auto5D6DA0BF94BE446067516B9A7EBD9EFB0.tmp' to '../../../../../../Study/Labs/7 semester/CGA/JustDoIt/Saved/Autosaves/Game/Inventory/UI/InventorySlot_Auto5.uasset'
+[2020.01.01-13.29.43:817][999]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Inventory/UI/InventoryWindow] ([1] browsable assets)...
+[2020.01.01-13.29.43:817][999]OBJ SavePackage: Finished generating thumbnails for package [/Game/Inventory/UI/InventoryWindow]
+[2020.01.01-13.29.43:887][999]LogSavePackage: Moving '../../../../../../Study/Labs/7 semester/CGA/JustDoIt/Saved/InventoryWindow_Auto57FC0FD6941835147E5E1CC87EA2D2CB8.tmp' to '../../../../../../Study/Labs/7 semester/CGA/JustDoIt/Saved/Autosaves/Game/Inventory/UI/InventoryWindow_Auto5.uasset'
+[2020.01.01-13.29.43:910][999]LogFileHelpers: Auto-saving content packages took 0.381
+[2020.01.01-13.30.00:944][991]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MainCharacter" FILE="../../../../../../Study/Labs/7 semester/CGA/JustDoIt/Content/MainCharacter.uasset" SILENT=true
+[2020.01.01-13.30.01:201][991]LogSavePackage: Moving '../../../../../../Study/Labs/7 semester/CGA/JustDoIt/Saved/MainCharacter27BABA95477365A9220E3B99EA3BF0E9.tmp' to '../../../../../../Study/Labs/7 semester/CGA/JustDoIt/Content/MainCharacter.uasset'
+[2020.01.01-13.30.02:817][ 84]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2020.01.01-13.30.02:880][ 84]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Menu.Menu:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Menu.Menu:PersistentLevel.Menu' with GeneratedClass '/Game/Maps/Menu.Menu_C' with ClassGeneratedBy '/Game/Maps/Menu.Menu:PersistentLevel.Menu'
+[2020.01.01-13.30.02:881][ 84]BlueprintLog: New page: Pre-Play auto-recompile
+[2020.01.01-13.30.03:026][ 84]LogPlayLevel: [PlayLevel] Compiling EatableBlock before play...
+[2020.01.01-13.30.03:028][ 84]LogPlayLevel: [PlayLevel]   Compiling Apple as a dependent...
+[2020.01.01-13.30.03:030][ 84]LogPlayLevel: [PlayLevel]   Compiling Meat as a dependent...
+[2020.01.01-13.30.03:553][ 84]LogPlayLevel: [PlayLevel] Compiling Plant before play...
+[2020.01.01-13.30.03:783][ 84]LogPlayLevel: [PlayLevel] Compiling Sand before play...
+[2020.01.01-13.30.03:967][ 84]LogUObjectHash: Compacting FUObjectHashTables data took  10.67ms
+[2020.01.01-13.30.04:007][ 84]LogPlayLevel: PlayLevel: Blueprint regeneration took 1126 ms (5 blueprints)
+[2020.01.01-13.30.04:007][ 84]PIE: New page: PIE session: Menu (1 янв. 2020 г., 19:30:04)
+[2020.01.01-13.30.04:007][ 84]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Menu
+[2020.01.01-13.30.04:009][ 84]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001813s)
+[2020.01.01-13.30.04:028][ 84]LogAIModule: Creating AISystem for world Menu
+[2020.01.01-13.30.04:028][ 84]LogPlayLevel: PIE: World Init took: (0.018685s)
+[2020.01.01-13.30.04:028][ 84]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Menu.Menu to /Game/Maps/UEDPIE_0_Menu.Menu (0.020668s)
+[2020.01.01-13.30.04:108][ 84]LogUObjectHash: Compacting FUObjectHashTables data took   6.83ms
+[2020.01.01-13.30.04:112][ 84]LogInit: XAudio2 using 'Динамики (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.01.01-13.30.04:225][ 84]LogInit: FAudioDevice initialized.
+[2020.01.01-13.30.04:234][ 84]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.01-13.30.04:234][ 84]LogLoad: Game class is 'CustomGM_C'
+[2020.01.01-13.30.04:236][ 84]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Menu.Menu up for play (max tick rate 60) at 2020.01.01-16.30.04
+[2020.01.01-13.30.04:236][ 84]LogWorld: Bringing up level for play took: 0.000953
+[2020.01.01-13.30.04:237][ 84]LogOnline: OSS: Creating online subsystem instance for: :Context_91
+[2020.01.01-13.30.04:264][ 84]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Menu 0,543
+[2020.01.01-13.30.04:265][ 84]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Menu.Menu:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Menu.Menu:PersistentLevel.Menu' with GeneratedClass '/Game/Maps/Menu.Menu_C' with ClassGeneratedBy '/Game/Maps/Menu.Menu:PersistentLevel.Menu'
+[2020.01.01-13.30.05:222][115]LogNet: Browse: /Game/Maps/Peaceful
+[2020.01.01-13.30.05:222][115]LogLoad: LoadMap: /Game/Maps/Peaceful
+[2020.01.01-13.30.05:222][115]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Menu
+[2020.01.01-13.30.05:223][115]LogWorld: UWorld::CleanupWorld for Menu, bSessionEnded=true, bCleanupResources=true
+[2020.01.01-13.30.05:308][115]LogUObjectHash: Compacting FUObjectHashTables data took   8.21ms
+[2020.01.01-13.30.05:783][115]LogAIModule: Creating AISystem for world Peaceful
+[2020.01.01-13.30.05:784][115]LogLoad: Game class is 'CustomGM_C'
+[2020.01.01-13.30.06:556][115]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Peaceful.Peaceful up for play (max tick rate 60) at 2020.01.01-16.30.06
+[2020.01.01-13.30.06:562][115]LogWorld: Bringing up level for play took: 0.777173
+[2020.01.01-13.30.06:566][115]LogLoad: Took 1.343990 seconds to LoadMap(/Game/Maps/Peaceful)
+[2020.01.01-13.30.06:852][117]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.01.01-13.30.07:637][139]LogScript: Warning: Accessed None trying to read property Inventory
+	CraftWidget_C /Engine/Transient.UnrealEdEngine_0:GameInstance_71.InventoryWindow_C_0.WidgetTree_0.CraftWidget
+	Function /Game/Inventory/UI/CraftWidget.CraftWidget_C:ExecuteUbergraph_CraftWidget:024A
+[2020.01.01-13.30.07:638][139]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Inventory". Blueprint:  CraftWidget Function:  Execute Ubergraph Craft Widget Graph:  ForLoop Node:  Branch
+[2020.01.01-13.30.09:150][175]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.01.01-13.30.09:736][192]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Menu.Menu:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Menu.Menu:PersistentLevel.Menu' with GeneratedClass '/Game/Maps/Menu.Menu_C' with ClassGeneratedBy '/Game/Maps/Menu.Menu:PersistentLevel.Menu'
+[2020.01.01-13.30.09:736][192]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.01-13.30.09:737][192]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Peaceful
+[2020.01.01-13.30.09:820][192]LogSlate: Window 'JustDoIt Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2020.01.01-13.30.09:828][192]LogWorld: UWorld::CleanupWorld for Peaceful, bSessionEnded=true, bCleanupResources=true
+[2020.01.01-13.30.09:857][192]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.01.01-13.30.09:857][192]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Menu.Menu:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Menu.Menu:PersistentLevel.Menu' with GeneratedClass '/Game/Maps/Menu.Menu_C' with ClassGeneratedBy '/Game/Maps/Menu.Menu:PersistentLevel.Menu'
+[2020.01.01-13.30.10:001][192]LogUObjectHash: Compacting FUObjectHashTables data took   5.99ms
+[2020.01.01-13.30.10:096][193]LogPlayLevel: Display: Destroying online subsystem :Context_91
+[2020.01.01-13.30.13:564][385]LogSlate: Window 'Message Log' being destroyed
+[2020.01.01-13.30.13:580][385]LogSlate: Window 'Message Log' being destroyed
+[2020.01.01-13.30.22:461][907]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Inventory/UI/InventoryWindow" FILE="../../../../../../Study/Labs/7 semester/CGA/JustDoIt/Content/Inventory/UI/InventoryWindow.uasset" SILENT=true
+[2020.01.01-13.30.22:522][907]LogSavePackage: Moving '../../../../../../Study/Labs/7 semester/CGA/JustDoIt/Saved/InventoryWindow8FCA0C4C4E816EABE9FEDCB06E966FA0.tmp' to '../../../../../../Study/Labs/7 semester/CGA/JustDoIt/Content/Inventory/UI/InventoryWindow.uasset'
+[2020.01.01-13.31.13:286][813]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Inventory/UI/InventoryWindow" FILE="../../../../../../Study/Labs/7 semester/CGA/JustDoIt/Content/Inventory/UI/InventoryWindow.uasset" SILENT=true
+[2020.01.01-13.31.13:345][813]LogSavePackage: Moving '../../../../../../Study/Labs/7 semester/CGA/JustDoIt/Saved/InventoryWindow12A411F6438E4EEDFDC2B1A97FE07DD2.tmp' to '../../../../../../Study/Labs/7 semester/CGA/JustDoIt/Content/Inventory/UI/InventoryWindow.uasset'
+[2020.01.01-13.31.27:655][640]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Inventory/UI/InventoryWindow" FILE="../../../../../../Study/Labs/7 semester/CGA/JustDoIt/Content/Inventory/UI/InventoryWindow.uasset" SILENT=true
+[2020.01.01-13.31.27:717][640]LogSavePackage: Moving '../../../../../../Study/Labs/7 semester/CGA/JustDoIt/Saved/InventoryWindowA4B6DB0E47D5AEA709BA8EBA2E47EA36.tmp' to '../../../../../../Study/Labs/7 semester/CGA/JustDoIt/Content/Inventory/UI/InventoryWindow.uasset'
+[2020.01.01-13.31.32:846][945]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Inventory/UI/InventoryWindow" FILE="../../../../../../Study/Labs/7 semester/CGA/JustDoIt/Content/Inventory/UI/InventoryWindow.uasset" SILENT=true
+[2020.01.01-13.31.32:954][945]LogSavePackage: Moving '../../../../../../Study/Labs/7 semester/CGA/JustDoIt/Saved/InventoryWindow058B413F497B35B9F93BD7A4BDFF4124.tmp' to '../../../../../../Study/Labs/7 semester/CGA/JustDoIt/Content/Inventory/UI/InventoryWindow.uasset'
+[2020.01.01-13.31.34:343][ 26]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Inventory/UI/InventoryWindow" FILE="../../../../../../Study/Labs/7 semester/CGA/JustDoIt/Content/Inventory/UI/InventoryWindow.uasset" SILENT=true
+[2020.01.01-13.31.34:548][ 26]LogSavePackage: Moving '../../../../../../Study/Labs/7 semester/CGA/JustDoIt/Saved/InventoryWindowE9F1424D428A53DBA4BC62B46B2838E8.tmp' to '../../../../../../Study/Labs/7 semester/CGA/JustDoIt/Content/Inventory/UI/InventoryWindow.uasset'
+[2020.01.01-13.31.43:528][563]BlueprintLog: New page: Compile InventoryWindow
+[2020.01.01-13.31.44:072][563]LogUObjectHash: Compacting FUObjectHashTables data took   9.50ms
+[2020.01.01-13.31.44:766][597]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Inventory/UI/InventoryWindow" FILE="../../../../../../Study/Labs/7 semester/CGA/JustDoIt/Content/Inventory/UI/InventoryWindow.uasset" SILENT=true
+[2020.01.01-13.31.44:829][597]LogSavePackage: Moving '../../../../../../Study/Labs/7 semester/CGA/JustDoIt/Saved/InventoryWindow638B128B4F95C3554505FBA562BA9C1C.tmp' to '../../../../../../Study/Labs/7 semester/CGA/JustDoIt/Content/Inventory/UI/InventoryWindow.uasset'
+[2020.01.01-13.32.03:862][727]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Inventory/UI/CraftWidget" FILE="../../../../../../Study/Labs/7 semester/CGA/JustDoIt/Content/Inventory/UI/CraftWidget.uasset" SILENT=true
+[2020.01.01-13.32.04:116][727]LogSavePackage: Moving '../../../../../../Study/Labs/7 semester/CGA/JustDoIt/Saved/CraftWidget62CDB9E541A6EBB470F51487057334E3.tmp' to '../../../../../../Study/Labs/7 semester/CGA/JustDoIt/Content/Inventory/UI/CraftWidget.uasset'
+[2020.01.01-13.32.07:331][917]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Inventory/UI/CraftWidget" FILE="../../../../../../Study/Labs/7 semester/CGA/JustDoIt/Content/Inventory/UI/CraftWidget.uasset" SILENT=true
+[2020.01.01-13.32.07:395][917]LogSavePackage: Moving '../../../../../../Study/Labs/7 semester/CGA/JustDoIt/Saved/CraftWidget7B45B85A48619576D56054AE62DBF9FB.tmp' to '../../../../../../Study/Labs/7 semester/CGA/JustDoIt/Content/Inventory/UI/CraftWidget.uasset'
+[2020.01.01-13.32.22:309][791]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Inventory/UI/CraftWidget" FILE="../../../../../../Study/Labs/7 semester/CGA/JustDoIt/Content/Inventory/UI/CraftWidget.uasset" SILENT=true
+[2020.01.01-13.32.22:351][791]LogSavePackage: Moving '../../../../../../Study/Labs/7 semester/CGA/JustDoIt/Saved/CraftWidget13E2A0C84817367CB8BD41961DF828DB.tmp' to '../../../../../../Study/Labs/7 semester/CGA/JustDoIt/Content/Inventory/UI/CraftWidget.uasset'
+[2020.01.01-13.32.23:437][855]BlueprintLog: New page: Compile CraftWidget
+[2020.01.01-13.32.24:005][855]LogUObjectHash: Compacting FUObjectHashTables data took  11.42ms
+[2020.01.01-13.32.26:339][983]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Inventory/UI/CraftWidget" FILE="../../../../../../Study/Labs/7 semester/CGA/JustDoIt/Content/Inventory/UI/CraftWidget.uasset" SILENT=true
+[2020.01.01-13.32.26:382][983]LogSavePackage: Moving '../../../../../../Study/Labs/7 semester/CGA/JustDoIt/Saved/CraftWidget21BB3D1A4426F5B45C08079E41F4474F.tmp' to '../../../../../../Study/Labs/7 semester/CGA/JustDoIt/Content/Inventory/UI/CraftWidget.uasset'
+[2020.01.01-13.32.27:853][ 70]BlueprintLog: New page: Compile CraftWidget
+[2020.01.01-13.32.28:388][ 70]LogUObjectHash: Compacting FUObjectHashTables data took  10.70ms
+[2020.01.01-13.32.28:997][101]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Inventory/UI/CraftWidget" FILE="../../../../../../Study/Labs/7 semester/CGA/JustDoIt/Content/Inventory/UI/CraftWidget.uasset" SILENT=true
+[2020.01.01-13.32.29:040][101]LogSavePackage: Moving '../../../../../../Study/Labs/7 semester/CGA/JustDoIt/Saved/CraftWidget73D119E74C52FD922A666C8091ADF664.tmp' to '../../../../../../Study/Labs/7 semester/CGA/JustDoIt/Content/Inventory/UI/CraftWidget.uasset'
+[2020.01.01-13.32.34:711][437]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Inventory/UI/InventoryWindow" FILE="../../../../../../Study/Labs/7 semester/CGA/JustDoIt/Content/Inventory/UI/InventoryWindow.uasset" SILENT=true
+[2020.01.01-13.32.34:773][437]LogSavePackage: Moving '../../../../../../Study/Labs/7 semester/CGA/JustDoIt/Saved/InventoryWindow61271D7545D40FCD44A73FA114BD9268.tmp' to '../../../../../../Study/Labs/7 semester/CGA/JustDoIt/Content/Inventory/UI/InventoryWindow.uasset'
+[2020.01.01-13.32.44:131][978]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Inventory/UI/InventoryWindow" FILE="../../../../../../Study/Labs/7 semester/CGA/JustDoIt/Content/Inventory/UI/InventoryWindow.uasset" SILENT=true
+[2020.01.01-13.32.44:190][978]LogSavePackage: Moving '../../../../../../Study/Labs/7 semester/CGA/JustDoIt/Saved/InventoryWindow3EBCE77A41D17564D1ECFEB29D840FDA.tmp' to '../../../../../../Study/Labs/7 semester/CGA/JustDoIt/Content/Inventory/UI/InventoryWindow.uasset'
+[2020.01.01-13.32.45:732][ 67]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Inventory/UI/InventoryWindow" FILE="../../../../../../Study/Labs/7 semester/CGA/JustDoIt/Content/Inventory/UI/InventoryWindow.uasset" SILENT=true
+[2020.01.01-13.32.45:792][ 67]LogSavePackage: Moving '../../../../../../Study/Labs/7 semester/CGA/JustDoIt/Saved/InventoryWindow1D5217444F14333B68E09480384A286E.tmp' to '../../../../../../Study/Labs/7 semester/CGA/JustDoIt/Content/Inventory/UI/InventoryWindow.uasset'
+[2020.01.01-13.32.46:263][ 94]BlueprintLog: New page: Compile InventoryWindow
+[2020.01.01-13.32.46:794][ 94]LogUObjectHash: Compacting FUObjectHashTables data took  11.56ms
+[2020.01.01-13.32.46:983][ 98]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Inventory/UI/InventoryWindow" FILE="../../../../../../Study/Labs/7 semester/CGA/JustDoIt/Content/Inventory/UI/InventoryWindow.uasset" SILENT=true
+[2020.01.01-13.32.47:043][ 98]LogSavePackage: Moving '../../../../../../Study/Labs/7 semester/CGA/JustDoIt/Saved/InventoryWindowEF45DD7743531DA9073C7A902704E0AD.tmp' to '../../../../../../Study/Labs/7 semester/CGA/JustDoIt/Content/Inventory/UI/InventoryWindow.uasset'
+[2020.01.01-13.32.49:638][241]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Inventory/UI/InventorySlot" FILE="../../../../../../Study/Labs/7 semester/CGA/JustDoIt/Content/Inventory/UI/InventorySlot.uasset" SILENT=true
+[2020.01.01-13.32.49:841][241]LogSavePackage: Moving '../../../../../../Study/Labs/7 semester/CGA/JustDoIt/Saved/InventorySlotFA30E57D428FF786816EE2AA97464CD7.tmp' to '../../../../../../Study/Labs/7 semester/CGA/JustDoIt/Content/Inventory/UI/InventorySlot.uasset'
+[2020.01.01-13.32.51:133][317]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2020.01.01-13.32.51:193][317]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Menu.Menu:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Menu.Menu:PersistentLevel.Menu' with GeneratedClass '/Game/Maps/Menu.Menu_C' with ClassGeneratedBy '/Game/Maps/Menu.Menu:PersistentLevel.Menu'
+[2020.01.01-13.32.51:193][317]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.01.01-13.32.51:193][317]PIE: New page: PIE session: Menu (1 янв. 2020 г., 19:32:51)
+[2020.01.01-13.32.51:297][317]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Menu
+[2020.01.01-13.32.51:299][317]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001883s)
+[2020.01.01-13.32.51:300][317]LogAIModule: Creating AISystem for world Menu
+[2020.01.01-13.32.51:301][317]LogPlayLevel: PIE: World Init took: (0.001622s)
+[2020.01.01-13.32.51:301][317]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Menu.Menu to /Game/Maps/UEDPIE_0_Menu.Menu (0.003726s)
+[2020.01.01-13.32.51:391][317]LogUObjectHash: Compacting FUObjectHashTables data took  10.19ms
+[2020.01.01-13.32.51:395][317]LogInit: XAudio2 using 'Динамики (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.01.01-13.32.51:507][317]LogInit: FAudioDevice initialized.
+[2020.01.01-13.32.51:516][317]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.01-13.32.51:517][317]LogLoad: Game class is 'CustomGM_C'
+[2020.01.01-13.32.51:519][317]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Menu.Menu up for play (max tick rate 60) at 2020.01.01-16.32.51
+[2020.01.01-13.32.51:519][317]LogWorld: Bringing up level for play took: 0.000851
+[2020.01.01-13.32.51:519][317]LogOnline: OSS: Creating online subsystem instance for: :Context_92
+[2020.01.01-13.32.51:533][317]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Menu -0,188
+[2020.01.01-13.32.51:533][317]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Menu.Menu:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Menu.Menu:PersistentLevel.Menu' with GeneratedClass '/Game/Maps/Menu.Menu_C' with ClassGeneratedBy '/Game/Maps/Menu.Menu:PersistentLevel.Menu'
+[2020.01.01-13.32.52:510][351]LogNet: Browse: /Game/Maps/Peaceful
+[2020.01.01-13.32.52:510][351]LogLoad: LoadMap: /Game/Maps/Peaceful
+[2020.01.01-13.32.52:510][351]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Menu
+[2020.01.01-13.32.52:511][351]LogWorld: UWorld::CleanupWorld for Menu, bSessionEnded=true, bCleanupResources=true
+[2020.01.01-13.32.52:589][351]LogUObjectHash: Compacting FUObjectHashTables data took   7.37ms
+[2020.01.01-13.32.52:927][351]LogAIModule: Creating AISystem for world Peaceful
+[2020.01.01-13.32.52:927][351]LogLoad: Game class is 'CustomGM_C'
+[2020.01.01-13.32.53:692][351]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Peaceful.Peaceful up for play (max tick rate 60) at 2020.01.01-16.32.53
+[2020.01.01-13.32.53:698][351]LogWorld: Bringing up level for play took: 0.771052
+[2020.01.01-13.32.53:702][351]LogLoad: Took 1.192536 seconds to LoadMap(/Game/Maps/Peaceful)
+[2020.01.01-13.32.53:986][353]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.01.01-13.33.00:670][506]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.01.01-13.33.02:122][543]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.01.01-13.33.03:671][580]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.01.01-13.33.05:081][611]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.01.01-13.33.05:439][620]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.01.01-13.33.05:601][624]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.01.01-13.33.05:830][630]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.01.01-13.33.25:490][ 39]LogScript: Warning: Script Msg: Attempted to set an invalid index on array Inventory [8/7]!
+[2020.01.01-13.33.28:793][111]LogScript: Warning: Script Msg: Attempted to set an invalid index on array Inventory [8/7]!
+[2020.01.01-13.33.30:606][148]LogScript: Warning: Script Msg: Attempted to set an invalid index on array Inventory [8/7]!
+[2020.01.01-13.33.33:180][201]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.01.01-13.33.36:202][277]LogNet: Browse: /Game/Maps/Hell
+[2020.01.01-13.33.36:202][277]LogLoad: LoadMap: /Game/Maps/Hell
+[2020.01.01-13.33.36:202][277]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Peaceful
+[2020.01.01-13.33.36:206][277]LogWorld: UWorld::CleanupWorld for Peaceful, bSessionEnded=true, bCleanupResources=true
+[2020.01.01-13.33.36:320][277]LogUObjectHash: Compacting FUObjectHashTables data took   2.15ms
+[2020.01.01-13.33.39:971][277]LogAIModule: Creating AISystem for world Hell
+[2020.01.01-13.33.39:972][277]LogLoad: Game class is 'CustomGM_C'
+[2020.01.01-13.33.43:344][277]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Hell.Hell up for play (max tick rate 60) at 2020.01.01-16.33.43
+[2020.01.01-13.33.43:444][277]LogWorld: Bringing up level for play took: 3.471484
+[2020.01.01-13.33.43:451][277]LogLoad: Took 7.248555 seconds to LoadMap(/Game/Maps/Hell)
+[2020.01.01-13.33.44:227][278]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Menu.Menu:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Menu.Menu:PersistentLevel.Menu' with GeneratedClass '/Game/Maps/Menu.Menu_C' with ClassGeneratedBy '/Game/Maps/Menu.Menu:PersistentLevel.Menu'
+[2020.01.01-13.33.44:228][278]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.01-13.33.44:228][278]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Hell
+[2020.01.01-13.33.44:305][278]LogSlate: Window 'JustDoIt Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2020.01.01-13.33.44:705][278]LogWorld: UWorld::CleanupWorld for Hell, bSessionEnded=true, bCleanupResources=true
+[2020.01.01-13.33.45:058][278]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.01.01-13.33.45:059][278]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Menu.Menu:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Menu.Menu:PersistentLevel.Menu' with GeneratedClass '/Game/Maps/Menu.Menu_C' with ClassGeneratedBy '/Game/Maps/Menu.Menu:PersistentLevel.Menu'
+[2020.01.01-13.33.45:688][278]LogUObjectHash: Compacting FUObjectHashTables data took  88.10ms
+[2020.01.01-13.33.45:864][279]LogPlayLevel: Display: Destroying online subsystem :Context_92
+[2020.01.01-13.33.53:112][662]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Inventory/UI/InventoryWindow" FILE="../../../../../../Study/Labs/7 semester/CGA/JustDoIt/Content/Inventory/UI/InventoryWindow.uasset" SILENT=true
+[2020.01.01-13.33.53:173][662]LogSavePackage: Moving '../../../../../../Study/Labs/7 semester/CGA/JustDoIt/Saved/InventoryWindow8DDD962542979C55E482CDA22B82B510.tmp' to '../../../../../../Study/Labs/7 semester/CGA/JustDoIt/Content/Inventory/UI/InventoryWindow.uasset'
+[2020.01.01-13.34.03:987][296]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Inventory/UI/InventorySlot" FILE="../../../../../../Study/Labs/7 semester/CGA/JustDoIt/Content/Inventory/UI/InventorySlot.uasset" SILENT=true
+[2020.01.01-13.34.04:250][296]LogSavePackage: Moving '../../../../../../Study/Labs/7 semester/CGA/JustDoIt/Saved/InventorySlot8215A2A848DBA32F77FC1CB1A80BBD32.tmp' to '../../../../../../Study/Labs/7 semester/CGA/JustDoIt/Content/Inventory/UI/InventorySlot.uasset'
+[2020.01.01-13.34.41:324][352]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2020.01.01-13.34.41:324][352]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2020.01.01-13.34.42:728][427]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Inventory/UI/InventorySlot" FILE="../../../../../../Study/Labs/7 semester/CGA/JustDoIt/Content/Inventory/UI/InventorySlot.uasset" SILENT=true
+[2020.01.01-13.34.42:939][427]LogSavePackage: Moving '../../../../../../Study/Labs/7 semester/CGA/JustDoIt/Saved/InventorySlot7F8D44B540D76074CB5755BE3D8E808D.tmp' to '../../../../../../Study/Labs/7 semester/CGA/JustDoIt/Content/Inventory/UI/InventorySlot.uasset'
+[2020.01.01-13.38.22:789][342]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Inventory/UI/CraftWidget" FILE="../../../../../../Study/Labs/7 semester/CGA/JustDoIt/Content/Inventory/UI/CraftWidget.uasset" SILENT=true
+[2020.01.01-13.38.22:885][342]LogSavePackage: Moving '../../../../../../Study/Labs/7 semester/CGA/JustDoIt/Saved/CraftWidget0DE1768A40181D62A549A28D3739A85B.tmp' to '../../../../../../Study/Labs/7 semester/CGA/JustDoIt/Content/Inventory/UI/CraftWidget.uasset'
+[2020.01.01-13.38.29:461][731]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Inventory/UI/CraftWidget" FILE="../../../../../../Study/Labs/7 semester/CGA/JustDoIt/Content/Inventory/UI/CraftWidget.uasset" SILENT=true
+[2020.01.01-13.38.29:501][731]LogSavePackage: Moving '../../../../../../Study/Labs/7 semester/CGA/JustDoIt/Saved/CraftWidget62ECEF3C4216AE4B5E535CB46747DF66.tmp' to '../../../../../../Study/Labs/7 semester/CGA/JustDoIt/Content/Inventory/UI/CraftWidget.uasset'
+[2020.01.01-13.38.34:133][998]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Inventory/UI/CraftWidget" FILE="../../../../../../Study/Labs/7 semester/CGA/JustDoIt/Content/Inventory/UI/CraftWidget.uasset" SILENT=true
+[2020.01.01-13.38.34:268][998]LogSavePackage: Moving '../../../../../../Study/Labs/7 semester/CGA/JustDoIt/Saved/CraftWidgetBDDAB6024664CFDBA646FC806E63CDF4.tmp' to '../../../../../../Study/Labs/7 semester/CGA/JustDoIt/Content/Inventory/UI/CraftWidget.uasset'
+[2020.01.01-13.38.39:069][279]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Inventory/UI/CraftWidget" FILE="../../../../../../Study/Labs/7 semester/CGA/JustDoIt/Content/Inventory/UI/CraftWidget.uasset" SILENT=true
+[2020.01.01-13.38.39:109][279]LogSavePackage: Moving '../../../../../../Study/Labs/7 semester/CGA/JustDoIt/Saved/CraftWidgetDB5F25AE4A4962E60AF7A4AE6772ABC9.tmp' to '../../../../../../Study/Labs/7 semester/CGA/JustDoIt/Content/Inventory/UI/CraftWidget.uasset'
+[2020.01.01-13.38.39:559][305]BlueprintLog: New page: Compile CraftWidget
+[2020.01.01-13.38.40:192][305]LogUObjectHash: Compacting FUObjectHashTables data took   9.00ms
+[2020.01.01-13.38.41:266][346]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2020.01.01-13.38.41:384][346]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Menu.Menu:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Menu.Menu:PersistentLevel.Menu' with GeneratedClass '/Game/Maps/Menu.Menu_C' with ClassGeneratedBy '/Game/Maps/Menu.Menu:PersistentLevel.Menu'
+[2020.01.01-13.38.41:384][346]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.01.01-13.38.41:384][346]PIE: New page: PIE session: Menu (1 янв. 2020 г., 19:38:41)
+[2020.01.01-13.38.41:384][346]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Menu
+[2020.01.01-13.38.41:386][346]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002223s)
+[2020.01.01-13.38.41:405][346]LogAIModule: Creating AISystem for world Menu
+[2020.01.01-13.38.41:405][346]LogPlayLevel: PIE: World Init took: (0.018025s)
+[2020.01.01-13.38.41:405][346]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Menu.Menu to /Game/Maps/UEDPIE_0_Menu.Menu (0.020503s)
+[2020.01.01-13.38.41:492][346]LogUObjectHash: Compacting FUObjectHashTables data took  10.73ms
+[2020.01.01-13.38.41:496][346]LogInit: XAudio2 using 'Динамики (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.01.01-13.38.41:625][346]LogInit: FAudioDevice initialized.
+[2020.01.01-13.38.41:636][346]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.01-13.38.41:636][346]LogLoad: Game class is 'CustomGM_C'
+[2020.01.01-13.38.41:638][346]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Menu.Menu up for play (max tick rate 60) at 2020.01.01-16.38.41
+[2020.01.01-13.38.41:638][346]LogWorld: Bringing up level for play took: 0.000970
+[2020.01.01-13.38.41:639][346]LogOnline: OSS: Creating online subsystem instance for: :Context_93
+[2020.01.01-13.38.41:641][346]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2020.01.01-13.38.41:653][346]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Menu -0,067
+[2020.01.01-13.38.41:654][346]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Menu.Menu:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Menu.Menu:PersistentLevel.Menu' with GeneratedClass '/Game/Maps/Menu.Menu_C' with ClassGeneratedBy '/Game/Maps/Menu.Menu:PersistentLevel.Menu'
+[2020.01.01-13.38.42:905][391]LogNet: Browse: /Game/Maps/Peaceful
+[2020.01.01-13.38.42:905][391]LogLoad: LoadMap: /Game/Maps/Peaceful
+[2020.01.01-13.38.42:906][391]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Menu
+[2020.01.01-13.38.42:906][391]LogWorld: UWorld::CleanupWorld for Menu, bSessionEnded=true, bCleanupResources=true
+[2020.01.01-13.38.43:173][391]LogUObjectHash: Compacting FUObjectHashTables data took   7.89ms
+[2020.01.01-13.38.43:572][391]LogAIModule: Creating AISystem for world Peaceful
+[2020.01.01-13.38.43:572][391]LogLoad: Game class is 'CustomGM_C'
+[2020.01.01-13.38.44:532][391]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Peaceful.Peaceful up for play (max tick rate 60) at 2020.01.01-16.38.44
+[2020.01.01-13.38.44:540][391]LogWorld: Bringing up level for play took: 0.967097
+[2020.01.01-13.38.44:545][391]LogLoad: Took 1.640698 seconds to LoadMap(/Game/Maps/Peaceful)
+[2020.01.01-13.38.44:869][393]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.01.01-13.38.50:981][545]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.01.01-13.38.52:463][589]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Menu.Menu:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Menu.Menu:PersistentLevel.Menu' with GeneratedClass '/Game/Maps/Menu.Menu_C' with ClassGeneratedBy '/Game/Maps/Menu.Menu:PersistentLevel.Menu'
+[2020.01.01-13.38.52:464][589]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.01-13.38.52:464][589]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Peaceful
+[2020.01.01-13.38.52:506][589]LogSlate: Window 'JustDoIt Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2020.01.01-13.38.52:514][589]LogWorld: UWorld::CleanupWorld for Peaceful, bSessionEnded=true, bCleanupResources=true
+[2020.01.01-13.38.52:551][589]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.01.01-13.38.52:551][589]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Menu.Menu:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Menu.Menu:PersistentLevel.Menu' with GeneratedClass '/Game/Maps/Menu.Menu_C' with ClassGeneratedBy '/Game/Maps/Menu.Menu:PersistentLevel.Menu'
+[2020.01.01-13.38.52:699][589]LogUObjectHash: Compacting FUObjectHashTables data took   7.54ms
+[2020.01.01-13.38.52:715][590]LogPlayLevel: Display: Destroying online subsystem :Context_93
+[2020.01.01-13.39.20:958][265]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Inventory/UI/InventoryWindow" FILE="../../../../../../Study/Labs/7 semester/CGA/JustDoIt/Content/Inventory/UI/InventoryWindow.uasset" SILENT=true
+[2020.01.01-13.39.21:147][265]LogSavePackage: Moving '../../../../../../Study/Labs/7 semester/CGA/JustDoIt/Saved/InventoryWindow488601AE46486AA61D320B996AD07A3A.tmp' to '../../../../../../Study/Labs/7 semester/CGA/JustDoIt/Content/Inventory/UI/InventoryWindow.uasset'
+[2020.01.01-13.39.21:587][290]BlueprintLog: New page: Compile InventoryWindow
+[2020.01.01-13.39.22:131][290]LogUObjectHash: Compacting FUObjectHashTables data took   9.23ms
+[2020.01.01-13.39.22:632][312]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2020.01.01-13.39.22:714][312]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Menu.Menu:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Menu.Menu:PersistentLevel.Menu' with GeneratedClass '/Game/Maps/Menu.Menu_C' with ClassGeneratedBy '/Game/Maps/Menu.Menu:PersistentLevel.Menu'
+[2020.01.01-13.39.22:715][312]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.01.01-13.39.22:715][312]PIE: New page: PIE session: Menu (1 янв. 2020 г., 19:39:22)
+[2020.01.01-13.39.22:869][312]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Menu
+[2020.01.01-13.39.22:870][312]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001797s)
+[2020.01.01-13.39.22:872][312]LogAIModule: Creating AISystem for world Menu
+[2020.01.01-13.39.22:872][312]LogPlayLevel: PIE: World Init took: (0.001519s)
+[2020.01.01-13.39.22:872][312]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Menu.Menu to /Game/Maps/UEDPIE_0_Menu.Menu (0.003554s)
+[2020.01.01-13.39.22:963][312]LogUObjectHash: Compacting FUObjectHashTables data took  10.71ms
+[2020.01.01-13.39.22:970][312]LogInit: XAudio2 using 'Динамики (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.01.01-13.39.23:079][312]LogInit: FAudioDevice initialized.
+[2020.01.01-13.39.23:089][312]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.01-13.39.23:089][312]LogLoad: Game class is 'CustomGM_C'
+[2020.01.01-13.39.23:090][312]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Menu.Menu up for play (max tick rate 60) at 2020.01.01-16.39.23
+[2020.01.01-13.39.23:091][312]LogWorld: Bringing up level for play took: 0.000819
+[2020.01.01-13.39.23:091][312]LogOnline: OSS: Creating online subsystem instance for: :Context_94
+[2020.01.01-13.39.23:094][312]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2020.01.01-13.39.23:105][312]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Menu 1,384
+[2020.01.01-13.39.23:105][312]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Menu.Menu:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Menu.Menu:PersistentLevel.Menu' with GeneratedClass '/Game/Maps/Menu.Menu_C' with ClassGeneratedBy '/Game/Maps/Menu.Menu:PersistentLevel.Menu'
+[2020.01.01-13.39.23:827][341]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.01.01-13.39.24:251][355]LogNet: Browse: /Game/Maps/Peaceful
+[2020.01.01-13.39.24:251][355]LogLoad: LoadMap: /Game/Maps/Peaceful
+[2020.01.01-13.39.24:251][355]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Menu
+[2020.01.01-13.39.24:252][355]LogWorld: UWorld::CleanupWorld for Menu, bSessionEnded=true, bCleanupResources=true
+[2020.01.01-13.39.24:335][355]LogUObjectHash: Compacting FUObjectHashTables data took   7.55ms
+[2020.01.01-13.39.24:663][355]LogAIModule: Creating AISystem for world Peaceful
+[2020.01.01-13.39.24:663][355]LogLoad: Game class is 'CustomGM_C'
+[2020.01.01-13.39.25:443][355]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Peaceful.Peaceful up for play (max tick rate 60) at 2020.01.01-16.39.25
+[2020.01.01-13.39.25:449][355]LogWorld: Bringing up level for play took: 0.785938
+[2020.01.01-13.39.25:453][355]LogLoad: Took 1.202508 seconds to LoadMap(/Game/Maps/Peaceful)
+[2020.01.01-13.39.25:726][357]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.01.01-13.39.28:444][424]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.01.01-13.39.42:521][776]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.01.01-13.39.43:312][799]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Menu.Menu:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Menu.Menu:PersistentLevel.Menu' with GeneratedClass '/Game/Maps/Menu.Menu_C' with ClassGeneratedBy '/Game/Maps/Menu.Menu:PersistentLevel.Menu'
+[2020.01.01-13.39.43:313][799]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.01-13.39.43:313][799]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Peaceful
+[2020.01.01-13.39.43:464][799]LogSlate: Window 'JustDoIt Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2020.01.01-13.39.43:474][799]LogWorld: UWorld::CleanupWorld for Peaceful, bSessionEnded=true, bCleanupResources=true
+[2020.01.01-13.39.43:515][799]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.01.01-13.39.43:516][799]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Menu.Menu:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Menu.Menu:PersistentLevel.Menu' with GeneratedClass '/Game/Maps/Menu.Menu_C' with ClassGeneratedBy '/Game/Maps/Menu.Menu:PersistentLevel.Menu'
+[2020.01.01-13.39.43:659][799]LogUObjectHash: Compacting FUObjectHashTables data took   7.86ms
+[2020.01.01-13.39.43:674][800]LogPlayLevel: Display: Destroying online subsystem :Context_94
+[2020.01.01-13.40.19:253][917]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Inventory/UI/CraftWidget" FILE="../../../../../../Study/Labs/7 semester/CGA/JustDoIt/Content/Inventory/UI/CraftWidget.uasset" SILENT=true
+[2020.01.01-13.40.19:294][917]LogSavePackage: Moving '../../../../../../Study/Labs/7 semester/CGA/JustDoIt/Saved/CraftWidget4E5087DD428D00062FC954B5B9666B12.tmp' to '../../../../../../Study/Labs/7 semester/CGA/JustDoIt/Content/Inventory/UI/CraftWidget.uasset'
+[2020.01.01-13.40.19:981][957]BlueprintLog: New page: Compile CraftWidget
+[2020.01.01-13.40.20:547][957]LogUObjectHash: Compacting FUObjectHashTables data took   8.65ms
+[2020.01.01-13.40.21:054][978]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2020.01.01-13.40.21:114][978]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Menu.Menu:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Menu.Menu:PersistentLevel.Menu' with GeneratedClass '/Game/Maps/Menu.Menu_C' with ClassGeneratedBy '/Game/Maps/Menu.Menu:PersistentLevel.Menu'
+[2020.01.01-13.40.21:115][978]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.01.01-13.40.21:115][978]PIE: New page: PIE session: Menu (1 янв. 2020 г., 19:40:21)
+[2020.01.01-13.40.21:229][978]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Menu
+[2020.01.01-13.40.21:231][978]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001857s)
+[2020.01.01-13.40.21:232][978]LogAIModule: Creating AISystem for world Menu
+[2020.01.01-13.40.21:232][978]LogPlayLevel: PIE: World Init took: (0.001561s)
+[2020.01.01-13.40.21:232][978]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Menu.Menu to /Game/Maps/UEDPIE_0_Menu.Menu (0.003617s)
+[2020.01.01-13.40.21:320][978]LogUObjectHash: Compacting FUObjectHashTables data took  10.18ms
+[2020.01.01-13.40.21:324][978]LogInit: XAudio2 using 'Динамики (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.01.01-13.40.21:434][978]LogInit: FAudioDevice initialized.
+[2020.01.01-13.40.21:443][978]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.01-13.40.21:443][978]LogLoad: Game class is 'CustomGM_C'
+[2020.01.01-13.40.21:445][978]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Menu.Menu up for play (max tick rate 60) at 2020.01.01-16.40.21
+[2020.01.01-13.40.21:446][978]LogWorld: Bringing up level for play took: 0.001015
+[2020.01.01-13.40.21:446][978]LogOnline: OSS: Creating online subsystem instance for: :Context_95
+[2020.01.01-13.40.21:449][978]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2020.01.01-13.40.21:460][978]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Menu -0,261
+[2020.01.01-13.40.21:460][978]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Menu.Menu:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Menu.Menu:PersistentLevel.Menu' with GeneratedClass '/Game/Maps/Menu.Menu_C' with ClassGeneratedBy '/Game/Maps/Menu.Menu:PersistentLevel.Menu'
+[2020.01.01-13.40.22:239][  6]LogNet: Browse: /Game/Maps/Peaceful
+[2020.01.01-13.40.22:239][  6]LogLoad: LoadMap: /Game/Maps/Peaceful
+[2020.01.01-13.40.22:239][  6]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Menu
+[2020.01.01-13.40.22:240][  6]LogWorld: UWorld::CleanupWorld for Menu, bSessionEnded=true, bCleanupResources=true
+[2020.01.01-13.40.22:322][  6]LogUObjectHash: Compacting FUObjectHashTables data took   7.21ms
+[2020.01.01-13.40.22:653][  6]LogAIModule: Creating AISystem for world Peaceful
+[2020.01.01-13.40.22:653][  6]LogLoad: Game class is 'CustomGM_C'
+[2020.01.01-13.40.23:439][  6]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Peaceful.Peaceful up for play (max tick rate 60) at 2020.01.01-16.40.23
+[2020.01.01-13.40.23:445][  6]LogWorld: Bringing up level for play took: 0.791537
+[2020.01.01-13.40.23:448][  6]LogLoad: Took 1.209373 seconds to LoadMap(/Game/Maps/Peaceful)
+[2020.01.01-13.40.23:716][  8]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.01.01-13.40.25:886][ 61]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.01.01-13.40.26:380][ 76]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Menu.Menu:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Menu.Menu:PersistentLevel.Menu' with GeneratedClass '/Game/Maps/Menu.Menu_C' with ClassGeneratedBy '/Game/Maps/Menu.Menu:PersistentLevel.Menu'
+[2020.01.01-13.40.26:381][ 76]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.01-13.40.26:381][ 76]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Peaceful
+[2020.01.01-13.40.26:421][ 76]LogSlate: Window 'JustDoIt Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2020.01.01-13.40.26:429][ 76]LogWorld: UWorld::CleanupWorld for Peaceful, bSessionEnded=true, bCleanupResources=true
+[2020.01.01-13.40.26:465][ 76]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.01.01-13.40.26:465][ 76]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Menu.Menu:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Menu.Menu:PersistentLevel.Menu' with GeneratedClass '/Game/Maps/Menu.Menu_C' with ClassGeneratedBy '/Game/Maps/Menu.Menu:PersistentLevel.Menu'
+[2020.01.01-13.40.26:682][ 76]LogUObjectHash: Compacting FUObjectHashTables data took   6.99ms
+[2020.01.01-13.40.26:696][ 77]LogPlayLevel: Display: Destroying online subsystem :Context_95
+[2020.01.01-13.40.39:879][858]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Inventory/UI/CraftWidget" FILE="../../../../../../Study/Labs/7 semester/CGA/JustDoIt/Content/Inventory/UI/CraftWidget.uasset" SILENT=true
+[2020.01.01-13.40.39:920][858]LogSavePackage: Moving '../../../../../../Study/Labs/7 semester/CGA/JustDoIt/Saved/CraftWidgetEA16F14F41930075882CBD8113EA5881.tmp' to '../../../../../../Study/Labs/7 semester/CGA/JustDoIt/Content/Inventory/UI/CraftWidget.uasset'
+[2020.01.01-13.40.41:092][927]BlueprintLog: New page: Compile CraftWidget
+[2020.01.01-13.40.41:639][927]LogUObjectHash: Compacting FUObjectHashTables data took   8.67ms
+[2020.01.01-13.40.42:369][956]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2020.01.01-13.40.42:431][956]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Menu.Menu:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Menu.Menu:PersistentLevel.Menu' with GeneratedClass '/Game/Maps/Menu.Menu_C' with ClassGeneratedBy '/Game/Maps/Menu.Menu:PersistentLevel.Menu'
+[2020.01.01-13.40.42:431][956]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.01.01-13.40.42:431][956]PIE: New page: PIE session: Menu (1 янв. 2020 г., 19:40:42)
+[2020.01.01-13.40.42:560][956]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Menu
+[2020.01.01-13.40.42:562][956]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001762s)
+[2020.01.01-13.40.42:563][956]LogAIModule: Creating AISystem for world Menu
+[2020.01.01-13.40.42:563][956]LogPlayLevel: PIE: World Init took: (0.001472s)
+[2020.01.01-13.40.42:563][956]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Menu.Menu to /Game/Maps/UEDPIE_0_Menu.Menu (0.003431s)
+[2020.01.01-13.40.42:650][956]LogUObjectHash: Compacting FUObjectHashTables data took  10.35ms
+[2020.01.01-13.40.42:654][956]LogInit: XAudio2 using 'Динамики (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.01.01-13.40.42:762][956]LogInit: FAudioDevice initialized.
+[2020.01.01-13.40.42:770][956]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.01-13.40.42:770][956]LogLoad: Game class is 'CustomGM_C'
+[2020.01.01-13.40.42:772][956]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Menu.Menu up for play (max tick rate 60) at 2020.01.01-16.40.42
+[2020.01.01-13.40.42:773][956]LogWorld: Bringing up level for play took: 0.000761
+[2020.01.01-13.40.42:773][956]LogOnline: OSS: Creating online subsystem instance for: :Context_96
+[2020.01.01-13.40.42:777][956]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2020.01.01-13.40.42:787][956]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Menu 1,066
+[2020.01.01-13.40.42:788][956]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Menu.Menu:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Menu.Menu:PersistentLevel.Menu' with GeneratedClass '/Game/Maps/Menu.Menu_C' with ClassGeneratedBy '/Game/Maps/Menu.Menu:PersistentLevel.Menu'
+[2020.01.01-13.40.43:837][992]LogNet: Browse: /Game/Maps/Peaceful
+[2020.01.01-13.40.43:837][992]LogLoad: LoadMap: /Game/Maps/Peaceful
+[2020.01.01-13.40.43:837][992]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Menu
+[2020.01.01-13.40.43:837][992]LogWorld: UWorld::CleanupWorld for Menu, bSessionEnded=true, bCleanupResources=true
+[2020.01.01-13.40.43:922][992]LogUObjectHash: Compacting FUObjectHashTables data took   7.23ms
+[2020.01.01-13.40.44:253][992]LogAIModule: Creating AISystem for world Peaceful
+[2020.01.01-13.40.44:254][992]LogLoad: Game class is 'CustomGM_C'
+[2020.01.01-13.40.45:032][992]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Peaceful.Peaceful up for play (max tick rate 60) at 2020.01.01-16.40.45
+[2020.01.01-13.40.45:038][992]LogWorld: Bringing up level for play took: 0.784134
+[2020.01.01-13.40.45:042][992]LogLoad: Took 1.205199 seconds to LoadMap(/Game/Maps/Peaceful)
+[2020.01.01-13.40.45:307][994]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.01.01-13.40.51:552][125]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.01.01-13.40.52:530][148]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Menu.Menu:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Menu.Menu:PersistentLevel.Menu' with GeneratedClass '/Game/Maps/Menu.Menu_C' with ClassGeneratedBy '/Game/Maps/Menu.Menu:PersistentLevel.Menu'
+[2020.01.01-13.40.52:531][148]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.01-13.40.52:531][148]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Peaceful
+[2020.01.01-13.40.52:576][148]LogSlate: Window 'JustDoIt Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2020.01.01-13.40.52:583][148]LogWorld: UWorld::CleanupWorld for Peaceful, bSessionEnded=true, bCleanupResources=true
+[2020.01.01-13.40.52:620][148]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.01.01-13.40.52:620][148]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Menu.Menu:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Menu.Menu:PersistentLevel.Menu' with GeneratedClass '/Game/Maps/Menu.Menu_C' with ClassGeneratedBy '/Game/Maps/Menu.Menu:PersistentLevel.Menu'
+[2020.01.01-13.40.52:804][148]LogUObjectHash: Compacting FUObjectHashTables data took   7.92ms
+[2020.01.01-13.40.52:837][149]LogPlayLevel: Display: Destroying online subsystem :Context_96
+[2020.01.01-13.40.59:075][505]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Inventory/UI/CraftWidget" FILE="../../../../../../Study/Labs/7 semester/CGA/JustDoIt/Content/Inventory/UI/CraftWidget.uasset" SILENT=true
+[2020.01.01-13.40.59:117][505]LogSavePackage: Moving '../../../../../../Study/Labs/7 semester/CGA/JustDoIt/Saved/CraftWidget0B932F1746C5A5DFA551BAB858DF4502.tmp' to '../../../../../../Study/Labs/7 semester/CGA/JustDoIt/Content/Inventory/UI/CraftWidget.uasset'
+[2020.01.01-13.40.59:484][526]BlueprintLog: New page: Compile CraftWidget
+[2020.01.01-13.41.00:045][526]LogUObjectHash: Compacting FUObjectHashTables data took  10.02ms
+[2020.01.01-13.41.00:777][565]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2020.01.01-13.41.00:837][565]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Menu.Menu:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Menu.Menu:PersistentLevel.Menu' with GeneratedClass '/Game/Maps/Menu.Menu_C' with ClassGeneratedBy '/Game/Maps/Menu.Menu:PersistentLevel.Menu'
+[2020.01.01-13.41.00:837][565]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.01.01-13.41.00:837][565]PIE: New page: PIE session: Menu (1 янв. 2020 г., 19:41:00)
+[2020.01.01-13.41.00:957][565]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Menu
+[2020.01.01-13.41.00:959][565]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002104s)
+[2020.01.01-13.41.00:960][565]LogAIModule: Creating AISystem for world Menu
+[2020.01.01-13.41.00:960][565]LogPlayLevel: PIE: World Init took: (0.001375s)
+[2020.01.01-13.41.00:960][565]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Menu.Menu to /Game/Maps/UEDPIE_0_Menu.Menu (0.003684s)
+[2020.01.01-13.41.01:056][565]LogUObjectHash: Compacting FUObjectHashTables data took  10.34ms
+[2020.01.01-13.41.01:060][565]LogInit: XAudio2 using 'Динамики (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.01.01-13.41.01:169][565]LogInit: FAudioDevice initialized.
+[2020.01.01-13.41.01:178][565]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.01-13.41.01:178][565]LogLoad: Game class is 'CustomGM_C'
+[2020.01.01-13.41.01:180][565]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Menu.Menu up for play (max tick rate 60) at 2020.01.01-16.41.01
+[2020.01.01-13.41.01:181][565]LogWorld: Bringing up level for play took: 0.001211
+[2020.01.01-13.41.01:181][565]LogOnline: OSS: Creating online subsystem instance for: :Context_97
+[2020.01.01-13.41.01:184][565]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2020.01.01-13.41.01:192][565]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Menu -0,529
+[2020.01.01-13.41.01:193][565]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Menu.Menu:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Menu.Menu:PersistentLevel.Menu' with GeneratedClass '/Game/Maps/Menu.Menu_C' with ClassGeneratedBy '/Game/Maps/Menu.Menu:PersistentLevel.Menu'
+[2020.01.01-13.41.01:996][595]LogNet: Browse: /Game/Maps/Peaceful
+[2020.01.01-13.41.01:996][595]LogLoad: LoadMap: /Game/Maps/Peaceful
+[2020.01.01-13.41.01:996][595]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Menu
+[2020.01.01-13.41.01:996][595]LogWorld: UWorld::CleanupWorld for Menu, bSessionEnded=true, bCleanupResources=true
+[2020.01.01-13.41.02:080][595]LogUObjectHash: Compacting FUObjectHashTables data took   7.34ms
+[2020.01.01-13.41.02:406][595]LogAIModule: Creating AISystem for world Peaceful
+[2020.01.01-13.41.02:406][595]LogLoad: Game class is 'CustomGM_C'
+[2020.01.01-13.41.03:193][595]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Peaceful.Peaceful up for play (max tick rate 60) at 2020.01.01-16.41.03
+[2020.01.01-13.41.03:199][595]LogWorld: Bringing up level for play took: 0.791435
+[2020.01.01-13.41.03:203][595]LogLoad: Took 1.206406 seconds to LoadMap(/Game/Maps/Peaceful)
+[2020.01.01-13.41.03:478][597]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.01.01-13.41.10:733][781]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.01.01-13.41.13:554][854]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.01.01-13.41.13:792][860]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.01.01-13.41.14:081][867]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.01.01-13.41.20:701][ 50]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.01.01-13.41.21:195][ 65]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Menu.Menu:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Menu.Menu:PersistentLevel.Menu' with GeneratedClass '/Game/Maps/Menu.Menu_C' with ClassGeneratedBy '/Game/Maps/Menu.Menu:PersistentLevel.Menu'
+[2020.01.01-13.41.21:196][ 65]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.01-13.41.21:196][ 65]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Peaceful
+[2020.01.01-13.41.21:235][ 65]LogSlate: Window 'JustDoIt Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2020.01.01-13.41.21:242][ 65]LogWorld: UWorld::CleanupWorld for Peaceful, bSessionEnded=true, bCleanupResources=true
+[2020.01.01-13.41.21:269][ 65]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.01.01-13.41.21:270][ 65]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Menu.Menu:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Menu.Menu:PersistentLevel.Menu' with GeneratedClass '/Game/Maps/Menu.Menu_C' with ClassGeneratedBy '/Game/Maps/Menu.Menu:PersistentLevel.Menu'
+[2020.01.01-13.41.21:416][ 65]LogUObjectHash: Compacting FUObjectHashTables data took  10.97ms
+[2020.01.01-13.41.21:437][ 66]LogPlayLevel: Display: Destroying online subsystem :Context_97
+[2020.01.01-13.41.22:219][110]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Inventory/UI/CraftWidget" FILE="../../../../../../Study/Labs/7 semester/CGA/JustDoIt/Content/Inventory/UI/CraftWidget.uasset" SILENT=true
+[2020.01.01-13.41.22:260][110]LogSavePackage: Moving '../../../../../../Study/Labs/7 semester/CGA/JustDoIt/Saved/CraftWidgetD75B93994CC253495E2C12ADB396A947.tmp' to '../../../../../../Study/Labs/7 semester/CGA/JustDoIt/Content/Inventory/UI/CraftWidget.uasset'
+[2020.01.01-13.41.26:460][360]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Inventory/UI/CraftWidget" FILE="../../../../../../Study/Labs/7 semester/CGA/JustDoIt/Content/Inventory/UI/CraftWidget.uasset" SILENT=true
+[2020.01.01-13.41.26:499][360]LogSavePackage: Moving '../../../../../../Study/Labs/7 semester/CGA/JustDoIt/Saved/CraftWidget39E5F5B44A348B31EC3AE381B8FF56A8.tmp' to '../../../../../../Study/Labs/7 semester/CGA/JustDoIt/Content/Inventory/UI/CraftWidget.uasset'
